@@ -24,13 +24,38 @@ possesion or experience of one of these, whenever an occasion would arise.
 
 τοῦ δὲ νῦν ἐν τῷ νῦν οὐκ ἔστι μνήμη͵ καθάπερ εἴρηται [καὶ πρότερον]͵ ἀλλὰ τοῦ μὲν παρόντος αἴσθησις͵ τοῦ δὲ μέλλοντος ἐλπίς͵ τοῦ δὲ γενομένου μνήμη· διὸ μετὰ χρόνου πᾶσα μνήμη. ὥσθ΄ ὅσα χρόνου αἰσθάνεται͵ ταῦτα μόνα τῶν ζῴων μνημονεύει͵ καὶ τούτῳ ᾧ αἰσθάνεται. 
 
-And of the present in the preset there is no memory, just as it is was said
-formerly, but of the present there is no perception, and of the future there
+And of the present in the preset there is no memory, just as it is was said formerly, but of the present there is no perception, and of the future there
 is hope, and of the that which has occured there is memory; because of which
 with time all memories occur with time. Therefore those who percieve time,
 these alone among animals remember, and by this which they perceive. 
 
-ἐπεὶ δὲ περὶ φαντασίας εἴρηται πρότερον ἐν τοῖς περὶ ψυχῆς͵ καὶ νοεῖν οὐκ ἔστιν ἄνευ φαντάσματος [450a] συμβαίνει γὰρ τὸ αὐτὸ πάθος ἐν τῷ νοεῖν ὅπερ καὶ ἐν τῷ διαγράφειν· ἐκεῖ τε γὰρ οὐθὲν προσχρώμενοι τῷ τὸ ποσὸν ὡρισμένον εἶναι τοῦ τριγώνου͵ ὅμως γράφομεν ὡρισμένον κατὰ τὸ ποσόν͵ καὶ ὁ νοῶν ὡσαύτως͵ κἂν μὴ ποσὸν νοῇ͵ τίθεται πρὸ ὀμμάτων ποσόν͵ νοεῖ δ΄ οὐχ ᾗ ποσόν· ἂν δ΄ ἡ φύσις ᾖ τῶν ποσῶν͵ ἀορίστων δέ͵ τίθεται μὲν ποσὸν ὡρισμένον͵ νοεῖ δ΄ ᾗ ποσὸν μόνονδιὰ τίνα μὲν οὖν αἰτίαν οὐκ ἐν δέχεται νοεῖν οὐδὲν ἄνευ συνεχοῦς͵ οὐδ΄ ἄνευ χρόνου τὰ μὴ ἐν χρόνῳ ὄντα͵ ἄλλος λόγος· μέγεθος δ΄ ἀναγκαῖον γνωρίζειν καὶ κίνησιν ᾧ καὶ χρόνον· [καὶ τὸ φάντασμα τῆς κοινῆς αἰσθήσεως πάθος ἐστίν] ὥστε φανερὸν ὅτι τῷ πρώτῳ αἰσθητικῷ τούτων ἡ γνῶσίς ἐστιν· ἡ δὲ μνήμη͵ καὶ ἡ τῶν νοητῶν͵ οὐκ ἄνευ φαντάσματός ἐστιν͵ καὶ τὸ φάντασμα τῆς κοινῆς αἰσθήσεως πάθος ἐστίν· ὥστε τοῦ νοῦ μὲν κατὰ συμβεβηκὸς ἂν εἴη͵ καθ΄ αὑτὸ δὲ τοῦ πρώτου αἰσθητικοῦ. 
+ἐπεὶ δὲ περὶ φαντασίας εἴρηται πρότερον ἐν τοῖς περὶ ψυχῆς͵ καὶ νοεῖν οὐκ ἔστιν ἄνευ φαντάσματος [450a] συμβαίνει γὰρ τὸ αὐτὸ πάθος ἐν τῷ νοεῖν ὅπερ καὶ ἐν τῷ διαγράφειν·
+
+Since concerning imagination was discussed formerly in the sections concerning a mind, and it is not possible to think apart from the imagination. For to same expirience comes about durring thinking which also [comes about] in while diagramming. 
+
+ ἐκεῖ τε γὰρ οὐθὲν προσχρώμενοι τῷ τὸ ποσὸν ὡρισμένον εἶναι τοῦ τριγώνου͵ ὅμως γράφομεν ὡρισμένον κατὰ τὸ ποσόν͵ καὶ ὁ νοῶν ὡσαύτως͵ κἂν μὴ ποσὸν νοῇ͵ τίθεται πρὸ ὀμμάτων ποσόν͵ νοεῖ δ΄ οὐχ ᾗ ποσόν·
+
+For also there not utilizing something that is a defined value of a triangle, yet we draw one defined acccording to value, also the mind likewise even if it would not conceive of a value, it places before the eyes a value, but it does not conceive by that which is value.
+
+ ἂν δ΄ ἡ φύσις ᾖ τῶν ποσῶν͵ ἀορίστων δέ͵ τίθεται μὲν ποσὸν ὡρισμένον͵ νοεῖ δ΄
+ᾗ ποσὸν μόνον. 
+
+And if its nature would belong to value, but an unseen value, a defined value is
+set up and it thinks about it by that which is merley a value.    
+
+διὰ τίνα μὲν οὖν αἰτίαν οὐκ ἐνδέχεται νοεῖν οὐδὲν ἄνευ συνεχοῦς͵
+οὐδ΄ ἄνευ χρόνου τὰ μὴ ἐν χρόνῳ ὄντα͵ ἄλλος λόγος· μέγεθος δ΄ ἀναγκαῖον
+γνωρίζειν καὶ κίνησιν ᾧ καὶ χρόνον·
+
+Through what cause however, it is not permitted to conceive of anything apart
+from spacial continuity nor apart from time that which exists in time is
+another discussion. 
+
+[καὶ τὸ φάντασμα τῆς κοινῆς αἰσθήσεως πάθος ἐστίν] ὥστε φανερὸν ὅτι τῷ πρώτῳ αἰσθητικῷ τούτων ἡ γνῶσίς ἐστιν·
+
+ ἡ δὲ μνήμη͵ καὶ ἡ τῶν νοητῶν͵ οὐκ ἄνευ φαντάσματός ἐστιν͵ καὶ τὸ φάντασμα τῆς κοινῆς αἰσθήσεως πάθος ἐστίν·
+
+ ὥστε τοῦ νοῦ μὲν κατὰ συμβεβηκὸς ἂν εἴη͵ καθ΄ αὑτὸ δὲ τοῦ πρώτου αἰσθητικοῦ. 
 
 διὸ καὶ ἑτέροις τισὶν ὑπάρχει τῶν ζῴων͵ καὶ οὐ μόνον ἀνθρώποις καὶ τοῖς ἔχουσι δόξαν ἢ φρόνησιν. 
 
