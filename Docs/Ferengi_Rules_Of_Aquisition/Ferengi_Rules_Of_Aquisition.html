@@ -13,5 +13,21 @@ function myFunction() {
   document.getElementById("demo").innerHTML = "Hello JavaScript!";
 }
 </script>
+
+<script>
+function loadFile(filePath) {
+  var result = null;
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.open("GET", filePath, false);
+  xmlhttp.send();
+  if (xmlhttp.status==200) {
+    result = xmlhttp.responseText;
+  }
+  return result;
+}
+
+var myStuff = loadFile("Ferengi_Rules_Of_Aquisition/Rules_Of_Aquisition_Injection_Text.txt");
+alert(myStuff);
+</script>
   </body>
 </html>
