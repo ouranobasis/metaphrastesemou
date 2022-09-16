@@ -23,8 +23,6 @@ function loadFile(filePath) {
 }
 
 var myStuff = loadFile("Rules_Of_Aquisition_Injection_Text.txt");
-alert(myStuff);
-
 var myArray = myStuff.split("#")
 myArray.forEach(listIt);
 function listIt(item){
@@ -32,7 +30,6 @@ function listIt(item){
 	elemDiv.innerHTML = item;
 	document.body.appendChild(elemDiv);
 }
-	document.getElementById("demo").innerHTML = myStuff;
 </script>
   </body>
 </html>
