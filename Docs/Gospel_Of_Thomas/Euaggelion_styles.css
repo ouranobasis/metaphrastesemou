@@ -2,3 +2,7 @@
     color: brown;
     text-align: center;
 }
+
+#sayings_container {
+    margin: 5%;
+}
