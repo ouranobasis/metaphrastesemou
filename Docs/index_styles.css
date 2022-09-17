@@ -3,11 +3,10 @@ a {
     cursor: pointer;
     color: black;
     font-size: 2em;
-    margin: 10em, 10em;
 }
 
 #list_container {
-    margin: 0 4em;
+    margin: 0em 4em;
 }
 
 ul {
@@ -15,7 +14,7 @@ ul {
 }
 
 li  {
-    margin: 4em, 10em;
+    margin: 40px 0px
 }
 
 #title {
