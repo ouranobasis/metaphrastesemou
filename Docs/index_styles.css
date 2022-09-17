@@ -1,8 +1,12 @@
 a {
     text-decoration: none;
     cursor: pointer;
-    color: brown;
-    font-size: 3em;
+    color: black;
+    font-size: 2em;
+}
+
+#list_container {
+    margin: 0 3em;
 }
 
 ul {
@@ -10,7 +14,7 @@ ul {
 }
 
 #title {
-    color: brown;
+    color: black;
     text-align: center;
     font-size: 4em;
 }
