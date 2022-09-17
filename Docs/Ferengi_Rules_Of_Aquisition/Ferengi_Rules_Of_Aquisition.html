@@ -25,8 +25,15 @@
 
       var myStuff = loadFile("Rules_Of_Aquisition_Injection_Text.txt");
       var myArray = myStuff.split("#")
+      var myCleanedArray = [];
 
-      myArray.forEach(listIt);
+      myArray.forEach(element => {
+         if (element !== "") {
+         myCleanedArray.push(element);
+         }
+      });
+
+      myCleanedArray.forEach(listIt);
 
       function listIt(item){
         var ul = document.getElementById("sayings");
