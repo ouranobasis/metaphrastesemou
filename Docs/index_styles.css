@@ -3,6 +3,7 @@ a {
     cursor: pointer;
     color: black;
     font-size: 2em;
+    margin: 1em;
 }
 
 #list_container {
