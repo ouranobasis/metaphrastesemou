@@ -3,15 +3,19 @@ a {
     cursor: pointer;
     color: black;
     font-size: 2em;
-    margin: 1em;
+    margin: ;
 }
 
 #list_container {
-    margin: 4em 1em;
+    margin: 0 4em;
 }
 
 ul {
     list-style-type: none;
+}
+
+li  {
+    margin: 3em, o;
 }
 
 #title {
