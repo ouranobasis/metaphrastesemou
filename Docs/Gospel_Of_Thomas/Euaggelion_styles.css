@@ -1,3 +1,9 @@
+@font-face {
+    font-family: "coptic-regular";
+    src: url('../Coptic-Regular.ttf');
+    src: url('../Coptic-Regular.ttf') format('truetype')       
+  }
+
 #title {
     color: brown;
     text-align: center;
@@ -20,6 +26,7 @@ ul {
 
 .stoixon{
     font-size: 20px;
+    font-family: "coptic-regular", 'Times New Roman', Times, serif;
 }
 
 a {
