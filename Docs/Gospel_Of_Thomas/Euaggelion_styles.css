@@ -11,7 +11,7 @@
 }
 
 #sayings_container {
-    margin: 1% 20%;
+    margin: 1em 8em;
 }
 
 ul {
@@ -19,7 +19,7 @@ ul {
 }
 
 #jesus {
-    width: 20%;
+    width: 15em;
     display: block;
     margin-left: auto;
     margin-right: auto;
