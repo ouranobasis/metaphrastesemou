@@ -24,9 +24,18 @@ ul {
     margin-right: auto;
 }
 
-.stoixon{
+.stoixonOne{
     font-size: 20px;
     font-family: 'copticregular', Times, serif;
+    font-size: large;
+}
+
+.stoixonTwo{
+    font-size: 20px;
+    font-family: Times, serif;
+    color: brown;
+    font-size: x-large;
+    font-weight: 200;
 }
 
 a {
