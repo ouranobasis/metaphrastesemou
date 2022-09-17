@@ -17,3 +17,18 @@ a {
     cursor: pointer;
     color: brown;
 }
+
+.stoixonOne{
+    font-family: 'copticregular', Times, serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+.stoixonTwo{
+    font-family: Times, serif;
+    color: brown;
+    font-size: x-large;
+    font-weight: 200;
+    margin: 1%;
+    font-style: italic;
+}

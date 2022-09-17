@@ -6,7 +6,8 @@
   </head>
   <body>
       <a href="../index.html">Main Menu</a>
-      <H1 id="title">ΦΕΡΕΓΓΙ ΚΑΝΟΝΕΣ</H1>	
+      <H1 id="title">οἱ κάνονες τοὺ κτήσεως παρὰ Φερέγγι</H1>	
+      <H1 id="title">Ferengi Rules of aquisition</H1>	
       <div id="sayings_container">	
         <ul id="sayings"></ul>
       </div>
@@ -36,11 +37,20 @@
       myCleanedArray.forEach(listIt);
 
       function listIt(item){
-        var ul = document.getElementById("sayings");
-        var li = document.createElement('li');
-        li.classList.add("stoixon");
-        li.innerHTML = item;
-        ul.appendChild(li);
+         var full_stoixon = item.split("$");         
+         var ul = document.getElementById("sayings");
+
+         var li_one = document.createElement('li');
+         var li_two = document.createElement('li');
+
+         li_one.classList.add("stoixonOne");
+         li_two.classList.add("stoixonTwo");
+
+         li_one.innerHTML = full_stoixon[0];
+         li_two.innerHTML = full_stoixon[1];
+         
+         ul.appendChild(li_one);
+         ul.appendChild(li_two)
       }
     </script>
   </body>
