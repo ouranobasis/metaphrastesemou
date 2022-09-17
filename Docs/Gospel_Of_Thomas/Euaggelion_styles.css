@@ -5,11 +5,14 @@
 }
 
 #sayings_container {
-    margin: 10%;
+    margin: 1% 10%;
+}
+ul {
+    list-style-type: none;
 }
 
 #jesus {
-    width: 10%;
+    width: 20%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -18,7 +21,6 @@
 .stoixon{
     font-size: 20px;
 }
-
 
 a {
     text-decoration: none;
