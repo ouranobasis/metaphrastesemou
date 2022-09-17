@@ -6,6 +6,8 @@
 
 #sayings_container {
     margin: 10%;
+    display: block;
+    margin-left: auto;
 }
 
 #jesus {
