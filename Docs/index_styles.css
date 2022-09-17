@@ -2,5 +2,15 @@ a {
     text-decoration: none;
     cursor: pointer;
     color: brown;
+    font-size: 3em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#title {
+    color: brown;
+    text-align: center;
     font-size: 4em;
 }
