@@ -12,7 +12,7 @@
 }
 
 #sayings_container {
-    margin: 1em 8em;
+    margin: .5em 8em;
 }
 
 ul {
@@ -30,7 +30,6 @@ a {
 }
 
 #quark {
-
     width: 15em;
     display: block;
     margin-left: auto;
