@@ -1,7 +1,7 @@
 @font-face {
     font-family: "coptic-regular";
-    src: url('../Coptic-Regular.ttf');
-    src: url('../Coptic-Regular.ttf') format('truetype')       
+    src: url('Coptic-Regular.ttf');
+    src: url('Coptic-Regular.ttf') format('truetype')       
   }
 
 #title {
