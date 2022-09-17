@@ -25,8 +25,15 @@
 
       var myStuff = loadFile("Euaggelion_Injection_Text.txt");
       var myArray = myStuff.split("#")
+      var myCleanedArray = [];
 
-      myArray.forEach(listIt);
+      myArray.forEach(element => {
+         if (element !== null) {
+         myCleanedArray.push(element);
+         }
+      });
+
+      myCleanedArray.forEach(listIt);
 
       function listIt(item){
         var ul = document.getElementById("sayings");
