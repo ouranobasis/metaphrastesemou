@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "coptic-regular";
-    src: url('Coptic-Regular.ttf');
+    font-family: "copticregular";
+    /* src: url('Coptic-Regular.ttf'); */
     src: url('Coptic-Regular.ttf') format('truetype')       
   }
 
@@ -26,7 +26,7 @@ ul {
 
 .stoixon{
     font-size: 20px;
-    font-family: "coptic-regular", 'Times New Roman', Times, serif;
+    font-family: 'copticregular', Times, serif;
 }
 
 a {
