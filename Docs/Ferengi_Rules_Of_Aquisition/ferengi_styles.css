@@ -29,6 +29,13 @@ a {
     color: brown;
 }
 
+#quark {
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .stoixonOne{
     font-family: 'copticregular', Times, serif;
     font-size: large;
