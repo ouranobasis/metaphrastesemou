@@ -1,13 +1,13 @@
 #1. Once you have their money, never give it back.
 $ὄταν τα χρήματα τινος ἁρπάζῃ, μὴ ἀπόδος.
 #2. You can’t cheat an honest customer, but it never hurts to try.
-$πίστος ὠνητὴς δολίειν οὐ δύνατον, άλλὰ ἀλγος οὐ εἴσεισι τῳ ἐπιχείροντῳ.
+$πίστος ὠνητὴς δολίειν οὐ δύνατον, άλλὰ ἄλγος οὐ εἴσεισι τῷ ἐπιχείροντῳ.
 #3. Never spend more for an acquisition than you have to.
 $οὐδαμῶς ἁλλίσκεσθε προσότερον δεινάριον ἐπὶ κτήμασι ἢ ἀνάγνκη.
 #4. Sex and profit are the two things that never last long enough.
 $ἀφροδίσια καὶ κέρδος εἰσί τὰ δύο οὔποτε περιμείνοντα ἴκανως/επιτηδείως.
 #5. If you can’t break a contract, bend it.
-$εἲ συμβόλαιον κατάργειν ουκ ἐξἐστιν, παραστρέφετε
+$εἲ συμβόλαιον κατάργειν ουκ ἐξέστιν, παραστρέφετε
 #6. Never let family stand in the way of opportunity.
 $οὐδαμῶς ἔα τὰ οἰκεία χωλύειν ἀφορμὸν.
 #7. Always keep you ears open.
