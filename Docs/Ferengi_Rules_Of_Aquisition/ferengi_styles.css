@@ -29,16 +29,18 @@ a {
     color: brown;
 }
 
-#image_container{
+.orbs{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 50%;    
+}
+
+#quark {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 15em;
-}
-
-#quark {
-    
-
     border: 2px solid black;
     border-radius: 50%;
 }
