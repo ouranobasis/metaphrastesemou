@@ -4,8 +4,19 @@
     font-size: 4em;
 }
 
+#english_title {
+    text-align: center;
+    font-style: italic;
+    text-align: center;
+    font-size: 3em;
+}
+
 #sayings_container {
-    margin: 10%;
+    margin: 1% 20%;
+}
+
+ul {
+    list-style-type: none;
 }
 
 .stoixon{
