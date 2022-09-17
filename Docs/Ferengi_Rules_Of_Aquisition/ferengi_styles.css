@@ -29,11 +29,16 @@ a {
     color: brown;
 }
 
-#quark {
-    width: 15em;
+#image_container{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 15em;
+}
+
+#quark {
+    
+
     border: 2px solid black;
     border-radius: 50%;
 }
