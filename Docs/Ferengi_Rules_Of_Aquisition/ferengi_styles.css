@@ -33,13 +33,28 @@ a {
     color: brown;
 }
 
-#quark {
-    width: 15em;
+#quark_container{
+    position: relative;
+    height: 26em;
+}
+
+#quark_outline{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 16em;
+    height: 26em;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    position: absolute;
     border: 2px solid black;
-    border-radius: 50%;
+    border-radius: 50%;  
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+#quark {
+    width: 15em; 
 }
 
 .stoixonOne{
