@@ -1,5 +1,5 @@
 #1. Once you have their money, never give it back.
-$ὄταν τα χρήματα τινὸς ἁρπάζῃ, μὴ ἀπόδος.
+$ὄταν τα χρήματά τινος ἁρπάζῃ, μὴ ἀπόδος.
 #2. You can’t cheat an honest customer, but it never hurts to try.
 $πίστος ὠνητὴς δολίειν οὐ δύνατον, άλλὰ ἄλγος οὐ εἴσεισι τῷ ἐπιχείροντῳ.
 #3. Never spend more for an acquisition than you have to.
@@ -13,7 +13,7 @@ $οὐδαμῶς ἔα τὰ οἰκεία χωλύειν ἀφορμὸν.
 #7. Always keep you ears open.
 $ἀδιαλείπτως ἀνοίγε τὰ ὦτα
 #8. Keep count of your change.
-$λογίζετε πάντας κοδράντους
+$ἀναλογίζετε πάντας κοδράντους
 #9. Instinct plus opportunity equals profit.
 $τέχνεια ἔμφυτη εὐκαιρίᾳ προσέται, ἐξέργεται κέρδος  
 #10. A dead customer can’t buy as much as a live one.
@@ -33,35 +33,35 @@ $Συμβόλαιον δίκαιον μέχρι το μείζονα διατίθ
 #17. A bargain usually isn’t.
 $ἐυτελὴς τις ὠς επἰ πολὺ οὐκ ἔστιν.
 #18. A Ferengi without profit is no Ferengi at all.
-$Φερεγγι χώρις κερδοὺ οὐδαμῶς Φερεγγι ἔστιν.
+$Φερέγγι χώρις κέρδου οὐδαμῶς Φερέγγι ἐστὶν.
 #19. Don’t lie too soon after a promotion.
-$μὴ ἐυθέως έξαπατῆτε μετὰ το προκοπὴν  
+$μὴ ἐυθέως έξαπατῆτε μετὰ τὴν προκοπὴν  
 #20. When the customer is sweating, turn up the heat.
-$πότε ὁ ὠνητὴς ἰδόμενος, θερμὀν αυξανετε.
+$ὁπότε ὁ ὠνητὴς ἰδόμενος, θερμὀν αὐξάνετε.
 #21. Never place friendship before profit.
-$φιλητης προ κερδου ουκ καταστησει
+$ὁ φιλέταιρος πρὸ κέρδου ουκ καταστῆστε
 #22. Wise men can hear profit in the wind.
-$ἄνδρες σόφοι ἀκόυσουσι κερδὸν ἔν τᾤ ἄνεμῳ.
+$ἄνδρες σόφοι ἀκόυσουσι κέρδον ἔν τῷ ἄνεμῳ.
 #23. Never take the last coin, but be sure to get the rest.
-$οὐδαμῶς δεχεσθε κοδραντιν εσχατον, αλλα μελετει λοοιπον
+$οὐδαμῶς δέχεσθε κοδράντιν ἐσχατον, αλλα μέλετει λοιπῶν
 #24. Never ask when you can take.
-$επειδη αρπαζειν δυνασαι, οὐδαμῶς αιτῃ
+$έπειδὴ ἀρπάζειν δύνασαι, οὔποτε αἰτῇ
 #25. Fear makes a good business partner.
-$φοβος κατεργαζεται τον μετοχον πρεπωδη
+$φόβος ποιεῖ πρεπώδη μέτοχον
 #26. The vast majority of the rich in this galaxy did not inherit their wealth; they stole it.
-$ο πλεων πληθος κατα την αυτην θαλασσα αστερων ου εκληρονομησαν θησαυρον αυτου; αλλα η ηρπασαν.
+$ο πλεων πληθος κατα αὐτὴν τὴν θάλασσα ἀστέρων οὐ ἐκληρονόμησαν θησαῦρον αὐτοῦ; ἀλλὰ αὐτὴν ἤρπασαν.
 #27. The most beautiful thing about a tree is what you do with it after you cut it down.'
-$το καλλιστον περι δενδρου εστιν ο τι γενησεται παρα της τεχνης ξυλοτομου.
+$το κάλλιστον περὶ δένδρου ἐστὶν ὁ τι γενήσεται παρἀ τῆς τέχνης τοῦ ξυλοτόμου.
 #28. Morality is always defined by those in power.
-$εἰκᾔ αρχοντες κατα αιωνες ἀφορίζουσιν οιον οσιον 
+$ἡ δικαιοσύνη κατὰ τοὺς αἰῶνας παρελάμβανε τὸν ὀρισμὸν ἀπὸ τῶν ἀρχόντων. 
 #29. When someone says “It’s not the money,” they’re lying.
-$επειδαν τις επῃ οτι "χρηματα ου μελετει μοι", εξεπατοῦσιν σε. 
+$ἐπειδάν τις εἶπῃ οτι "χρήματα οὐ μοι μέλετει", σε εξεπατοῦσιν. 
 #30. Talk is cheap; synthehol costs money.
-$ὃ τοῦ κόλακος λόγος εὐτελὴς, αἵ πόσεις μεμιμημέναι τας μἐθας πολυτελἠς ἐστιν.
+$ὃ τοῦ κόλακος λόγος εὐτελὴς, αἱ πόσεις τῆς ψευδόμεθης πολυτελής ἐστιν.
 #31. Never make fun of a Ferengi’s mother.
-$μήποτε μητρα φερεγγου ἐμπαίδετε.
+$μήποτε τὴν μήτρα φερέγγου σκώπτετε.
 #32. Be careful what you sell. It may do exactly what the customer expects.
-$$ευ σκοπτει ο τι πωλετε. οσα ο πριαμενος διισχυριζει αυτον κατηργεσθαι, ταυτα ουτως γενησει
+$$ευ σκόπτει ὀ τι πωλεῖτε. ὅντινα ο πριαμενος διϊσχυρίζεται αὐτὸν κατήργεσθαι, ταῦτα οὕτως γίγνοιτο.
 #33. It never hurts to suck up to the boss.
 $αει το κολακευειν τον ἐπίουρον πρεπωδης 
 #34. War is good for business.
