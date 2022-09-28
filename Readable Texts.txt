@@ -19,7 +19,7 @@ Xenophon Apology               20
 17. Hermetica                     100
 7. Plato Phaedo                   60
 19. Lucian the Ass                60
-20. Lucian True Story             60
+20. Lucian True Story             600
 
 
 
