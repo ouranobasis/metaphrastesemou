@@ -93,21 +93,21 @@ $στρατοδεια του πονου μεστα εστιν ανθρωπων �
 #47. Never trust a man wearing a better suit than you own.
 $οὐδαμῶς πειθεσθε ἀνθρωπῳ ενδυόμενῳ χιτωνα πολυτελης
 #48. The bigger the smile, the sharper the knife.
-$ως το μειδίαμα μακροτερον, ουτως οξυτερον ξιφίδιον
+$τὸ μεγαλύτερον μειδίαμα, τὸ ὀξύτερον ξιφίδιον
 #49. Old age and greed will always overcome youth and talent.
-$το γῆρας και κερδος αει νικησαν τῆν ἡλικίαν καὶ ἡ δύναμις
+$τὸ γῆρας και ἡ ἀπληστία ἀεὶ νικήσουσιν τὴν ἡλικίαν καὶ τὴν τέχνην.
 #50. Never bluff a Klingon.
-$μήποτε Κλιγγώνα ταρρασει (translate: compete in bravery)/ ἐξαπατᾷ.
+$μήποτε ἐξηπάτησον κλίγγων διὰ τοῦ θάρσειν.
 #51. Never admit a mistake if there’s someone else to blame.
-$μήποτε ὁμολογεῖ τα ἁμαρτία σου εαν εξεστιν αλλον ψέγειν.
+$μήποτε ὁμολογεῖ τὰ ἁμαρτία σου ἐαν ἔξεστιν ἄλλον ψέγειν.
 #52. Only Bugsy could have built Las Vegas.
-$Μόνον ὁ λήστης καλουμένος Βουξι εἴεν ἰκανός κατοικίζειν τᾶς λαζβέγεις.
+$Μόνον ὁ λήστης καλουμένος Βουξι εἴεν ἰκανός κατοικίζειν τὴν πόλιν καλουμένην λαζβέξις.
 #53. Sell first; ask questions later.
-$πρότον πώλε ὔστερον ἐρώτετε.
+$πρότον μὲν πώλησον ὔστερον δὲ ἐρώτετε.
 #54. Never buy anything you can’t sell.
-$μήποτε ἀγοράζετε ὄντινα οὐ οἴος τε πώλειν
+$μήποτε ἀγοράζετε ὄντινα οὐ οἶά τὲ πωληθῆναι
 #55. Always sell at the highest possible profit.
-$πάντοτε πώλε εν τῳ ακρότατῳ κερδῳ
+$πάντοτε πώλετε ἐπὶ τοῦ ακροτάτου κέρδου.
 #56. Pursue profit; women come later.
 $ἐπιτηδεύε ἐν κερδῳ, τάς γυναίκας ὔστερον.
 #57. Good customers are almost as rare as Latinum – treasure them.
@@ -123,7 +123,7 @@ $οὐδέποτε ὤνησαι οἶά τὲ κλέπτεσθαι.
 #62. The riskier the road, the greater the profit.
 $ἡ δεινότερα ὄδος πορίζει κέρδον μεγαλύτερον.
 #63. Power without profit is like a ship without an engine.
-$δύναμισ χωρίς κέρδον οἵμοια πλοίῳ χωρὶς κινητῆτος.
+$δύναμις χωρίς κέρδον οἵμοια πλοίῳ χωρὶς κινητῆτος.
 #64. Don't talk shop, talk shopping.
 $μὴ λάλεσον πέρι τῆς ἀγορᾶς, λάλεσον ἐν ἀγορῇ.
 #65. Don't talk ship, talk shipping.
@@ -141,7 +141,7 @@ $πρότερον ἅρπασον τὰ χρήματα ἐπείτα ἐάσατ
 #71. Gamble and trade have two things in common: risk and latinum.
 $τὸ κυβεύειν καὶ τὸ ἐμπορεύεσθαι ἀμφότερον μετέχει τοῦ κινδύνου καὶ τοῦ λατινίου.
 #72. Never let the competition know what you're thinking
-$οὐδέποτε ἐπιτρέπετε τοὺς ἀγωιστάς εἰδέναι οὐς ἐνθυμείσθε.
+$οὐδέποτε ἐπιτρέπετε τοὺς ἀγωνιστάς ἁ ἐνθυμείσθε εἰδέναι.
 #73. Never trust advice from a dying Ferengi, listen but don't trust.
 $οὐδαμῶς πιστεύσατε τῇ βουλῇ ἀποθνῄσκοντος. ἀκούσατε ἀλλὰ μὴ πιστεύσατε τούτῳ.
 #74. A Ferengi without profit is no Ferengi at all.
@@ -153,30 +153,40 @@ $ἄλλοτε καὶ ἄλλοτε κήρύξον σπονδὴν. ἐκπλή
 #77. Go where no ferengi has gone before; where there is no reputation there is profit.
 $πόρευσαι ὄποι οὐτ πρὶν φερέγγι ἥκει, ὄπου ἡ Φήμη οὐχ ἥκει, ἐκεὶ κέρδος πάρεστιν.
 #78. Don't discriminate. The most unlikely species can create the best customers.
-$μὴ διάκρινον. τὸ ἀπροσδοκήτατος γένος ὁ ἄριστος ὠνητὴς οἶός τὲ γεννᾶν.
+$μὴ διάκρινον. τὸ ἀπροσδοκήτατον γένος ὁ ἄριστος ὠνητὴς οἶός τὲ γεννᾶν.
 #79. Benefit from the Vulcan greed for knowledge.
 $συνενέγκατε διὰ τοῦ τοῦς βουλκάνους πλεονεκτεῖν τῆς ἐπιστήκης.
 #80. If it works, sell it. If it works well, sell it for more. If it dosen't work, quadruple the price and sell it as an antique.
-$εἰ εργάζεται, πωλεῖτε. εἰ καλῶς ἐργάζεται, έπὶ πλείον πωλείτε. εἰ οὐκ ἐργάζεται, δὶς διπλασιάζετε ὠνὴν καὶ πωλεῖτε ὡς παλαίον σκεύος ὄν.
+$εἰ ἐργάζεται, πωλεῖτε. εἰ καλῶς ἐργάζεται, έπὶ πλείον πωλείτε. εἰ οὐκ ἐργάζεται, δὶς διπλασιάζετε ὠνὴν καὶ πωλεῖτε ὡς παλαίον σκεύος ὄν.
 #81. There is nothing more dangerous than an honest businessman.
-$οὐδὲν ἄλλο τι οὔτως κινύνον οἶον τῷ πίστῳ καπήλῳ.
+$οὐ δὴ ἄλλος τις τόσος κινδύνος ὅσος ὁ πίστος καπήλος.
 #82. A customer is not a good customer.
 $φρόνιμος ὠνητὴς οὐκ κερδαλέος ὠνητής ἐστιν.
 #83. Revenge is profitless.
-$τὸ ἀντιτμωρεῖσθαι οὐκ ἔχει κερδός. 
+$τὸ ἀντιτιμωρεῖσθαι οὐκ ἔχει κερδός. 
 #84. She can touch your ears but never your Latinum.
 $ἀυτὴ δύναται τὰ ὦτα καταψήχειν, ἀλλὰ οὐδέποτε τὰ λατίνονα.
 #85. Death takes no bribes.
 $οὐ λαμβάνει χάριν τὸ ἀποθνῄσκειν.
 #86. A wife is a luxury; a smart accountant, a necessity.
-$ἡ μὲν γύνη τρυφὴ, ὁ δὲ γραμματεὺς ἀναγκαίον.
+$ἡ μὲν γύνη τρυφὴ, ὁ δὲ γραμματεὺς ἀναγκαίος.
 #87. Trust is the biggest liability.
 $ἡ πίστις μέγιστη κυβεία.
 #88. When the boss comes to dinner, it never hurts to have the wife wear something.
-$ὁπότε ὁ προστάτης φοιτᾷ ἐπὶ τῳ δείπνῳ, ἡ αἰσχύνη οὐ πίπτει ἐπὶ ἐσθημένης γυναικὸς.
+$ὁπότε ὁ προστάτης φοιτᾷ ἐπὶ τῷ δείπνῳ, ἡ αἰσχύνη οὐ πίπτει ἐπὶ ἐσθημένης γυναικὸς.
 #89. Latinum lasts longer than lust.
-$λάτινων μακροτερον ἀνέχει ἢ τοῦ ἰμέρου.
+$λάτινων μακρότερον ἀνέχει ἢ τοῦ ἰμέρου.
 #90. Mine is better than ours.
 $τὸ ἐμὸς μείζων ἢ τοῦ ἡμέτερου.
 #91. He how drinks fasts pays slow.
-$ὅστις ταχέως πίνει, βράδεως ἀποδίδησι.
+$ὅστις ταχέως πίνει, βράδεως ἀποδίδωσι.
+#92. Never confuse wisdom with luck.
+$οὐδαμῶς τυχῇ συγχεῖτε σοφίαν 
+#93. He’s a fool who makes his doctor his heir.
+$βλάξ ὅστις ἰατρὸν καθίστησι τὸν κληρονόμον
+#94. Beware of small expenses: a small leak will kill a ship.
+$φυλάσσεσθε δαπανήματα μίκρα, χύσις μίκρα τον νέων διαφθερεῖ. 
+#95. Important, more impotant, Latinum.
+$τὰ μὲν ἄξια πολλοῦ, ἀλλὰ τὸ ἄξιο πλείονος λάτινων.
+#96. Faith moves mountains – of inventory.
+$πίστις μεταβάλλει τὰ ὄρη – ἀπογραφῶν.
