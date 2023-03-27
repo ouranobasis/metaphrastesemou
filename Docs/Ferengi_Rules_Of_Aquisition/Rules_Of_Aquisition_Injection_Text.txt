@@ -181,12 +181,38 @@ $τὸ ἐμὸς μείζων ἢ τοῦ ἡμέτερου.
 #91. He how drinks fasts pays slow.
 $ὅστις ταχέως πίνει, βράδεως ἀποδίδωσι.
 #92. Never confuse wisdom with luck.
-$οὐδαμῶς τυχῇ συγχεῖτε σοφίαν 
+$οὐδαμῶς τυχῇ συγχεῖτε σοφίαν .
 #93. He’s a fool who makes his doctor his heir.
-$βλάξ ὅστις ἰατρὸν καθίστησι τὸν κληρονόμον
+$βλάξ ὅστις ἰατρὸν καθίστησι τὸν κληρονόμον.
 #94. Beware of small expenses: a small leak will kill a ship.
 $φυλάσσεσθε δαπανήματα μίκρα, χύσις μίκρα τον νέων διαφθερεῖ. 
 #95. Important, more impotant, Latinum.
 $τὰ μὲν ἄξια πολλοῦ, ἀλλὰ τὸ ἄξιο πλείονος λάτινων.
 #96. Faith moves mountains – of inventory.
-$πίστις μεταβάλλει τὰ ὄρη – ἀπογραφῶν.
+$πίστις μεταβάλλει τὰ ὄρη – ἐμπορευμάτων.
+#97. Someon's always got bigger ears.
+$ἄλλος τις άεὶ ὤτα μαγαλύτερα ἔχει.
+#98. Every man has his price.
+$πὰς ὁ ἄνθρωπος ἔχει τὴν τίμην.
+#99. learn the customers weaknesses so that you can better take advantage of him.
+$μάθετε τὴν ἀσθένειναν τῶν ὠνήτων σου, ἴνα ἐπὶ πλείον ἀπολαύσητε.
+#100. when buisness matter hang in the balance, tell the truth.
+#ὅποτε χρημάτικα πράγματα κεῖται ἐπὶ τῷ σταθμῷ, εἰπὲ τὴν ἀλήθειαν.
+#101. profit trumps emotion.
+$τὸ κέρδος νικεῖ τὰ σπλάγχνα.
+#102. Nature decays, but Latinum lasts forever.
+$φύσις σήπεται ἀλλὰ λατινὼν διαγίγνεται διαμπερὲς.
+#103. Sleep can interfere with opportunity.
+$το καθεύδειν οἷόν τὲ ἐναντιοῦσθαι τὴν εὐδαιμονίαν.
+#104. Money is never made. It is merely won or lost.
+$οὔποτε τὰ χρήματα κτίζεται. οἱ ἄνθρωποι ἀπλῶς αὐτῶν κρατοῦσιν.
+#105. Wise men don’t lie, they just bend the truth.
+$οἱ σόφοι οὐ ψεύδονται, ἀπλῶς τὴν ἀληθὴν κάμπτουσιν.
+#106. There is no honor in poverty.
+$οὐκ ἔστι τιμὴ ἐν τῷ πενίᾳ.
+#107. Win or lose, there’s always Huyperian Beetle Snuff.
+$νικοῦντος καὶ ἡσσωμένου κόνις τοῦ κανθάρου καλουμένου ὑπεριάνικο ἔσται.
+#108. A woman wearing clothes is like a man without profit.
+$ἡ γυνὴ φερουμένη ἐσθήματα ὀμοῖη ἀνδρὶ ἄνευ κέρδου. 
+#109. Dignity and an empty sack is worth the sack.
+$σεμνότης μετὰ σάκκου κενοῦ ἀξίη ἀτεχνῶς ἐστι τοῦ σάκκου.
