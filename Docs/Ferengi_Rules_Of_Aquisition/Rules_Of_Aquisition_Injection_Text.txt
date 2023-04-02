@@ -31,7 +31,7 @@ $τὸ προσποιήσθαι ἀσυνετόν ἐστιν ὡς επὶ πο
 #16. A deal is a deal … until a better one comes along.
 $Συμβόλαιον δίκαιον μέχρι το μείζονα διατίθεσθαι
 #17. A bargain usually isn’t.
-$ἐυτελὴς τις ὠς επἰ πολὺ οὐκ ἔστιν.
+$ἐυτελὴς ὡς επἰ πολὺ οὐκ ἔστιν
 #18. A Ferengi without profit is no Ferengi at all.
 $Φερέγγι χώρις κέρδου οὐδαμῶς Φερέγγι ἐστὶν.
 #19. Don’t lie too soon after a promotion.
@@ -61,7 +61,7 @@ $ὃ τοῦ κόλακος λόγος εὐτελὴς, αἱ πόσεις τ�
 #31. Never make fun of a Ferengi’s mother.
 $μήποτε τὴν μήτρα φερέγγου σκώπτετε.
 #32. Be careful what you sell. It may do exactly what the customer expects.
-$$ευ σκόπτει ὀ τι πωλεῖτε. ὅντινα ο πριαμενος διϊσχυρίζεται αὐτὸν κατήργεσθαι, ταῦτα οὕτως γίγνοιτο.
+$εὐ σκόπτει ὀ τι πωλεῖτε. ὅντινα ὁ πριάμενος διϊσχυρίζεται κατήργεσθαι, ταῦτα ἀποβαίνῃ.
 #33. It never hurts to suck up to the boss.
 $αει το κολακευειν τον ἐπίουρον πρεπωδης 
 #34. War is good for business.
@@ -197,7 +197,7 @@ $πὰς ὁ ἄνθρωπος ἔχει τὴν τίμην.
 #99. learn the customers weaknesses so that you can better take advantage of him.
 $μάθετε τὴν ἀσθένειναν τῶν ὠνήτων σου, ἴνα ἐπὶ πλείον ἀπολαύσητε.
 #100. when buisness matter hang in the balance, tell the truth.
-#ὅποτε χρημάτικα πράγματα κεῖται ἐπὶ τῷ σταθμῷ, εἰπὲ τὴν ἀλήθειαν.
+$ὅποτε χρημάτικα πράγματα κεῖται ἐπὶ τῷ σταθμῷ, εἰπὲ τὴν ἀλήθειαν.
 #101. profit trumps emotion.
 $τὸ κέρδος νικεῖ τὰ σπλάγχνα.
 #102. Nature decays, but Latinum lasts forever.
@@ -216,3 +216,27 @@ $νικοῦντος καὶ ἡσσωμένου κόνις τοῦ κανθάρ
 $ἡ γυνὴ φερουμένη ἐσθήματα ὀμοῖη ἀνδρὶ ἄνευ κέρδου. 
 #109. Dignity and an empty sack is worth the sack.
 $σεμνότης μετὰ σάκκου κενοῦ ἀξίη ἀτεχνῶς ἐστι τοῦ σάκκου.
+#110. Only a fool passes up a business opportunity.
+$μόνον ἠλίθιος παρορᾷ ἀφορμὴ χρηματίκου πράγματος 
+#111. Treat people in your debt like family … exploit them.
+$ὁμιλεῖτε τοῖς ὀφειλέταις καθώσπερ τῇ οἰκίᾳ σου· ἀπολαύσατε αὐτῶν.
+#112. Never sleep with the boss’s wife unless you pay him first.
+$οὐδέποτε μίξατε τῇ γυναικὶ τοῦ προστάτου σου, εἰ μὴ πρότερον μίσθον ὐποτιθῆτε.
+#113. Never sleep with the boss’s sister.
+$οὐδέποτε μίξατε τῇ ἀδελφῇ τοῦ προστάτου.
+#114. Small print leads to large risk.
+$μίκρα γράμματα ἀποβαίνει μέγαν κίνδυνον
+#115. Greed is eternal.
+$ἀΐδιός ἐστιν ἡ πλεονεξία
+#116. There’s always a way out.
+$ἀεὶ ἔξοδος ὐπάρχει
+#117. If the profit seems too good to be true, it usually is.
+$εἰ ὁ κέρδος φαίνεται οὔτως μέγας ὡς ούκ ἀληθὴς εἴναι, ὡς επἰ πολὺ οὐκ ἔστιν
+#118. Never cheat a honest man offering a decent price.
+$οὐδέποτε ἀπολαύετε πίστον ἄνθρωπον ὐποτιθέντα τίμην ἴκανην.
+#119. Buy, sell, or get out of the way.
+$ὠνήσασθε, πωλήσατε, ἤ εκχωρήσατε
+#120. Even a blind man can recognize the glow of Latinum.
+$καὶ γιγνώσκει τύφλος τὴν αὐγὴν τοῦ λατινώνος
+#121. Everything is for sale, even friendship.
+$πάντα δύναται πωλεῖσθαι, καὶ δὴ ἡ φιλία
