@@ -240,3 +240,29 @@ $ὠνήσασθε, πωλήσατε, ἤ εκχωρήσατε
 $καὶ γιγνώσκει τύφλος τὴν αὐγὴν τοῦ λατινώνος
 #121. Everything is for sale, even friendship.
 $πάντα δύναται πωλεῖσθαι, καὶ δὴ ἡ φιλία
+#122. As the customers go, so goes the wise profiteer.
+$ὡς τῶν ὠνητῶν ἀποχωρόντων, οὔτως καὶ ὁ ἐρευνῶν κέρδον.
+#123. A friend is only a friend until you sell him something. Then he is a customer.
+$τις ἐστι φίλος σου μέχρις τὸ πωλεῖν τινα αὐτῷ... ἔπειτα ὠνητής ἐστιν.
+#124. Friendship is temporary, profit is forever.
+$ἡ μὲν φιλία ὀλιγοχρόνιος, τὸ δὲ κέρδος ἀΐδιόν ἐστιν.
+#125. A lie isn’t a lie until someone else knows the truth.
+$οὺκ ἔστι ψεῦδος μέχρις ποτε τὴν ἀληθείαν οἶδε τις.
+#126. A lie isn’t a lie, it’s just the truth seen from a different point of view.
+$τὰ ψεῦδη οὺκ εἰσιν. ἁπλῶς τὴν ἀληθείαν σκοπομένην ἀπὸ ἄλλης σκοπιῆς.
+#127. Gratitude can bring on generosity.
+$ἡ εὐχαριστία ἀναφέρει ἑλευθεριότην.
+#128. Ferengi are not responsible for the stupidity of other races.
+$οἱ Φερεγγι οὐ ἔνοχοι τῇ ἠλιθιότᾳ τῶν ἄλλων γένων.
+#129. Never trust your customers.
+$οὐδέποτε πιστεύετε τοὺς ὠνητὰς ὑμῶν.
+#130. Never trust a beneficiary.
+$οὐδέποτε πιστεύετε κληρονόμον.
+#131. If it gets you profit, sell your own mother.
+$εἰ ἀπεργάζεται κέρδος, πωλεῖτε αὐτὴν τὴν μητέρα σου.
+#132. The flimsier the produce, the higher the price.
+$τὸ φαυλότερον τὸ τέχνημα, τὴν ὐψηλότεραν τὴν τίμην 
+#133. Never judge a customer by the size of his wallet … sometimes good things come in small packages.
+$οὐδέποτε κρίνετε ὠνητὴν τῷ μεγέθῳ τῆς πήρης αὐτοῦ..... ἐνιότε τὰ καλὰ πράγματα ἔρχεται ἐν μίκροις σχήμασι.
+#134. There’s always a catch.
+$ἀεὶ ὐπάρχει νόμος ἐναντίον ἔχει.
