@@ -266,3 +266,13 @@ $τὸ φαυλότερον τὸ τέχνημα, τὴν ὐψηλότεραν 
 $οὐδέποτε κρίνετε ὠνητὴν τῷ μεγέθῳ τῆς πήρης αὐτοῦ..... ἐνιότε τὰ καλὰ πράγματα ἔρχεται ἐν μίκροις σχήμασι.
 #134. There’s always a catch.
 $ἀεὶ ὐπάρχει νόμος ἐναντίον ἔχει.
+#135. The only value of a collectible is what you can get somebody else to pay for it.
+$τῶν ἐξαιρέτων ἡ μόνη τίμη ἐστιν ὁ μίσθος ὁν ὁ ὠνητὴς προσφέρει.
+#136. The sharp knife cuts quickly. Act without delay!
+$ἡ ὄξυς μαχαίρα εὐθέως κόπτει. ποιεῖτε παραυτίκα!
+#137. Necessity is the mother of invention. Profit is the father.
+$ἡ μὲν ἀνάγκη ἐστὶ ἡ μήτηρ τοῖς ἀνεύρεσιν, τὸ δὲ κέρδος ὁ πάτηρ.
+#138. Law makes everyone equal, but justice goes to the highest bidder.
+$ὁ μὲν νόμος τοῦς πάντας ποιεῖ ἴσους, ἡ δὲ δίκη τῷ πλούτῳ ὠνητῇ ἐστὶν.
+#139. Wives serve; brother inherit.
+$αἱ μὲν γυναῖκες ὑπηρετοῦσιν, οἱ δὲ ἀδελφοὶ κληρονομοῦσιν.
