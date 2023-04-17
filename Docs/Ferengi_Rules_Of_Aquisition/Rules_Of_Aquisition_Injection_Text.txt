@@ -276,3 +276,31 @@ $ἡ μὲν ἀνάγκη ἐστὶ ἡ μήτηρ τοῖς ἀνεύρεσι
 $ὁ μὲν νόμος τοῦς πάντας ποιεῖ ἴσους, ἡ δὲ δίκη τῷ πλούτῳ ὠνητῇ ἐστὶν.
 #139. Wives serve; brother inherit.
 $αἱ μὲν γυναῖκες ὑπηρετοῦσιν, οἱ δὲ ἀδελφοὶ κληρονομοῦσιν.
+#140. The answer to quick and easy profit is: buy for less, sell for more.
+$ἡ ὁδὸς φέρει πρὸς τὸ τάχυ καὶ κέρδος ἐστὶ τὸ ὠνεῖσθαι ὀλίγου ἔνεκα καὶ πωλεῖν πολλοῦ ἔνεκα. 
+#141. Competition and fair play are mutually exclusive. Fair play and financial loss go hand-in-hand.
+$ἡ φιλονεικία καὶ ἡ δικαιοσύνη ἀφιστᾶσιν. ἡ δικαιοσύνη καὶ ἡ ἀπώλεια χρημάτων ὁμοῦ πορεύονται.
+#142. A Ferengi waits to bid until his opponents have exhausted themselves.
+$ὁ Φερέγγι ἐπιμένει μέχρις οὗ οἱ ἀντίπαλοι ἐξαντλήσωσιν αὑτούς πρὸ τοῦ προσφέρειν.
+#143. The family of Fools is ancient.
+$ἡ τῶν ἀφρόνων οἰκία παλαιά ἐστιν.
+#144. There’s nothing wrong with charity … as long as it winds up in your pocket.
+$οὐδὲν κακὸν ἐν τῷ ἐλεημοσύνῃ … ὅσον ἂν πίπτῃ εἰς τὴν πήραν ὑμῶν
+#145. Always ask for the costs first.
+$πάντοτε πρῶτον τὰ ἀναλώματα ζητεῖν.
+#146. If possible sell neither the sizzle nor the steak, but the Elphasian wheat germ.
+$ἂν δυνατόν, μήτε τὴν ἔμπρησιv μήτε τὸν κρέας πωλεῖτε, ἀλλὰ τὸν σῖτον τὸν Ἐλφασια
+#147. New customers are like razor toothed gree worms. They can be succulent, but sometimes they bite back.
+$οἱ νέοι ὠνηταὶ ὅμοιοί εἰσι τοῖς σκώληξι ἔχουσι ὀδόντας ὀξεῖς. σάρκινοι μέν ἐισιν ἀλλὰ δὲ ἐνιότε δάκνουσιν.
+#148. Opportunity waits for no one.
+$οὐ μένει οὐδένα ἡ ἐυκαιρία
+#149. Females and finances don’t mix.
+$Γυναῖκες καὶ χρήματα οὐ συναντῶσιν.
+#150. Make your shop easy to find.
+$τὸ πωλητήριον σου εὔρετον ποίησον.
+#151. Sometimes, what you get free costs entirely too much.
+$ἑνιότε, τὰ λαβόμενα δωρεὰν ἐδέχθησαν ἐπὶ ὑπερπόλλῳ.
+#152. Ask not what your profits can do for you; ask what you can do for your profits.
+$Μὴ ἐρωτᾶτε πῶς τὰ κέρδη ὠφελήσει σε, ἀλλὰ πως σὺ δύνασαι ὠφελήσετε τὰ κέρδη.
+#153. You can’t free a fish from water.
+$ἰχθῦς ἐκ τοῦ ὕδατος ἐλευθερῶσαι οὐ δύναται.
