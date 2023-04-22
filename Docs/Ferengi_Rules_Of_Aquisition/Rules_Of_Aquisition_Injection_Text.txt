@@ -139,7 +139,7 @@ $ὠνήσασθαι δύναιο πλοῖον χώρις τῆς ἡγαμον
 #70. Get the money first, then let the buyers worry about collecting the merchandise.
 $πρότερον ἅρπασον τὰ χρήματα ἐπείτα ἐάσατε χαίρειν τὰς ὠνητὰς μηχανώμενας πως συλλαμβάνοιεν τὰ ἀγοράσματα
 #71. Gamble and trade have two things in common: risk and latinum.
-$τὸ κυβεύειν καὶ τὸ ἐμπορεύεσθαι ἀμφότερον μετέχει τοῦ κινδύνου καὶ τοῦ λατινίου.
+$τὸ κυβεύειν καὶ τὸ ἐμπορεύεσθαι ἀμφότερον μετέχει τοῦ κινδύνου καὶ τοῦ λατινῶνος.
 #72. Never let the competition know what you're thinking
 $οὐδέποτε ἐπιτρέπετε τοὺς ἀγωνιστάς ἁ ἐνθυμείσθε εἰδέναι.
 #73. Never trust advice from a dying Ferengi, listen but don't trust.
@@ -147,7 +147,7 @@ $οὐδαμῶς πιστεύσατε τῇ βουλῇ ἀποθνῄσκον�
 #74. A Ferengi without profit is no Ferengi at all.
 $φερέγγι χῶρις τοῦ κέρδου, φερέγγι οὐκ ἔστιν.
 #75. Home is where the heart is but the stars are made of latinum.
-$ἡ οἰκία καθέστηκε που ἡ καρδία ἐστὶν ἀλλὰ οἱ ἄστρονες συνίστασι τοῦ λατινίου.
+$ἡ οἰκία καθέστηκε που ἡ καρδία ἐστὶν ἀλλὰ οἱ ἄστρονες συνίστασι τοῦ λατινῶνος.
 #76. Every once in a while, declare peace. It confuses the hell out of your enemies.
 $ἄλλοτε καὶ ἄλλοτε κήρύξον σπονδὴν. ἐκπλήσσσει τὴν βεβαιότητα τῶν ἐχθρῶν ὑμῶν.
 #77. Go where no ferengi has gone before; where there is no reputation there is profit.
@@ -237,7 +237,7 @@ $οὐδέποτε ἀπολαύετε πίστον ἄνθρωπον ὐποτ�
 #119. Buy, sell, or get out of the way.
 $ὠνήσασθε, πωλήσατε, ἤ εκχωρήσατε
 #120. Even a blind man can recognize the glow of Latinum.
-$καὶ γιγνώσκει τύφλος τὴν αὐγὴν τοῦ λατινώνος
+$καὶ γιγνώσκει τύφλος τὴν αὐγὴν τοῦ λατινῶνος
 #121. Everything is for sale, even friendship.
 $πάντα δύναται πωλεῖσθαι, καὶ δὴ ἡ φιλία
 #122. As the customers go, so goes the wise profiteer.
@@ -304,3 +304,29 @@ $ἑνιότε, τὰ λαβόμενα δωρεὰν ἐδέχθησαν ἐπ�
 $Μὴ ἐρωτᾶτε πῶς τὰ κέρδη ὠφελήσει σε, ἀλλὰ πως σὺ δύνασαι ὠφελήσετε τὰ κέρδη.
 #153. You can’t free a fish from water.
 $ἰχθῦς ἐκ τοῦ ὕδατος ἐλευθερῶσαι οὐ δύναται.
+#154. The difference between manure and Latinum is commerece.
+$κόπρος διαφέρει τοῦ Λατινῶνος διὰ τὴν ἐμπορίαν.
+#155. What’s mine is mine, and what’s yours is mine too.
+$ταῦτα ἐμοί εἰσιν ἐμὰ, καὶ δὴ καὶ ταῦτα ἐσοί.
+#156. Even in the worst of times someone turns a profit.
+$καὶ τῶν χειρίστῶν καίρῶν ἀκμάζει τὸ κέρδος τινός.
+#157. You are surrounded by opportunities; you just have to know where to look.
+$περικυκλοῦσί σε εὐκαιρία, ἀτεχνῶς προσέχετε.
+#158. Don’t pay until you have the goods.
+$μὴ πληρώσῃς πρὶν ἂν ἔχῃς τὰ ἐμπορεύματα.
+#159. The customer is always right … until you have their cash.
+$ἀεὶ ἔχει ὀρθῶς ὁ ὠνήτης... .ἕως τὰ ἀργύρια αὐτοῦ ἕξεις.
+#160. Respect is good, Latinum is better.
+$ἡ αἰδὼς ἀγαθὴ, τὸ λατινῶν κρείττον.
+#161. Never kill a customer, unless you make more profit out of his death than out of his life.
+$μήποτε τὸν ὠνήτην ἀποκτείνῃς, ἐὰν μὴ ὁ θάνατος ἐπὶ πλέον ὠφελήσῃς ἢ τῆς ζωῆς.
+#162. His money is only your’s when he can’t get it back.
+$τὰ ἀργύριά τινος σά ἐστιν, ὅταν μὴ δυνῆται ἀντιλαμβάνεσθαι.
+#163. A thirsty customer is good for profit, a drunk one isn’t.
+$δίψιος ὠνήτης αὐξάνει τὸν κέρδος, μεθύων οὔ.
+#164. Never spend your own money when you can spend someone elses.
+$μήποτε τὰ χρήματά σου ἀναλίσκω, ὅτε τὰ ἀλλότρια δύνησαι ἀναλίσκειν.
+#165. Never allow one’s culture’s law to get in the way of a universal goal: profit.
+$μήποτε ἐπιτρέπετε τὸν νόμον τῆς πολιτείας σου κωλύειν τὸ κοινὸν σκόπον· τὸν κέρδος.
+#166. Never give away for free what can be sold.
+$Μήποτε δωρεὰν δίδοτε ἅτινα δύνασαι πωλεῖν.
