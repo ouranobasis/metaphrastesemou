@@ -5,13 +5,13 @@ $πίστον ὠνητὴν δολίειν οὐ δύνατον, άλλὰ ἄ�
 #3. Never spend more for an acquisition than you have to.
 $οὐδαμῶς ἁλλίσκεσθε προσότερον δεινάριον ἐπὶ κτήμασι ἢ ἀνάγνκη.
 #4. Sex and profit are the two things that never last long enough.
-$ἀφροδίσια καὶ κέρδος εἰσί τὰ δύο οὔποτε περιμείνοντα ἴκανως/επιτηδείως.
+$ἀφροδίσια καὶ κέρδος εἰσί τὰ δύο οὔποτε περιμείνοντα ἴκανως.
 #5. If you can’t break a contract, bend it.
-$εἲ συμβόλαιον κατάργειν ουκ ἐξέστιν, παραστρέφετε
+$εἲ συμβόλαιον κατάργειν ουκ ἔξεστιν, παραστρέφετε
 #6. Never let family stand in the way of opportunity.
-$οὐδαμῶς ἔα τὰ οἰκεία χωλύειν ἀφορμὸν.
+$οὐδαμῶς ἐᾶτε τὰ οἰκεία χωλύειν ἀφορμὸν.
 #7. Always keep you ears open.
-$ἀδιαλείπτως ἀνοίγε τὰ ὦτα
+$ἀδιαλείπτως ἀνοίγετε τὰ ὦτα
 #8. Keep count of your change.
 $ἀναλογίζετε πάντας κοδράντους
 #9. Instinct plus opportunity equals profit.
@@ -71,11 +71,11 @@ $ευκαιρος ἡ ειρηνη προς το πωλειν
 #36. Too many Ferengi can’t laugh at themselves anymore.
 $περισσεια των Φερρεγγων τῳ νυν ου οιος τε παιδιζειν εαυτους 
 #37. You can always buy back a lost reputation.
-$αει εξεστιν αυθις αγοραζειν δοξα διέφθορα
+$ἀεὶ ἔξεστιν αυθις αγοραζειν τὴν δόξαν διέφθορά σου.
 #38. Free advertising is cheap.
-$κλεος ευτελης ου πολυτελης.
+$κλεος εὐτελὴς οὐ πολυτελὴς.
 #39. Praise is cheap. Heap it generously on all customers.
-$ἔπαινος ευτελης. περισσως σωρευει επι πασι ωνηταις. 
+$ἔπαινος εὐτελὴς. περισσῶς σωρεύετε ἐπὶ πάσι ὠνηταῖς. 
 #40. If you see profit on a journey, take it.
 $εἂν κέρδανον ἐν τῳ οιδοποιεῖν εὐρίσκης, ἀρπάζετε. 
 #41. Money talks, but having lots of it gets more attention.
@@ -315,15 +315,15 @@ $περικυκλοῦσί σε εὐκαιρία, ἀτεχνῶς προσέχ
 #158. Don’t pay until you have the goods.
 $μὴ πληρώσῃς πρὶν ἂν ἔχῃς τὰ ἐμπορεύματα.
 #159. The customer is always right … until you have their cash.
-$ἀεὶ ἔχει ὀρθῶς ὁ ὠνήτης... .ἕως τὰ ἀργύρια αὐτοῦ ἕξεις.
+$ἀεὶ ἔχει ὀρθῶς ὁ ὠνητὴς... .ἕως τὰ ἀργύρια αὐτοῦ ἕξεις.
 #160. Respect is good, Latinum is better.
 $ἡ αἰδὼς ἀγαθὴ, τὸ λατινῶν κρείττον.
 #161. Never kill a customer, unless you make more profit out of his death than out of his life.
-$μήποτε τὸν ὠνήτην ἀποκτείνῃς, ἐὰν μὴ ὁ θάνατος ἐπὶ πλέον ὠφελήσῃς ἢ τῆς ζωῆς.
+$μήποτε τὸν ὠνητὴν ἀποκτείνῃς, ἐὰν μὴ ὁ θάνατος ἐπὶ πλέον ὠφελήσῃς ἢ τῆς ζωῆς.
 #162. His money is only your’s when he can’t get it back.
 $τὰ ἀργύριά τινος σά ἐστιν, ὅταν μὴ δυνῆται ἀντιλαμβάνεσθαι.
 #163. A thirsty customer is good for profit, a drunk one isn’t.
-$δίψιος ὠνήτης αὐξάνει τὸν κέρδος, μεθύων οὔ.
+$δίψιος ὠνητὴς αὐξάνει τὸν κέρδος, μεθύων οὔ.
 #164. Never spend your own money when you can spend someone elses.
 $μήποτε τὰ χρήματά σου ἀναλίσκω, ὅτε τὰ ἀλλότρια δύνησαι ἀναλίσκειν.
 #165. Never allow one’s culture’s law to get in the way of a universal goal: profit.
