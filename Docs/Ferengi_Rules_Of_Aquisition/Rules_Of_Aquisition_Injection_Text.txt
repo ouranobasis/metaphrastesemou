@@ -330,3 +330,15 @@ $μήποτε τὰ χρήματά σου ἀναλίσκω, ὅτε τὰ ἀλ
 $μήποτε ἐπιτρέπετε τὸν νόμον τῆς πολιτείας σου κωλύειν τὸ κοινὸν σκόπον· τὸν κέρδος.
 #166. Never give away for free what can be sold.
 $Μήποτε δωρεὰν δίδοτε ἅτινα δύνασαι πωλεῖν.
+#167. If a deal is fairly and lawfully made, then seeking revenge, especially unprofitable revenge, is illegal.
+$Εἰ δίκαιος καὶ νόμιμος ὁ συνθηκάς, τὸ τιμωρίαν λαμβάνειν παράνομόν ἐστι, μάλιστα εἰ ἀλυσιτελὲς εἴεν.
+#168. Beware of relatives bearing gifts.
+$Φεῦγετε τοὺς δωροφόρους συγγενεῖς.
+#169. If you’re going to have to endure, make yourself comfortable.
+$εἰ δεῖ ὐμὰς ὑπομένειν, ζητεῖσθε ἡδονὴν μικρὰν
+#170. Never gamble with an empath.
+$μήποτε κυβεύετε μάντει αἰσθητικῴ
+#171. Time is Latinum. The early Ferengi gets the Latinum.
+$κρόνος ἰσοῦται τῷ λατινῖ. ὁ ἑωθινὸς Φερεγγι λαμβάνει τὸν λατινῶνα.
+#172. If you can sell it, don’t hesitate to steal it.
+$Ἐὰν δυνῆσθε πωλεῖν τινα, μὴ ὀκνεῖτε kλέπτειν.
