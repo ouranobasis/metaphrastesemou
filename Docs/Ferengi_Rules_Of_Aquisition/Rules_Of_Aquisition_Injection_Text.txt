@@ -354,3 +354,11 @@ $Ὁι Φερέγγιοι οὐκ διδόασι δωρεὰς ἵνα αὐξά
 $Γνῶθι μὲν τοὺς ἐχθρούς σου... ἀεὶ δὲ χρηματίζετε αὐτοῖς
 #178. The world is a stage – don’t forget to demand admission.
 $ὁ κόσμος σήνη, μή σε λανθανέτω εἰσπράσσειν μίσθον εἰσόδοῦ
+#179. Whenever you think that things can’t get worse, the FCA will be knocking on you door.
+$ὅταν ἂν νομίζῃς ὅτι τὰ πράγματα οὐχ ἥξουσι χείρονα, κρούσουσιν ἐξουσιασταῖ τῆν θύραν ὑμῶν
+#180. Never offer a confession when a bribe will do.
+$μήποτε ὁμολογίαν τῆς αἰτίας παρέχετε ὅτε τινὰ δύνασθε δεκάζειν 
+#181. Even dishonesty can’t tarnish the glow of Latinum.
+$οὔδε ἡ ἀδικία δύναται μολύνειν τὴν αὐγὴν τοῦ λατινῶνος
+#182. Whenever you’re being asked if you are god, the right answer is YES.
+$Ὅταν ἐρωτῶσί σε εἰ θεός εἶ, ἡ ὀρθὴ ἀπόκρισίς ἐστι ΝΑΙ.
