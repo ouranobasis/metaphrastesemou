@@ -77,17 +77,17 @@ $κλεος εὐτελὴς οὐ πολυτελὴς.
 #39. Praise is cheap. Heap it generously on all customers.
 $ἔπαινος εὐτελὴς. περισσῶς σωρεύετε ἐπὶ πάσι ὠνηταῖς. 
 #40. If you see profit on a journey, take it.
-$εἂν κέρδανον ἐν τῳ οιδοποιεῖν εὐρίσκης, ἀρπάζετε. 
+$εἂν κέρδος ἐν τῇ πορείᾳ εὑρίσκοιτε, ἁρπάζετε. 
 #41. Money talks, but having lots of it gets more attention.
-$τα μὲν χρήματα λάλει φωνῃ μεγᾳ, το δε ἐχειν πολλα αξιολογοτερον
+$τὰ μὲν χρήματα λαλεῖ φωνῇ μέγᾳ, τὸ δὲ ἔχειν πολλὰ ἀξιολογότερον
 #42. Only negotiate when you are certain to profit.
-$μονο ποτε κερδος βέβαιος εστιν συναλλασει τινι. 
+$μόνον πότε τὸ κέρδος βεβαίον ἐστὶν συναλλάσσετέ τινι. 
 #43. Caressing an ear is often more forceful than pointing a weapon.
-$το θελγειν ωτα εχει βιαν κρατοτεραν του πατασσειν οπλῳ
+$τὸ κνᾶσθαι τὰ ὦτα ἔχει βίαν κρατότεραν τοῦ πατάσσειν ὄπλῳ
 #44. Never argue with a loaded phaser.
 $οὐδαμῶς αμφιβολετε παρασκευῳ φασηρ εις θανατον  
 #45. Profit has limits. Loss has none.
-$κερδανος εχει εσχατον, πορεια ουδενα
+$τὸ κέρδος ἔχει ἔσχατα, ἡ ζημία οὐ
 #46. Labor camps are full of people who trusted the wrong person.
 $στρατοδεια του πονου μεστα εστιν ανθρωπων πεπονθοντων τοις πρεπωδοις 
 #47. Never trust a man wearing a better suit than you own.
@@ -351,6 +351,6 @@ $Ὅταν πάντα ἀποτύχῃ, τρέχετε.
 #176. Ferengi’s don’t give promotional gifts!
 $Ὁι Φερέγγιοι οὐκ διδόασι δωρεὰς ἵνα αὐξάνωσι τὴν ἐμπορίαν!
 #177. Know your enemies … but do business with them always.
-$Γνῶθι μὲν τοὺς ἐχθροὺς σου... ἀεὶ δὲ χρηματίζετε αὐτοῖς
+$Γνῶθι μὲν τοὺς ἐχθρούς σου... ἀεὶ δὲ χρηματίζετε αὐτοῖς
 #178. The world is a stage – don’t forget to demand admission.
 $ὁ κόσμος σήνη, μή σε λανθανέτω εἰσπράσσειν μίσθον εἰσόδοῦ
