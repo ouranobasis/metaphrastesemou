@@ -342,3 +342,15 @@ $μήποτε κυβεύετε μάντει αἰσθητικῴ
 $κρόνος ἰσοῦται τῷ λατινῖ. ὁ ἑωθινὸς Φερεγγι λαμβάνει τὸν λατινῶνα.
 #172. If you can sell it, don’t hesitate to steal it.
 $Ἐὰν δυνῆσθε πωλεῖν τινα, μὴ ὀκνεῖτε kλέπτειν.
+#173. A piece of Latinum in the hand is worth two in a customer’s pocket.
+$ὁ λατινών ἐν τῇ χειρὶ ἄξιος τῶν δυοῖν ἑν τῇ τοῦ ὠνητοῦ πήρᾳ. 
+#174. Share and perish.
+$ἐλεήσατε καὶ ἀπολέσατε
+#175. When everything fails – run.
+$Ὅταν πάντα ἀποτύχῃ, τρέχετε.
+#176. Ferengi’s don’t give promotional gifts!
+$Ὁι Φερέγγιοι οὐκ διδόασι δωρεὰς ἵνα αὐξάνωσι τὴν ἐμπορίαν!
+#177. Know your enemies … but do business with them always.
+$Γνῶθι μὲν τοὺς ἐχθροὺς σου... ἀεὶ δὲ χρηματίζετε αὐτοῖς
+#178. The world is a stage – don’t forget to demand admission.
+$ὁ κόσμος σήνη, μή σε λανθανέτω εἰσπράσσειν μίσθον εἰσόδοῦ
