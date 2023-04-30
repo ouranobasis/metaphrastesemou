@@ -335,7 +335,7 @@ $Εἰ δίκαιος καὶ νόμιμος ὁ συνθηκάς, τὸ τιμ�
 #168. Beware of relatives bearing gifts.
 $Φεῦγετε τοὺς δωροφόρους συγγενεῖς.
 #169. If you’re going to have to endure, make yourself comfortable.
-$εἰ δεῖ ὐμὰς ὑπομένειν, ζητεῖσθε ἡδονὴν μικρὰν
+$εἰ δεῖ ὐμὰς ὑπομένειν, ζητεῖσθε ἡδονὴν μικρὰν.
 #170. Never gamble with an empath.
 $μήποτε κυβεύετε μάντει αἰσθητικῴ
 #171. Time is Latinum. The early Ferengi gets the Latinum.
@@ -345,20 +345,26 @@ $Ἐὰν δυνῆσθε πωλεῖν τινα, μὴ ὀκνεῖτε kλέπ
 #173. A piece of Latinum in the hand is worth two in a customer’s pocket.
 $ὁ λατινών ἐν τῇ χειρὶ ἄξιος τῶν δυοῖν ἑν τῇ τοῦ ὠνητοῦ πήρᾳ. 
 #174. Share and perish.
-$ἐλεήσατε καὶ ἀπολέσατε
+$ἐλεήσατε καὶ ἀπολέσατε.
 #175. When everything fails – run.
 $Ὅταν πάντα ἀποτύχῃ, τρέχετε.
 #176. Ferengi’s don’t give promotional gifts!
 $Ὁι Φερέγγιοι οὐκ διδόασι δωρεὰς ἵνα αὐξάνωσι τὴν ἐμπορίαν!
 #177. Know your enemies … but do business with them always.
-$Γνῶθι μὲν τοὺς ἐχθρούς σου... ἀεὶ δὲ χρηματίζετε αὐτοῖς
+$Γνῶθι μὲν τοὺς ἐχθρούς σου... ἀεὶ δὲ χρηματίζετε αὐτοῖς.
 #178. The world is a stage – don’t forget to demand admission.
-$ὁ κόσμος σήνη, μή σε λανθανέτω εἰσπράσσειν μίσθον εἰσόδοῦ
+$ὁ κόσμος σήνη, μή σε λανθανέτω εἰσπράσσειν μίσθον εἰσόδου.
 #179. Whenever you think that things can’t get worse, the FCA will be knocking on you door.
-$ὅταν ἂν νομίζῃς ὅτι τὰ πράγματα οὐχ ἥξουσι χείρονα, κρούσουσιν ἐξουσιασταῖ τῆν θύραν ὑμῶν
+$ὅταν ἂν νομίζῃς ὅτι τὰ πράγματα οὐχ ἥξουσι χείρονα, κρούσουσιν ἐξουσιασταῖ τῆν θύραν ὑμῶν.
 #180. Never offer a confession when a bribe will do.
-$μήποτε ὁμολογίαν τῆς αἰτίας παρέχετε ὅτε τινὰ δύνασθε δεκάζειν 
+$μήποτε ὁμολογίαν τῆς αἰτίας παρέχετε ὅτε τινὰ δύνασθε δεκάζειν .
 #181. Even dishonesty can’t tarnish the glow of Latinum.
-$οὔδε ἡ ἀδικία δύναται μολύνειν τὴν αὐγὴν τοῦ λατινῶνος
+$οὔδε ἡ ἀδικία δύναται μολύνειν τὴν αὐγὴν τοῦ λατινῶνος.
 #182. Whenever you’re being asked if you are god, the right answer is YES.
 $Ὅταν ἐρωτῶσί σε εἰ θεός εἶ, ἡ ὀρθὴ ἀπόκρισίς ἐστι ΝΑΙ.
+#183. Genius without opportunity is like Latinum in the mine.
+$ἡ ἐπιστήμη ἄνευ εὐκαιρίας ὁμοίη τῷ λατινῶνι ἐν τῷ μετάλλῳ
+#184. There are three things you must not talk about with aliens: sex, religion and taxes.
+$ἐξωγείοις πέρι τριῶν πραγμάτων μὴ διαλέγετε, τῆς ἀφροδίσιας, τῆς θρησκείας, καὶ τοῦ τέλους.
+#185. If you want to ruin yourself there are three known ways: Gambling is the fastest, women are the sweetest, and banks are the most reliable way.
+$ἐὰν βούλησθε παραγένεσθαι έν ναυκληρίᾳ, τρεῖς ἔχεις ὁδούς: τὸ κυβεύειν ἡ ταχεία ὁδος, αἱ γυναίκες ἡ ἡδονὴ, καὶ τραπεζίται βεβαιοτάτη εἰσίν. 
