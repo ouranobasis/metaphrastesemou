@@ -368,3 +368,13 @@ $ἡ ἐπιστήμη ἄνευ εὐκαιρίας ὁμοίη τῷ λατι�
 $ἐξωγείοις πέρι τριῶν πραγμάτων μὴ διαλέγετε, τῆς ἀφροδίσιας, τῆς θρησκείας, καὶ τοῦ τέλους.
 #185. If you want to ruin yourself there are three known ways: Gambling is the fastest, women are the sweetest, and banks are the most reliable way.
 $ἐὰν βούλησθε παραγένεσθαι έν ναυκληρίᾳ, τρεῖς ἔχεις ὁδούς: τὸ κυβεύειν ἡ ταχεία ὁδος, αἱ γυναίκες ἡ ἡδονὴ, καὶ τραπεζίται βεβαιοτάτη εἰσίν. 
+#186. There are two things that will catch up with you for sure: death and taxes.
+$δύο πράγματα ὐμὰς φθάνουσιν ἀνεὺ ἀμφισβητήσεως, ὁ θάνατος καὶ τὰ τέλη
+#187. If your dancing partner wants to lead at all costs, let her have her own way and ask another one to dance.
+$ἐὰν ἡ σὴς χορευτικὴ ἑταῖρα ἡγήσηται ἀμελῶς, ταύτην ἐάσατε χαίρειν καὶ ἑτέραν χορεύειν ἐρωτήσατε.
+#188. Never bet on a race you haven’t fixed.
+$Μηδέποτε κυβεύετε ἐπὶ ἀγώνα μὴ ἐπικρατησάμενον.
+#189. Borrow on a handshake; lend in writing.
+$δανείζεσθε ἐπὶ τῷ δεξιώματι, δανείζετε ἐπὶ τῃ γραφῇ
+#190. Drive your business or it will drive you.
+$εἴτε ἐλαύνετε τὴν ἐμπορίαν σου εἴτε ἐλαύνεσθε ὐπὸ τῆς ἐμπορίας σου.
