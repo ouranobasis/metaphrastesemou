@@ -377,4 +377,18 @@ $Μηδέποτε κυβεύετε ἐπὶ ἀγώνα μὴ ἐπικρατη�
 #189. Borrow on a handshake; lend in writing.
 $δανείζεσθε ἐπὶ τῷ δεξιώματι, δανείζετε ἐπὶ τῃ γραφῇ
 #190. Drive your business or it will drive you.
-$εἴτε ἐλαύνετε τὴν ἐμπορίαν σου εἴτε ἐλαύνεσθε ὐπὸ τῆς ἐμπορίας σου.
+$εἴτε ἐλαύνετε τὴν ἐμπορίαν ὑμῶν εἴτε ἐλαύνεσθε ὐπὸ τῆς ἐμπορίας ὑμῶν.
+#191. Let other keep their reputation. You keep their money.
+$ἄλλοις μὲν τὸν κλέος, ὑμῖν δὲ τὰ ἀργύρια ἑπιτηρείτω.
+#192. Never cheat a Klingon...unless you sure you can get away with it
+$μήποτε ἀπατᾶτε Κλίγκον... ἐὰν μὴ βέβαιος ᾖς ὅτι λανθάνετε ἁπατήσας.
+#193. Klingon women don’t dance tango.
+$αἱ Κλιγκῶνες οὐ χορεύουσι τὸν τάγγον.
+#194. It’s always good business to know about new customers before they walk in your door.
+$ἀεὶ σοφὴ ἐσθης τῆς ἐμπορίας τὸ νέους ὠνητὰς γνῶναι πρὶν αὐτοὺς εἰσελθεῖν εἰς τὸ πωλητήριον.
+#195. Wounds heal, but debt is forever.
+$τὰ τραύματα ἰατρεύονται, τὰ δὲ ὀφειλήματα αἰώνια.
+#196. Only give money to people you know you can steal from.
+$μόνον χρήματα δίδοτε τοῖς ἀνθρώποις ὥν δύνασθε κλέπτειν  
+#197. Never trust your customers, especially if they are your relatives.
+$μήποτε πιστεύετε ταῖς ὠνηταῖς, μάλιστα εἰ συγγενεῖς ὑμῶν.
