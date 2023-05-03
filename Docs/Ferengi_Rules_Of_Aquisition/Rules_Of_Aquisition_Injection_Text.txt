@@ -380,7 +380,7 @@ $δανείζεσθε ἐπὶ τῷ δεξιώματι, δανείζετε ἐ�
 $εἴτε ἐλαύνετε τὴν ἐμπορίαν ὑμῶν εἴτε ἐλαύνεσθε ὐπὸ τῆς ἐμπορίας ὑμῶν.
 #191. Let other keep their reputation. You keep their money.
 $ἄλλοις μὲν τὸν κλέος, ὑμῖν δὲ τὰ ἀργύρια ἑπιτηρείτω.
-#192. Never cheat a Klingon...unless you sure you can get away with it
+#192. Never cheat a Klingon...unless you sure you can get away with it.
 $μήποτε ἀπατᾶτε Κλίγκον... ἐὰν μὴ βέβαιος ᾖς ὅτι λανθάνετε ἁπατήσας.
 #193. Klingon women don’t dance tango.
 $αἱ Κλιγκῶνες οὐ χορεύουσι τὸν τάγγον.
@@ -389,6 +389,14 @@ $ἀεὶ σοφὴ ἐσθης τῆς ἐμπορίας τὸ νέους ὠν
 #195. Wounds heal, but debt is forever.
 $τὰ τραύματα ἰατρεύονται, τὰ δὲ ὀφειλήματα αἰώνια.
 #196. Only give money to people you know you can steal from.
-$μόνον χρήματα δίδοτε τοῖς ἀνθρώποις ὥν δύνασθε κλέπτειν  
+$μόνον χρήματα δίδοτε τοῖς ἀνθρώποις ὥν δύνασθε κλέπτειν.  
 #197. Never trust your customers, especially if they are your relatives.
 $μήποτε πιστεύετε ταῖς ὠνηταῖς, μάλιστα εἰ συγγενεῖς ὑμῶν.
+#198. Employees are the rungs on your ladder to success – don’t hesitate to step on them.
+$οἱ ἐργάται εἰσὶν οἱ βαθμοὶ τῇ κλίμακι τῆς ἐπιτυχίας - μὴ ὀκνεῖ ἐπίστασθαι ἐπ’ αὐτῶν.
+#199. The secret of one person is another person’s opportunity.
+$τὸ απόρρητόν τινος ἡ ἄλλου ἐυκαιρία ἐστίν.
+#200. A madman with Latinum means profit without return.
+$μαργίτης ἔχων λατινῶνα παρέχει τὸ κέρδος ἀνεὺ ἀποτείσεως χρημάτων.
+#201. The justification for profit is profit.
+$ἡ πρόφασις τοῦ κέρδους ἐστὶ τὸ κέρδος αὐτό.
