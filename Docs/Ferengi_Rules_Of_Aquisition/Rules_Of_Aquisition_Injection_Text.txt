@@ -407,4 +407,28 @@ $Φίλος ἐν δείνῃ χρείᾳ παρέχει τριπλάσιον κ
 #203. A Ferengi in need, will never do anything for free.
 $ὁ ἀποροῦμενος Φερέγγιος οὐδέποτε τινὰ φιλοδώρως πράσσεται.
 #204. When the Grand Nagus arrives to offer you a business opportunity, it’s time to leave town until he’s gone.
-$Ὅταν ὁ Μέγας Νάγυς ἥκει ἵνα προσφέρῃ ευκαιρίαν ἐμπορικὴν, χρή σε φύγειν τῆς πόλεως μέχρι ὄποταν ἀπέρχηται.
+$Ὅταν ὁ Μέγας Νάγυς ἥκει ἵνα προσφέρῃ εὐκαιρίαν ἐμπορικὴν, χρή σε φύγειν τῆς πόλεως μέχρι ὄποταν ἀπέρχηται.
+#205. When the customer dies, the money stops a-comin’.
+$Ὅταν ὁ πελάτης τελευτᾷ, τὰ χρήματα παύεται εἰσίεσθαι.
+#206. Fighting with Klingons is like gambling with Cardassians – it’s good to have a friend around when you lose.
+$τὸ μάχειν κάτα τούς Κλιγόνας ὅμοιάς εἰσι τῷ κυβεύειν πρὸς τοὺς Καρδασσιανούς - καλὸν ἐστὶν ἔχειν φίλον παρόντα ὅταν ἡσσάοισθε.
+#207. Never trust a hardworking employee.
+$μήποτε πιστεύετε ἐργάτῃ σπεύδοντι.
+#208. Give someone a fish, you feed him for one day. Teach him how to fish, and you lose a steady customer.
+$δότε τινί ἰχθύν, μόνον μίαν ἡμέραν ἐσθίει. δίδαξον αὐτὸν ἁλιεύειν, καὶ λύετε ὠνητὴν βεβαίον.
+#209. Tell them what they want to hear.
+$Εἰπέτε αὐτοῖς ὅσα βούλονται ἀκούειν.
+#210. A wife, who is able to clean, saves the cleaning lady.
+$Ἡ δυνάμενη καθαίρειν γυνὴ ἀναπαύει τὴν καθαρίστριαν.
+#211. In business deals, a disruptor can be almost as important as a calculator.
+$ἐν τοῖς ἐμπορίοις συμβολαίοις, τὰ ἐνέργεια ὅπλα σχεδὸν εἶεν ἂν ἴσα τῷ λογιστῇ τῶν ἀριθμῶν.
+#212. If they accept your first offer, you either asked too little or offered too much.
+$Εἰ δέχονται τὴν πρώτην πρότασίν σου, ἢ πολὺ ἐλάττω ᾔτησας ἢ πολὺ πλέον προσέφερες.
+#213. Stay neutral in conflicts so that you can sell supplies to both sides.
+$ἀπέχεσθε αμφοτέρων ἐσχάτων τῆς ἀμφισβητήσεως, ὅπως δυνήσεσθε πωλεῖν τὰ ἐπιτήδεια ἀμφοτέροις.
+#214. Never begin a business transaction on an empty stomach.
+$Μήποτε ἄρχεσθε τῆν πράξιν ἐμπορία μετὰ γαστρός κενῆς .
+#215. Instinct without opportunity is useless.
+$ἡ δεινότης ἀνεὺ τῆς εὐκαιρίας ἄχρηστός ἐστιν.
+216. Never take hospitality from someone worse off than yourself.
+Μήποτε παραδέχεσθε τὴν φιλοξενίαν παρὰ τῶν ταλαιπωροτέρων.
