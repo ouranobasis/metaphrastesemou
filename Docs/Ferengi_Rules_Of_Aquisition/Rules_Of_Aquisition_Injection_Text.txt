@@ -482,3 +482,15 @@ $ἡ φιλοτιμία οὐκ οἶδε συγγένεια.
 $ὅσα μᾶλλον ἀπαιτεῖτε, τοσοῦτα πλέον ἀποδιώκετε τοὺς πελάτας.
 #241. Never underestimate the inportance of the fist impression.
 $μὴποτε ὑποτιμᾶ τὴν σπουδὴν τῆς πρώτης φαντασία.
+#242. More is good, all is better.
+$πλείων ἀγαθός, πᾶς κρείττων.
+#243. If you got something nice to say, then SHOUT.
+$ἐὰν ἔχῃς καλὰ εἰπεῖν, τότε ΚΡΑΎΓΑΖΕ αὐτά.
+#244. If you can’t sell it, sit on it, but never give it away.
+$ἐὰν μὴ δύνησθε πωλῆσαί τινα, κατέχετε αὐτὸ, ἀλλὰ μὴ δότε αὐτὸ δωρεάν.
+#245. A warranty is valid only if they can find you.
+$ἡ ἐγγύησις μόνον κυρεῖ ἐὰν δύνωνται ὑμὰς εὑρεῖν.
+#246. He that speaks ill of the wares will buy them.
+$ὁ κακολογῶν τὰ ἐμπορεύματα, αὐτὰ ἀγοράσει
+#247. Never question luck.
+$μήποτε τῇ τύχῃ ἀμφισβητεῖ.
