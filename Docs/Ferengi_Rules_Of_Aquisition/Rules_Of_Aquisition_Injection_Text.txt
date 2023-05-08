@@ -405,7 +405,7 @@ $Φίλος ἐν δείνῃ χρείᾳ ὠνητὴς δυνητικός ἐ�
 #202 b) A friend in need means three times the profit.
 $Φίλος ἐν δείνῃ χρείᾳ παρέχει τριπλάσιον κέρδος.
 #203. A Ferengi in need, will never do anything for free.
-$ὁ ἀποροῦμενος Φερέγγιος οὐδέποτε τινὰ φιλοδώρως πράσσεται.
+$ὁ ἀποροῦμενος Φερέγγιος οὐδέποτε τινὰ ἀμισθῶς πράσσεται.
 #204. When the Grand Nagus arrives to offer you a business opportunity, it’s time to leave town until he’s gone.
 $Ὅταν ὁ Μέγας Νάγυς ἥκει ἵνα προσφέρῃ εὐκαιρίαν ἐμπορικὴν, χρή σε φύγειν τῆς πόλεως μέχρι ὄποταν ἀπέρχηται.
 #205. When the customer dies, the money stops a-comin’.
