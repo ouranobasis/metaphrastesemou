@@ -430,5 +430,47 @@ $ἀπέχεσθε αμφοτέρων ἐσχάτων τῆς ἀμφισβητ�
 $Μήποτε ἄρχεσθε τῆν πράξιν ἐμπορία μετὰ γαστρός κενῆς .
 #215. Instinct without opportunity is useless.
 $ἡ δεινότης ἀνεὺ τῆς εὐκαιρίας ἄχρηστός ἐστιν.
-216. Never take hospitality from someone worse off than yourself.
-Μήποτε παραδέχεσθε τὴν φιλοξενίαν παρὰ τῶν ταλαιπωροτέρων.
+#216. Never take hospitality from someone worse off than yourself.
+$Μήποτε παραδέχεσθε τὴν φιλοξενίαν παρὰ τῶν ταλαιπωροτέρων.
+#217. Only pay for it if you are confronted with loaded phaser.
+$Μόνον πληρῶσετε τὰ ἀναλώματα, ἐὰν ἐναντιώσωσίν σοι σὺν ὅπλῳ ἐνεργείῳ.
+#218. Always know what you’re buying.
+$Γνῶθι πάντοτε τί ἀγοράζεις.
+#219. A friend is not a friend if he asks for a discount.
+$φίλος οὐκ ἔστιν φίλος ἀληθινὸς ἂν αἰτῇ μειώσεως τῆς τίσεως.
+#220. Profit is like a bed of roses – a few thorns are inevitable.
+$τὸ κέρδος ἔοικεν τῇ πρασιᾷ ῥόδων - ὀλίγαι ἄκανθαι ἀναγκαίως γίγνονται.
+#221. Beware of any man who thinks with his lobes.
+$φυλάττετε πᾶντα ἄνδρας ὃσοι λόβοις νοοῦσιν
+#222. Knowledge is Latinum.
+$ἡ γνῶσίς ἐστι λατινῶν.
+#223. Rich men don’t come to buy; they come to take.
+$οἱ πλούσιοι οὐκ ἔρχονται ὠς ἀγοράσοντες, ἀλλὰ ὡς ἁρπάζοντες ἔρχονται.
+#224. Never throw anything away: It may be worht a lot of Latinum some Stardate.
+$Μήποτέ τι ἀπορρίψατε, ἴσως ἔχῃ μεγάλην ἀξίαν εἰς τὸ μέλλον.
+#225. Pride comes before a loss.
+$ὐπερηφανία προκόπτει ἐμπρόσθεν τῆς καταστροφῆς.
+#226. Don’t take your family for granted, only their Latinum.
+$μὴ γίγνεσθε ἀχάριστοι πρὸς τὴν οἰκογένειάν σου, μόνον πρὸς τὸ λατινῶν αὐτῶν.
+#227. Loyalty can be bought … and sold.
+$ἡ πίστη τῶν ἀνθρώπων ὁιά τε ἀγοράζειν ... καὶ πωλεῖν
+#228. All things come to those who wait, even Latinum.
+$τὰ πάντα ἔρχονται πρὸς τοὺς ἀναμένοντας, καὶ δὴ καὶ τὸ λατινῶν.
+#229. Beware the man who doesn’t make time for oo-mox.
+$φυλάσσετε τὸν ἄνδρα ὃς οὐ ἐγχωρει τὸ χρόνον εἰς τὰ ἀφροδίσια.
+#230. Manipulation may be a Ferengi’s greatest tool, and liability.
+$ἡ πανουργία τὸ ἀμείνων ὄργανον εἶεν τῶν Φερεγγίων, καὶ τὸ ἀμείνων εὐεπίθετον 
+#231. If you steal it, make sure it has a warranty.
+$εὰν κλέψητε, βεβαίεσθε ὅτι ἔχει ἐγγύησιν.
+#232. Life’s no fair (How else would you turn a profit?).
+$ὁ βίος οὐκ ἔστιν δίκαιος (πῶς γὰρ ἄλλως ἄν τὸ κέρδος ἀνύοιτε;).
+#233. Every dark cloud has a Latinum lining.
+$τὸ ἔσω τῶν πάντων νεφελῶν σκοτεινῶν ἐστι ἐκ λατινῶνος.
+$234. Never deal with beggars; it’s bad for profits.
+#μήποτε ὁμιλεῖτε μετὰ πτωχῶν· βλάβην γὰρ φέρει τῷ κέρδει.
+#235. Don’t trust anyone who trusts you.
+$μὴ πιστεύετε οὐδενὶ τῷ πιστεύοντί σοι.
+#236. You can’t buy fate.
+$οὐκ ἐπὶ λατινῶνος ἀγοράσετε τὴν τύχην
+#237. There’s a sucker born every minute. Be sure you’re the first to find each one.
+$κατὰ λεπτόν ἄφρων πλάσσεται, εὑρίσκετε ἕκαστα πρὶν τοὺς ἄλλους.
