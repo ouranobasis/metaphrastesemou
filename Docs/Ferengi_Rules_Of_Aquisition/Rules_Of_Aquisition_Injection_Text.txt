@@ -474,3 +474,11 @@ $μὴ πιστεύετε οὐδενὶ τῷ πιστεύοντί σοι.
 $οὐκ ἐπὶ λατινῶνος ἀγοράσετε τὴν τύχην
 #237. There’s a sucker born every minute. Be sure you’re the first to find each one.
 $κατὰ λεπτόν ἄφρων πλάσσεται, εὑρίσκετε ἕκαστα πρὶν τοὺς ἄλλους.
+#238. The truth will cost.
+$ἡ ἀλήθεια πολυτελής ἐστιν.
+#239. Ambition knows no family.
+$ἡ φιλοτιμία οὐκ οἶδε συγγένεια.
+#240. The higher you bid, the more customers you drive away.
+$ὅσα μᾶλλον ἀπαιτεῖτε, τοσοῦτα πλέον ἀποδιώκετε τοὺς πελάτας.
+#241. Never underestimate the inportance of the fist impression.
+$μὴποτε ὑποτιμᾶ τὴν σπουδὴν τῆς πρώτης φαντασία.
