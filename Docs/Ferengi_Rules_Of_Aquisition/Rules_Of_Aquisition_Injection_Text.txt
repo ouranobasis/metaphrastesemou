@@ -405,6 +405,72 @@ $Φίλος ἐν δείνῃ χρείᾳ ὠνητὴς δυνητικός ἐ�
 #202 b) A friend in need means three times the profit.
 $Φίλος ἐν δείνῃ χρείᾳ παρέχει τριπλάσιον κέρδος.
 #203. A Ferengi in need, will never do anything for free.
-$ὁ ἀποροῦμενος Φερέγγιος οὐδέποτε τινὰ φιλοδώρως πράσσεται.
+$ὁ ἀποροῦμενος Φερέγγιος οὐδέποτε τινὰ ἀμισθῶς πράσσεται.
 #204. When the Grand Nagus arrives to offer you a business opportunity, it’s time to leave town until he’s gone.
-$Ὅταν ὁ Μέγας Νάγυς ἥκει ἵνα προσφέρῃ ευκαιρίαν ἐμπορικὴν, χρή σε φύγειν τῆς πόλεως μέχρι ὄποταν ἀπέρχηται.
+$Ὅταν ὁ Μέγας Νάγυς ἥκει ἵνα προσφέρῃ εὐκαιρίαν ἐμπορικὴν, χρή σε φύγειν τῆς πόλεως μέχρι ὄποταν ἀπέρχηται.
+#205. When the customer dies, the money stops a-comin’.
+$Ὅταν ὁ πελάτης τελευτᾷ, τὰ χρήματα παύεται εἰσίεσθαι.
+#206. Fighting with Klingons is like gambling with Cardassians – it’s good to have a friend around when you lose.
+$τὸ μάχειν κάτα τούς Κλιγόνας ὅμοιάς εἰσι τῷ κυβεύειν πρὸς τοὺς Καρδασσιανούς - καλὸν ἐστὶν ἔχειν φίλον παρόντα ὅταν ἡσσάοισθε.
+#207. Never trust a hardworking employee.
+$μήποτε πιστεύετε ἐργάτῃ σπεύδοντι.
+#208. Give someone a fish, you feed him for one day. Teach him how to fish, and you lose a steady customer.
+$δότε τινί ἰχθύν, μόνον μίαν ἡμέραν ἐσθίει. δίδαξον αὐτὸν ἁλιεύειν, καὶ λύετε ὠνητὴν βεβαίον.
+#209. Tell them what they want to hear.
+$Εἰπέτε αὐτοῖς ὅσα βούλονται ἀκούειν.
+#210. A wife, who is able to clean, saves the cleaning lady.
+$Ἡ δυνάμενη καθαίρειν γυνὴ ἀναπαύει τὴν καθαρίστριαν.
+#211. In business deals, a disruptor can be almost as important as a calculator.
+$ἐν τοῖς ἐμπορίοις συμβολαίοις, τὰ ἐνέργεια ὅπλα σχεδὸν εἶεν ἂν ἴσα τῷ λογιστῇ τῶν ἀριθμῶν.
+#212. If they accept your first offer, you either asked too little or offered too much.
+$Εἰ δέχονται τὴν πρώτην πρότασίν σου, ἢ πολὺ ἐλάττω ᾔτησας ἢ πολὺ πλέον προσέφερες.
+#213. Stay neutral in conflicts so that you can sell supplies to both sides.
+$ἀπέχεσθε αμφοτέρων ἐσχάτων τῆς ἀμφισβητήσεως, ὅπως δυνήσεσθε πωλεῖν τὰ ἐπιτήδεια ἀμφοτέροις.
+#214. Never begin a business transaction on an empty stomach.
+$Μήποτε ἄρχεσθε τῆν πράξιν ἐμπορία μετὰ γαστρός κενῆς .
+#215. Instinct without opportunity is useless.
+$ἡ δεινότης ἀνεὺ τῆς εὐκαιρίας ἄχρηστός ἐστιν.
+#216. Never take hospitality from someone worse off than yourself.
+$Μήποτε παραδέχεσθε τὴν φιλοξενίαν παρὰ τῶν ταλαιπωροτέρων.
+#217. Only pay for it if you are confronted with loaded phaser.
+$Μόνον πληρῶσετε τὰ ἀναλώματα, ἐὰν ἐναντιώσωσίν σοι σὺν ὅπλῳ ἐνεργείῳ.
+#218. Always know what you’re buying.
+$Γνῶθι πάντοτε τί ἀγοράζεις.
+#219. A friend is not a friend if he asks for a discount.
+$φίλος οὐκ ἔστιν φίλος ἀληθινὸς ἂν αἰτῇ μειώσεως τῆς τίσεως.
+#220. Profit is like a bed of roses – a few thorns are inevitable.
+$τὸ κέρδος ἔοικεν τῇ πρασιᾷ ῥόδων - ὀλίγαι ἄκανθαι ἀναγκαίως γίγνονται.
+#221. Beware of any man who thinks with his lobes.
+$φυλάττετε πᾶντα ἄνδρας ὃσοι λόβοις νοοῦσιν
+#222. Knowledge is Latinum.
+$ἡ γνῶσίς ἐστι λατινῶν.
+#223. Rich men don’t come to buy; they come to take.
+$οἱ πλούσιοι οὐκ ἔρχονται ὠς ἀγοράσοντες, ἀλλὰ ὡς ἁρπάζοντες ἔρχονται.
+#224. Never throw anything away: It may be worht a lot of Latinum some Stardate.
+$Μήποτέ τι ἀπορρίψατε, ἴσως ἔχῃ μεγάλην ἀξίαν εἰς τὸ μέλλον.
+#225. Pride comes before a loss.
+$ὐπερηφανία προκόπτει ἐμπρόσθεν τῆς καταστροφῆς.
+#226. Don’t take your family for granted, only their Latinum.
+$μὴ γίγνεσθε ἀχάριστοι πρὸς τὴν οἰκογένειάν σου, μόνον πρὸς τὸ λατινῶν αὐτῶν.
+#227. Loyalty can be bought … and sold.
+$ἡ πίστη τῶν ἀνθρώπων ὁιά τε ἀγοράζειν ... καὶ πωλεῖν
+#228. All things come to those who wait, even Latinum.
+$τὰ πάντα ἔρχονται πρὸς τοὺς ἀναμένοντας, καὶ δὴ καὶ τὸ λατινῶν.
+#229. Beware the man who doesn’t make time for oo-mox.
+$φυλάσσετε τὸν ἄνδρα ὃς οὐ ἐγχωρει τὸ χρόνον εἰς τὰ ἀφροδίσια.
+#230. Manipulation may be a Ferengi’s greatest tool, and liability.
+$ἡ πανουργία τὸ ἀμείνων ὄργανον εἶεν τῶν Φερεγγίων, καὶ τὸ ἀμείνων εὐεπίθετον 
+#231. If you steal it, make sure it has a warranty.
+$εὰν κλέψητε, βεβαίεσθε ὅτι ἔχει ἐγγύησιν.
+#232. Life’s no fair (How else would you turn a profit?).
+$ὁ βίος οὐκ ἔστιν δίκαιος (πῶς γὰρ ἄλλως ἄν τὸ κέρδος ἀνύοιτε;).
+#233. Every dark cloud has a Latinum lining.
+$τὸ ἔσω τῶν πάντων νεφελῶν σκοτεινῶν ἐστι ἐκ λατινῶνος.
+$234. Never deal with beggars; it’s bad for profits.
+#μήποτε ὁμιλεῖτε μετὰ πτωχῶν· βλάβην γὰρ φέρει τῷ κέρδει.
+#235. Don’t trust anyone who trusts you.
+$μὴ πιστεύετε οὐδενὶ τῷ πιστεύοντί σοι.
+#236. You can’t buy fate.
+$οὐκ ἐπὶ λατινῶνος ἀγοράσετε τὴν τύχην
+#237. There’s a sucker born every minute. Be sure you’re the first to find each one.
+$κατὰ λεπτόν ἄφρων πλάσσεται, εὑρίσκετε ἕκαστα πρὶν τοὺς ἄλλους.
