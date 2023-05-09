@@ -493,4 +493,12 @@ $ἡ ἐγγύησις μόνον κυρεῖ ἐὰν δύνωνται ὑμὰ
 #246. He that speaks ill of the wares will buy them.
 $ὁ κακολογῶν τὰ ἐμπορεύματα, αὐτὰ ἀγοράσει
 #247. Never question luck.
-$μήποτε τῇ τύχῃ ἀμφισβητεῖ.
+$μήποτε τῇ τύχῃ ἀμφισβητεῖτε.
+#248. Celebrate when you are paid, not, when you are promised.
+$Ἐορτάζετε ὅταν ἀποδίδωνται, μὴ ὅταν ὑπισχνῶνται
+249. Respect other culture’s beliefs; they’ll be more likely to give you money.
+Σέβεσθε τὰς πεποιθήσεις ὑπὸ τῶν ἄλλων πολιτισμῶν· οὗτοι μάλλον ῥαδίως πεισθήσονται ὑπὸ ὑμῶν πωλεῖν τὰ ἐμπορεύματα.
+250. A dead vendor doesn’t demand money.
+νεκρὸς πώλης οὐ χρήματα ἀπαιτεῖ
+251. Satisfaction is not guaranteed.
+τό σοι ἀρκεῖν οὐ ἐγγυῶται.
