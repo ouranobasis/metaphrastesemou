@@ -57,7 +57,7 @@ $ἡ δικαιοσύνη κατὰ τοὺς αἰῶνας παρελάμβα�
 #29. When someone says “It’s not the money,” they’re lying.
 $ἐπειδάν τις εἶπῃ οτι "χρήματα οὐ μοι μέλετει", σε εξεπατοῦσιν. 
 #30. Talk is cheap; synthehol costs money.
-$ὃ τοῦ κόλακος λόγος εὐτελὴς, αἱ πόσεις τῆς ψευδόμεθης πολυτελής ἐστιν.
+$ὃ τοῦ κόλακος λόγος εὐτελὴς, αἱ πόσεις τῆς ψευδομλέθης πολυτελής ἐστιν.
 #31. Never make fun of a Ferengi’s mother.
 $μήποτε τὴν μήτρα φερέγγου σκώπτετε.
 #32. Be careful what you sell. It may do exactly what the customer expects.
@@ -496,9 +496,21 @@ $ὁ κακολογῶν τὰ ἐμπορεύματα, αὐτὰ ἀγοράσ
 $μήποτε τῇ τύχῃ ἀμφισβητεῖτε.
 #248. Celebrate when you are paid, not, when you are promised.
 $Ἐορτάζετε ὅταν ἀποδίδωνται, μὴ ὅταν ὑπισχνῶνται
-249. Respect other culture’s beliefs; they’ll be more likely to give you money.
-Σέβεσθε τὰς πεποιθήσεις ὑπὸ τῶν ἄλλων πολιτισμῶν· οὗτοι μάλλον ῥαδίως πεισθήσονται ὑπὸ ὑμῶν πωλεῖν τὰ ἐμπορεύματα.
-250. A dead vendor doesn’t demand money.
-νεκρὸς πώλης οὐ χρήματα ἀπαιτεῖ
-251. Satisfaction is not guaranteed.
-τό σοι ἀρκεῖν οὐ ἐγγυῶται.
+#249. Respect other culture’s beliefs; they’ll be more likely to give you money.
+$Σέβεσθε τὰς πεποιθήσεις ὑπὸ τῶν ἄλλων πολιτισμῶν· οὗτοι μάλλον ῥαδίως πεισθήσονται ὑπὸ ὑμῶν πωλεῖν τὰ ἐμπορεύματα.
+#250. A dead vendor doesn’t demand money.
+$νεκρὸς πώλης οὐ χρήματα ἀπαιτεῖ
+#251. Satisfaction is not guaranteed.
+$ἡ ἱκανοποίησις οὐ ἐγγυῶται.
+#252. Let the buyer beware.
+$φυλάττετω ὁ ὠνητὴς
+#253. A contract without fine print is a fool’s document.
+$συμβόλαιον ἄνευ τῶν σαφηνιζόντων γράμματών έστι γράφη τῶν ἀμαθῶν.
+#254. Anyone who can’t tell a fake doesn’t deserve the real thing.
+$ὁ μὴ δυνάμενος διακρίνειν τὸ ψευδὲς οὐκ ἀξίος ἐστίν τοῦ ἀληθοῦς.
+#255. A warranty without loop-holes is a liability.
+$ἐγγύησις ἄνευ ἀποστροφὴς ἐστὶ εὐεπίθετον.
+#256. Synthehol is the lubricant of choice for a customer’s stuck purse.
+$ἡ ψευδομέθη ὁ αἱρετός μοχλός ἐστιν ἵνα ἐξαιρῇ ὁ ὠνητὴς τὴν πηκτὴν πήρην 
+#257. Only fools negotiate with their own money.
+$μόνοι ἄφρονες σπένδουσιν τοῖς ἰδίοις χρήμασι.
