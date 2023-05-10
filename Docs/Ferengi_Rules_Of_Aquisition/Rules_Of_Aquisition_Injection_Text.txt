@@ -515,7 +515,7 @@ $ἡ ψευδομέθη ὁ αἱρετός μοχλός ἐστιν ἵνα ἐ
 #257. Only fools negotiate with their own money.
 $μόνοι ἄφρονες σπένδουσιν τοῖς ἰδίοις χρήμασι.
 #258. A Ferengi is only as important as the amount of Latinum he carries in his pockets.
-$ἡ δόξα φερέγγου τηλικούτη ἐστι ἠλικίη τό πόσος χρημάτων ἐν τῷ βαλλαντίῳ αὐτοῦ.
+$ὅσα χρημάτων Φερέγγι φέρει ἐν τῷ κόλπῳ, τόση αύτῷ ἐστιν ἡ δόξα.
 #259. A lie is a way to tell the truth to someone who doesn’t know.
 $τὸ φεύδεσθαι τρόπος ἐστὶ τοῦ λέγειν τὴν αληθείαν τῷ μὴ εἰδότι
 #260. Gambling is like the way to power: The only way to win is to cheat, but don’t get caught in the process.
@@ -545,4 +545,39 @@ $ὅταν διαστάζητε, ἀυτοὺς ἀκοντίσατε, τὰ χ�
 #269. Never purchase anything that has been promised to be valuable or go up in value.
 $Μὴ ποτε ἀγοράζειν ὅτι ὑπέσχεται εἶναι πολύτιμον ἢ περὶ πολλοῦ ποιεῖσθαι ἐν τῷ μέλλοντι χρόνῳ
 #270. It’s better to have gambled and lost than to never have gambled at all.
-$κρείττον τὸ κυβεύειν καὶ ἀπολέσθαι ἢ τοῦ μηδὲν κινδυνεύειν καὶ ἔτι ἀπολέσαι
+$κρείττον τὸ κυβεύειν καὶ ἀπολέσθαι ἢ τοῦ μηδὲν κινδυνεύειν καὶ ἔτι ἀπολέσαι.
+#271. There’s many witty men whose brains can’t line their pockets.
+$πολλοί μεν εἴσι δεινοὶ οὐ δὲ δυνάμενοι τὰς τούτων κόλους χρυσίου πεπληρῶσθαι
+#272. The way to a Ferengi’s heart is through his wallet.
+$ἡ ὅδος εἰς τὴν καρδίαν τῶν Φερέγγων πορεύεται διὰ τοῦ βαλλαντίου.
+#273. Always count their Latinum before selling anything.
+$ἁεὶ ἀριθμεῖτε τὸν Λατινῶνα τοῦ ὠνητοῦ πρὸ τοῦ πωλεῖν τινά.
+#274. There is no profit in love; however, a strong heart is worth a few bars of Latinum on the open market. Keep it on ice.
+$ἐν τῇ ἀγάπῃ οὐκ ἔστι τὸ κέρδος· ἀλλὰ καρδία ἰσχυρὰ ἀξία ἐστὶν ὀλίγων πλίνθων Λατινῶνος ἐπὶ τῶν ἀγορῶν. ἐπιτηρεῖτε αὐτὴν ἐπὶ τῷ παγετῷ.
+#275. Latinum can’t buy happiness, but you can sure have a blast renting it.
+$τὸ λατινῶν οὐ δύναται ἀγοράσαι τὴν εὐδαιμονίαν, ἀλλὰ τῷ μισθωμένῳ μάλλον ἀρέσκει.
+#276. If at first you don’t succeed, try to acquire again.
+$ἐὰν τὸ πρῶτον ἀποτύχητε, πειράσατε πάλιν κτᾶσθαι.
+#277. Diamonds may be girl’s best friend, but you can only buy the girl with Latinum.
+$οἱ ἀδαμάντες μὲν φίλοι ταῖς κοραῖς, ἡ δὲ κόρη τῷ λατινῶνι ἀγοράζεται.
+#278. It’s better to swallow your pride than to lose your profit.
+ἀμείνον τὸ καταπίνειν τῆν ἀλαζονείαν ἢ τοῦ διαλύειν τὸ κέρδος. 
+#279. Never close a deal too soon after a female strokes your lobes.
+$μηδέποτε ἐπιτελήσατε τὴν συμφωνίαν αὐτίκα μετὰ ἀλείφει τοῦς λοβοῦς ὑμῶν.
+#280. An empty bag can not stand upright.
+$ὁ κένος σάκκος οὐ δύναται ὀρθῶς σταθῆναι.
+#281. Blood is thicker than water, but harder to sell.
+$τό μὲν αἷμα πυκνότερον τοῦ ὕδατος, ἀλλὰ δυσκολώτερον τὸ πωλεῖν ἐστιν.
+#282. Business is like war; it’s important to recognize the winner.
+$ἡ ἐμπορία ὁμοία τῷ πολέμῳ· δεῖ γνῶναι τὴν νικητὴν.
+#283. Rules are always subject to change.
+$οἱ κανόνες ἀεὶ μεταβάλλοντες.
+#284. Rules are always subject to interpretation.
+$oἱ κανόνες ἀεὶ ἑρμηνευέτεοι.
+#285. No good deed ever goes unpunished.
+$οὐδεμία εύεργεσία ἀζημίως οὔποτε ἄγει
+#286. Hear all, trust nothing!
+$ἀκούετε πάντα, μηδὲν πιστεύετε.
+#287. When Morn leaves it is all over.
+$ὅταν ὁ Μορν ἀπέρηται, πάντα τελείως τελεί.
+$ΤΟ ΤΕΛΟΣ
