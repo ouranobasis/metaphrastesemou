@@ -535,13 +535,13 @@ $συνωρὶς τῶν ὤτων τῶν ἀγαθῶν ἐξηράνει ἑ�
 #267. Wish not so much to live Long, as to live well.
 $μὴ ζητεῖτε μακροβιότητα, ἀλλὰ τὸ εὖ ζῆν.
 #268. a) When in doubt, lie.
-$		ὅταν διαστάζητε, ψεύσατε.
-#     b) When in doubt, buy.
-$		ὅταν διαστάζητε, ἀγοράσατε 
-#     c) When in doubt, demand more money.
-$		ὅταν διαστάζητε, ἀπαιτήσατε πλείονα χρήματα.
-#     d) When in doubt, shoot them, take their money, run and blame someone else.
-$		ὅταν διαστάζητε, ἀυτοὺς ἀκοντίσατε, τὰ χρήματα ἁρπάσατε, φεύξατε, καὶ κατηγορήσατε ἄλλον.
+$ὅταν διαστάζητε, ψεύσατε.
+#268. b) When in doubt, buy.
+$ὅταν διαστάζητε, ἀγοράσατε 
+#268. c) When in doubt, demand more money.
+$ὅταν διαστάζητε, ἀπαιτήσατε πλείονα χρήματα.
+#268. d) When in doubt, shoot them, take their money, run and blame someone else.
+$ὅταν διαστάζητε, ἀυτοὺς ἀκοντίσατε, τὰ χρήματα ἁρπάσατε, φεύξατε, καὶ κατηγορήσατε ἄλλον.
 #269. Never purchase anything that has been promised to be valuable or go up in value.
 $Μὴ ποτε ἀγοράζειν ὅτι ὑπέσχεται εἶναι πολύτιμον ἢ περὶ πολλοῦ ποιεῖσθαι ἐν τῷ μέλλοντι χρόνῳ
 #270. It’s better to have gambled and lost than to never have gambled at all.
