@@ -542,3 +542,7 @@ $		ὅταν διαστάζητε, ἀγοράσατε
 $		ὅταν διαστάζητε, ἀπαιτήσατε πλείονα χρήματα.
 #     d) When in doubt, shoot them, take their money, run and blame someone else.
 $		ὅταν διαστάζητε, ἀυτοὺς ἀκοντίσατε, τὰ χρήματα ἁρπάσατε, φεύξατε, καὶ κατηγορήσατε ἄλλον.
+#269. Never purchase anything that has been promised to be valuable or go up in value.
+$Μὴ ποτε ἀγοράζειν ὅτι ὑπέσχεται εἶναι πολύτιμον ἢ περὶ πολλοῦ ποιεῖσθαι ἐν τῷ μέλλοντι χρόνῳ
+#270. It’s better to have gambled and lost than to never have gambled at all.
+$κρείττον τὸ κυβεύειν καὶ ἀπολέσθαι ἢ τοῦ μηδὲν κινδυνεύειν καὶ ἔτι ἀπολέσαι
