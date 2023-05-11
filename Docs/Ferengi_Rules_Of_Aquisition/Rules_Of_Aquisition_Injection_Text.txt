@@ -1,25 +1,25 @@
 #1. Once you have their money, never give it back.
-$ὄταν τα χρήματά τινος ἁρπάζῃ, μὴ ἀπόδος.
+$ὄταν τὰ χρήματά τινος ἁρπάσατε, μὴ ἀπόδοτε.
 #2. You can’t cheat an honest customer, but it never hurts to try.
 $πίστον ὠνητὴν δολίειν οὐ δύνατον, άλλὰ ἄλγος οὐ εἴσεισι τῷ ἐπιχείροντῳ.
 #3. Never spend more for an acquisition than you have to.
 $οὐδαμῶς ἁλλίσκεσθε προσότερον δεινάριον ἐπὶ κτήμασι ἢ ἀνάγνκη.
 #4. Sex and profit are the two things that never last long enough.
-$ἀφροδίσια καὶ κέρδος εἰσί τὰ δύο οὔποτε περιμείνοντα ἴκανως.
+$ἡ ἀφροδίσια καὶ τὸ κέρδος εἰσὶ τὰ δύο οὔποτε περιμείνοντα ἱκανῶς.
 #5. If you can’t break a contract, bend it.
-$εἲ συμβόλαιον κατάργειν ουκ ἔξεστιν, παραστρέφετε
+$εἰ συμβόλαιον κατάργειν ουκ ἔξεστιν, παραστρέψατε
 #6. Never let family stand in the way of opportunity.
 $οὐδαμῶς ἐᾶτε τὰ οἰκεία χωλύειν ἀφορμὸν.
 #7. Always keep you ears open.
-$ἀδιαλείπτως ἀνοίγετε τὰ ὦτα
+$ἀδιαλείπτως ἀνοίξατε τὰ ὦτα
 #8. Keep count of your change.
-$ἀναλογίζετε πάντας κοδράντους
+$ἀναλογίζετε πάντας τοὺς κοδράντους
 #9. Instinct plus opportunity equals profit.
-$τέχνεια ἔμφυτη εὐκαιρίᾳ προσέται, ἐξέργεται κέρδος  
+$τέχνεια ἔμφυτη εὐκαιρίᾳ προσέται, ἐξέργεται τὸ κέρδος  
 #10. A dead customer can’t buy as much as a live one.
 $οἱ οἱ τεθνηκότες ὠνηταὶ οὐ δύνονται ὄσον ἀγοράζειν τοσούτον οἱ ζωντόντες   
 #11. Latinum isn’t the only thing that shines.
-$λάτινων οὐκ ἔστι τὸ μόνον λάμπρον
+$λατινῶν οὐκ ἔστι τὸ μόνον λάμπρον
 #12. Anything worth selling is worth selling twice.
 $ὅ τι ἄξιον τοῦ πωλεῖν, χρή δὶς πωλεῖν
 #13. Anything worth doing is worth doing for money.
@@ -27,35 +27,35 @@ $ὅ τι ἄξιον τοῦ πράσσειν, χρή ἀντι χρήματω�
 #14. Anything stolen is pure profit.
 $ὅστινα κλεπτόμενα ἑστίν ἁπλῶς κέρδος
 #15. Acting stupid is often smart.
-$τὸ προσποιήσθαι ἀσυνετόν ἐστιν ὡς επὶ πολὺ συνετός. 
+$τὸ προσποιήσθαι ἀσυνετόν ἐστιν, ὡς επὶ πολὺ, τὸ συνετότατος. 
 #16. A deal is a deal … until a better one comes along.
-$Συμβόλαιον δίκαιον μέχρι το μείζονα διατίθεσθαι
+$συμβόλαιον οὐ διαλυτέον μέχρι το μείζονα διατίθεσθαι.
 #17. A bargain usually isn’t.
-$ἐυτελὴς ὡς επἰ πολὺ οὐκ ἔστιν
+$τὸ ἐυτελὲς ὡς επἰ πολὺ οὐκ ἔστιν
 #18. A Ferengi without profit is no Ferengi at all.
 $Φερέγγι χώρις κέρδου οὐδαμῶς Φερέγγι ἐστὶν.
 #19. Don’t lie too soon after a promotion.
-$μὴ ἐυθέως έξαπατῆτε μετὰ τὴν προκοπὴν  
+$μὴ ἐυθέως έξαπατῆτε μετὰ τὴν προκοπὴν.  
 #20. When the customer is sweating, turn up the heat.
 $ὁπότε ὁ ὠνητὴς ἰδόμενος, θερμὀν αὐξάνετε.
 #21. Never place friendship before profit.
-$ὁ φιλέταιρος πρὸ κέρδου ουκ καταστῆστε
+$ὁ φιλέταιρος πρὸ τοῦ κέρδου οὐκ καταστήσατε.
 #22. Wise men can hear profit in the wind.
-$ἄνδρες σόφοι ἀκόυσουσι κέρδον ἔν τῷ ἄνεμῳ.
+$οἱ σόφοι ἀκόυσουσι τὸ κέρδον ἐν τῷ ἄνεμῳ.
 #23. Never take the last coin, but be sure to get the rest.
-$οὐδαμῶς δέχεσθε κοδράντιν ἐσχατον, αλλα μέλετει λοιπῶν
+$οὐδαμῶς ἁρπάσατε κοδράντην ἐσχάτην, ἀλλὰ μέλετει ἀρπάσαι τῶν λοιπῶν.
 #24. Never ask when you can take.
-$έπειδὴ ἀρπάζειν δύνασαι, οὔποτε αἰτῇ
+$ἐπειδὴ ἁρπάζειν δύνασαι, οὔποτε αἰτήσατε.
 #25. Fear makes a good business partner.
 $φόβος ποιεῖ πρεπώδη μέτοχον
 #26. The vast majority of the rich in this galaxy did not inherit their wealth; they stole it.
 $ο πλεων πληθος κατα αὐτὴν τὴν θάλασσα ἀστέρων οὐ ἐκληρονόμησαν θησαῦρον αὐτοῦ; ἀλλὰ αὐτὴν ἤρπασαν.
 #27. The most beautiful thing about a tree is what you do with it after you cut it down.'
-$το κάλλιστον περὶ δένδρου ἐστὶν ὁ τι γενήσεται παρἀ τῆς τέχνης τοῦ ξυλοτόμου.
+$το κάλλιστον περὶ δένδρου ἐστὶν ὁ τι γενήσεται ἐκ τῆς τέχνης τοῦ ξυλοτόμου.
 #28. Morality is always defined by those in power.
 $ἡ δικαιοσύνη κατὰ τοὺς αἰῶνας παρελάμβανε τὸν ὀρισμὸν ἀπὸ τῶν ἀρχόντων. 
 #29. When someone says “It’s not the money,” they’re lying.
-$ἐπειδάν τις εἶπῃ οτι "χρήματα οὐ μοι μέλετει", σε εξεπατοῦσιν. 
+$ἐπειδάν τις εἶπῃ ὁτι "χρήματα οὔ μοι μέλετει", ὑμὰς ἐξεπατοῦσιν. 
 #30. Talk is cheap; synthehol costs money.
 $ὃ τοῦ κόλακος λόγος εὐτελὴς, αἱ πόσεις τῆς ψευδομλέθης πολυτελής ἐστιν.
 #31. Never make fun of a Ferengi’s mother.
@@ -85,71 +85,71 @@ $μόνον πότε τὸ κέρδος βεβαίον ἐστὶν συναλλ
 #43. Caressing an ear is often more forceful than pointing a weapon.
 $τὸ κνᾶσθαι τὰ ὦτα ἔχει βίαν κρατότεραν τοῦ πατάσσειν ὄπλῳ
 #44. Never argue with a loaded phaser.
-$οὐδαμῶς αμφιβολετε παρασκευῳ φασηρ εις θανατον  
+$οὐδαμῶς ἀμφιβητήσατε ὄπλῳ τῆς ἐνεργείας ἐτοίῳ πρὸς ἀκοντίσαι
 #45. Profit has limits. Loss has none.
-$τὸ κέρδος ἔχει ἔσχατα, ἡ ζημία οὐ
+$τὸ κέρδος ἔχει ἔσχατα, ἡ ζημία οὐ.
 #46. Labor camps are full of people who trusted the wrong person.
-$στρατοδεια του πονου μεστα εστιν ανθρωπων πεπονθοντων τοις πρεπωδοις 
+$στρατοδείαι τοῦ πόνου μέσται ἐισὶν ἀνθρώπων πεπονθόντων τοῖς ἡμαρτηκόσι
 #47. Never trust a man wearing a better suit than you own.
-$οὐδαμῶς πειθεσθε ἀνθρωπῳ ενδυόμενῳ χιτωνα πολυτελης
+$οὐδαμῶς πείθεσθε ἀνθρώπῳ ἐνδυόμενῳ χιτώνα πολυτελὴς.
 #48. The bigger the smile, the sharper the knife.
 $τὸ μεγαλύτερον μειδίαμα, τὸ ὀξύτερον ξιφίδιον
 #49. Old age and greed will always overcome youth and talent.
-$τὸ γῆρας και ἡ ἀπληστία ἀεὶ νικήσουσιν τὴν ἡλικίαν καὶ τὴν τέχνην.
+$τὸ γῆρας καὶ ἡ ἀπληστία ἀεὶ νικήσουσιν τὴν ἡλικίαν καὶ τὴν τέχνην.
 #50. Never bluff a Klingon.
-$μήποτε ἐξηπάτησον κλίγγων διὰ τοῦ θάρσειν.
+$μήποτε ἐξηπατήσατε κλίγγων τῷ θάρσειν.
 #51. Never admit a mistake if there’s someone else to blame.
-$μήποτε ὁμολογεῖ τὰ ἁμαρτία σου ἐαν ἔξεστιν ἄλλον ψέγειν.
+$μήποτε ὁμολογεῖ τὰ ἁμαρτία σοῦ ἔαν ἔξεστιν ἄλλον ψέγειν.
 #52. Only Bugsy could have built Las Vegas.
-$Μόνον ὁ λήστης καλουμένος Βουξι εἴεν ἰκανός κατοικίζειν τὴν πόλιν καλουμένην λαζβέξις.
+$Μόνον ὁ λήστης καλουμένος Βουξι εἴεν ἰκανός τῷ κατοικίζειν τὴν πόλιν καλουμένην λαζβέξις.
 #53. Sell first; ask questions later.
-$πρότον μὲν πώλησον ὔστερον δὲ ἐρώτετε.
+$πρότον μὲν πωλήσατε ὔστερον δὲ ἐρώτετε.
 #54. Never buy anything you can’t sell.
-$μήποτε ἀγοράζετε ὄντινα οὐ οἶά τὲ πωληθῆναι
+$μήποτε ἀγοράσατε ὄντινα οὐ οἶά τὲ πωληθῆναι
 #55. Always sell at the highest possible profit.
-$πάντοτε πώλετε ἐπὶ τοῦ ακροτάτου κέρδου.
+$πάντοτε πωλεῖτε ἐπὶ τοῦ ἀκροτάτου κέρδους.
 #56. Pursue profit; women come later.
-$ἐπιτηδεύε ἐν κερδῳ, τάς γυναίκας ὔστερον.
+$διώξετε τὸ κέρδος, τὰς γυναίκας ὔστερον.
 #57. Good customers are almost as rare as Latinum – treasure them.
-$οἱ ἄγαθοι ὠνηταὶ σχεδόν εἰσι τόσοι σπάνιοι ὄσοι λάτινών,  αὐτούς περὶ πολλοῦ ποιεῖσθε 
+$οἱ ἀγαθοὶ ὠνηταὶ σχεδόν εἰσι τόσοι σπάνιοι ὄσοι λάτινών,  αὐτούς περὶ πολλοῦ ποιεῖσθε. 
 #58. Friendship is seldom cheap.
-$ἡ φιλία σπανίως ἐστί εύτελής
+$ἡ φιλία σπανίως ἐστὶ εὐτελής.
 #59. Fee advice is never cheap.
-$συμβουλία  ἄμισθη οὐδέποτε εὐτελής
+$συμβουλία  δωρεὰν οὐδέποτε εὐτελής.
 #60. Never use Latinum where your words will do.
-$μηδαμῶς λάτινῷ χρᾶσθε ὀπότε οἱ λόγοι ἐστιν ἱκανοί.
+$μηδαμῶς λάτινῷ χρᾶσθε ὀπότε οἱ λόγοι ἐισὶν ἱκανοί.
 #61. Never buy what can be stolen.
-$οὐδέποτε ὤνησαι οἶά τὲ κλέπτεσθαι.
+$οὐδέποτε ὤνησαι οἶά τε κλέπτεσθαι.
 #62. The riskier the road, the greater the profit.
-$ἡ δεινότερα ὄδος πορίζει κέρδον μεγαλύτερον.
+$ἡ δεινότερα ὄδος, τὸ κέρδος μεγαλύτερον.
 #63. Power without profit is like a ship without an engine.
-$δύναμις χωρίς κέρδον οἵμοια πλοίῳ χωρὶς κινητῆτος.
+$ἡ δύναμις χωρὶς κέρδους οἵμοια πλοίῳ χωρὶς κινητῆτος.
 #64. Don't talk shop, talk shopping.
-$μὴ λάλεσον πέρι τῆς ἀγορᾶς, λάλεσον ἐν ἀγορῇ.
+$μὴ λαλήσατε περὶ τῆς ἀγορᾶς, λαλήσατε ἐν τῇ ἀγορᾷ.
 #65. Don't talk ship, talk shipping.
-$μὴ λάλεσον πέρι πρακτέου, λάλεσον πέρι πράξεως.
+$μὴ λαλήσατε πέρι τῶν πρακτέων, λαλήσατε περὶ τῶν πράξων.
 #66. Anyone serving in a fleet who is crazy can be relieved if they ask for it.
-$ὁστισδήποτε δύναται ἀναπαύσασθαι ὁς μανιώδης καὶ πράττει ἐν στόλῳ εἰ αἰτεῖ.
+$ὁστισδήποτε δύναται ἀναπαύσασθαι ὁς ἔχει μανικῶς καὶ στρατεύει ἐν στόλῳ, εἰ αἰτεῖ.
 #67. Enough is never enough
 $ἰκανότης οὐδέποτε ἀρκετός.
 #68. Compassion is no substitute for a profit.
-$ἔλεος οὐκ ἔστιν ἀντάλαγμα κέρδου.
+$ἔλεος οὐκ ἔστιν ἀντάλαγμα τοῦ κέρδους.
 #69. You could afford your ship without your government - if it weren't for your government.
-$ὠνήσασθαι δύναιο πλοῖον χώρις τῆς ἡγαμονίας, εἰ ἡ ἡγαμονία σου ἀπείη.
+$ὠνήσασθαι δύναιο πλοῖον χώρις τῆς βοιηθίας τῆς ἡγαμονίας, εἰ ἡ ἡγαμονία σου ἀπείη.
 #70. Get the money first, then let the buyers worry about collecting the merchandise.
-$πρότερον ἅρπασον τὰ χρήματα ἐπείτα ἐάσατε χαίρειν τὰς ὠνητὰς μηχανώμενας πως συλλαμβάνοιεν τὰ ἀγοράσματα
+$πρότερον ἁρπάσατε τὰ χρήματα ἔπειτα ἐάσατε χαίρειν τὰς ὠνητὰς μηχανώμενας πῶς συλλαμβάνοιεν τὰ ἀγοράσματα
 #71. Gamble and trade have two things in common: risk and latinum.
 $τὸ κυβεύειν καὶ τὸ ἐμπορεύεσθαι ἀμφότερον μετέχει τοῦ κινδύνου καὶ τοῦ λατινῶνος.
 #72. Never let the competition know what you're thinking
-$οὐδέποτε ἐπιτρέπετε τοὺς ἀγωνιστάς ἁ ἐνθυμείσθε εἰδέναι.
+$οὐδέποτε ἐπιτρέπετε τοὺς ἀγωνιστάς εἰδέναι ἁ ἐνθυμείσθε.
 #73. Never trust advice from a dying Ferengi, listen but don't trust.
 $οὐδαμῶς πιστεύσατε τῇ βουλῇ ἀποθνῄσκοντος. ἀκούσατε ἀλλὰ μὴ πιστεύσατε τούτῳ.
 #74. A Ferengi without profit is no Ferengi at all.
-$φερέγγι χῶρις τοῦ κέρδου, φερέγγι οὐκ ἔστιν.
+$Φερέγγι χῶρις τοῦ κέρδους, Φερέγγι οὐκ ἔστιν.
 #75. Home is where the heart is but the stars are made of latinum.
-$ἡ οἰκία καθέστηκε που ἡ καρδία ἐστὶν ἀλλὰ οἱ ἄστρονες συνίστασι τοῦ λατινῶνος.
+$ἡ οἰκία καθέστηκε που ἡ καρδία ἐστὶν, ἀλλὰ οἱ ἄστρονες συνίστασι τοῦ λατινῶνος.
 #76. Every once in a while, declare peace. It confuses the hell out of your enemies.
-$ἄλλοτε καὶ ἄλλοτε κήρύξον σπονδὴν. ἐκπλήσσσει τὴν βεβαιότητα τῶν ἐχθρῶν ὑμῶν.
+$ἄλλοτε καὶ ἄλλοτε κήρύξον σπονδὴν. ἐκπλήσσει τὴν βεβαιότητα τῶν ἐχθρῶν ὑμῶν.
 #77. Go where no ferengi has gone before; where there is no reputation there is profit.
 $πόρευσαι ὄποι οὐτ πρὶν φερέγγι ἥκει, ὄπου ἡ Φήμη οὐχ ἥκει, ἐκεὶ κέρδος πάρεστιν.
 #78. Don't discriminate. The most unlikely species can create the best customers.
@@ -183,11 +183,11 @@ $ὅστις ταχέως πίνει, βράδεως ἀποδίδωσι.
 #92. Never confuse wisdom with luck.
 $οὐδαμῶς τυχῇ συγχεῖτε σοφίαν .
 #93. He’s a fool who makes his doctor his heir.
-$βλάξ ὅστις ἰατρὸν καθίστησι τὸν κληρονόμον.
+$βλάξ ὅστις τὸν ἰατρὸν αὐτοῦ καθίστησι τὸν κληρονόμον αὐτοῦ.
 #94. Beware of small expenses: a small leak will kill a ship.
-$φυλάσσεσθε δαπανήματα μίκρα, χύσις μίκρα τον νέων διαφθερεῖ. 
+$φυλάσσεσθε δαπανήματα μίκρα, χύσις μίκρα τὸν νέων διαφθερεῖ. 
 #95. Important, more impotant, Latinum.
-$τὰ μὲν ἄξια πολλοῦ, ἀλλὰ τὸ ἄξιο πλείονος λάτινων.
+$τὰ μέν εἰσιν ἄξια πολλοῦ, ἀλλὰ τὸ λατινῶν ἀξιότατον.
 #96. Faith moves mountains – of inventory.
 $πίστις μεταβάλλει τὰ ὄρη – ἐμπορευμάτων.
 #97. Someon's always got bigger ears.
@@ -195,15 +195,15 @@ $ἄλλος τις άεὶ ὤτα μαγαλύτερα ἔχει.
 #98. Every man has his price.
 $πὰς ὁ ἄνθρωπος ἔχει τὴν τίμην.
 #99. learn the customers weaknesses so that you can better take advantage of him.
-$μάθετε τὴν ἀσθένειναν τῶν ὠνήτων σου, ἴνα ἐπὶ πλείον ἀπολαύσητε.
+$μάθετε τὴν ἀσθενείαν τῶν ὠνητῶν σου, ἴνα ἐπὶ πλείον ἀπολαύσητε.
 #100. when buisness matter hang in the balance, tell the truth.
 $ὅποτε χρημάτικα πράγματα κεῖται ἐπὶ τῷ σταθμῷ, εἰπὲ τὴν ἀλήθειαν.
 #101. profit trumps emotion.
-$τὸ κέρδος νικεῖ τὰ σπλάγχνα.
+$τὸ τὸ κέρδος νικεῖ τὰ σπλάγχνα σοῦ.
 #102. Nature decays, but Latinum lasts forever.
-$φύσις σήπεται ἀλλὰ λατινὼν διαγίγνεται διαμπερὲς.
+$ἡ φύσις σήπεται, ἀλλὰ λατινῶν διαγίγνεται εἰς αἰῶνας.
 #103. Sleep can interfere with opportunity.
-$το καθεύδειν οἷόν τὲ ἐναντιοῦσθαι τὴν εὐδαιμονίαν.
+$το καθεύδειν οἷόν τὲ ἐναντιοῦσθαι τὴν εὐκαιρίαν.
 #104. Money is never made. It is merely won or lost.
 $οὔποτε τὰ χρήματα κτίζεται. οἱ ἄνθρωποι ἀπλῶς αὐτῶν κρατοῦσιν.
 #105. Wise men don’t lie, they just bend the truth.
@@ -577,7 +577,7 @@ $oἱ κανόνες ἀεὶ ἑρμηνευέτεοι.
 #285. No good deed ever goes unpunished.
 $οὐδεμία εύεργεσία ἀζημίως οὔποτε ἄγει
 #286. Hear all, trust nothing!
-$ἀκούετε πάντα, μηδὲν πιστεύετε.
+$ἀκούετε πάντα, μηδένι πιστεύετε.
 #287. When Morn leaves it is all over.
 $ὅταν ὁ Μορν ἀπέρηται, πάντα τελείως τελεί.
 # ~
