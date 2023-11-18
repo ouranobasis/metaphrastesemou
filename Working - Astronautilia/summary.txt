@@ -1,35 +1,5 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Book 1 - Proem. About the cosmos-observing sheep and about Mandys. The beginning of the Astronautilia. 								(214 lines)Book 01 τετέλεσται
 Book 2 - About the Lesbians. 																		   								(342 lines)Book 02 τετέλεσται
 Book 3 - About the Bearers of Beaks. 																   								(271 lines)Book 03 τετέλεσται
@@ -41,10 +11,10 @@ Book 8 - About the butterflies and Grogals and about the prophet. 														
 Book 9 - About the Tailed Women and Fake-Dogs. 																						(378 lines)Book 09 τετέλεσται
 Book 10 - About the Macropodes and the capture and escape of Mandys. 																(186 lines)Book 10 τετέλεσται
 Book 11 - About the unmarried men and remaining things. 																			(302 lines)Book 11 τετέλεσται
-Book 12 - The battle of the men and women. Oudeis as prisoner and gladiator. The aristeia of the robots. The injustice of the king. (473 lines)Book 12
-Book 13 - About various creatures on planets. 																						(378 lines)Book 13 
-Book 14 - The Astronauts' Council. The Recreational Planet. Kypta's wickedness and persecution. 									(351 lines)Book 14
-Book 15 - About the royal daughter, the monster, and the good saviour in the archetypal schemes. 									(340 lines)Book 15
+Book 12 - The battle of the men and women. Oudeis as prisoner and gladiator. The aristeia of the robots. The injustice of the king. (473 lines)Book 12 τετέλεσται
+Book 13 - About various creatures on planets. 																						(378 lines)Book 13 τετέλεσται 
+Book 14 - The Astronauts' Council. The Recreational Planet. Kypta's wickedness and persecution. 									(351 lines)Book 14 τετέλεσται
+Book 15 - About the royal daughter, the monster, and the good saviour in the archetypal schemes. 									(340 lines)Book 15 
 Book 16 - The Robots' Rebellion. Franta's madness and restoration. 																	(374 lines)Book 16
 Book 17 - About the robbers and the capture of Elephas and Franta. 																	(185 lines)Book 17
 Book 18 - About the Grogal temple and the guards. Burda's aristeia. About the parrot-centaurs. 										(170 lines)Book 18
