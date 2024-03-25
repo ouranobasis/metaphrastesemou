@@ -17,9 +17,9 @@ $ἀναλογίζετε πάντας τοὺς κοδράντους
 #9. Instinct plus opportunity equals profit.
 $τέχνεια ἔμφυτη εὐκαιρίᾳ προσέται, ἐξέργεται τὸ κέρδος  
 #10. A dead customer can’t buy as much as a live one.
-$οἱ οἱ τεθνηκότες ὠνηταὶ οὐ δύνονται ὄσον ἀγοράζειν τοσούτον οἱ ζωντόντες   
+$οἱ τεθνηκότες ὠνηταὶ οὐ δύνονται ὄσον ἀγοράζειν τοσούτον οἱ ζῶντες   
 #11. Latinum isn’t the only thing that shines.
-$λατινῶν οὐκ ἔστι τὸ μόνον λάμπρον
+$λατινῶν οὐκ ἔστι τὸ μόνον ὃ ἐκλάμπει 
 #12. Anything worth selling is worth selling twice.
 $ὅ τι ἄξιον τοῦ πωλεῖν, χρή δὶς πωλεῖν
 #13. Anything worth doing is worth doing for money.
@@ -27,7 +27,7 @@ $ὅ τι ἄξιον τοῦ πράσσειν, χρή ἀντι χρήματω�
 #14. Anything stolen is pure profit.
 $ὅστινα κλεπτόμενα ἑστίν ἁπλῶς κέρδος
 #15. Acting stupid is often smart.
-$τὸ προσποιήσθαι ἀσυνετόν ἐστιν, ὡς επὶ πολὺ, τὸ συνετότατος. 
+$τὸ προσποιήσθαι ἀσυνετόν εἶναι, ὡς επὶ πολὺ, τὸ συνετότατός ἐστιν. 
 #16. A deal is a deal … until a better one comes along.
 $συμβόλαιον οὐ διαλυτέον μέχρι το μείζονα διατίθεσθαι.
 #17. A bargain usually isn’t.
