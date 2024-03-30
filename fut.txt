@@ -1,0 +1,58 @@
+===========done 2023===========
+01-fereng-rul          100%  May 10th
+02-akward-voc          100%  May 10th
+03-grammr-pal          100%  May 20th			  
+04-apofth-pat          100%  Jul 03rd
+05-aesops-fab          100%  Jul 29th
+06-gaza's-att          100%  Sep 03rd
+07-harriu-pot          100%  Oct 04th
+08-atlant-myt          100%  Oct 23rd
+09-arstro-nau          100%  Nov 27th
+10-mypali-cor dwnld    100%  Dec 02nd
+
+==========done 2023============
+11-grkrec-dec          100%  Mar 21th
+
+==========work 2024============
+12-coptic-mat          050%  Apr 10th
+13-copdec-rec          041%  Apr 20th
+14-paldec-rec          001%  May 20th
+
+==========next 2024============ 
+16-fereng-rule-clean   001%  Jun 01st
+17-gaza's-att          002%  Jun 05th
+18-astronautilia       002%  Aug 20th
+19-harriu-pot          010%  Nov 03rd
+20-watchpalicourse     010%  Nov 15th 
+21-elanor-dic          015%  Dec 30th
+22-thun-perfc	       005%  Jan 10th
+
+=========bluesky 2025==========
+23-coptic-mar          000%
+24-coptic-jon          000%
+25-coptic-luk          000%
+26-coptic-act          000%
+27-modernpalivocab     040%
+28-dracul-tra          000%
+29-dreamn-spa          001% 
+30-youtub-plt          005%
+31-macul muse phrase   000%
+32-polis-copt-sahid    000%
+33-guat-cop-phra-anki  000%
+
+========greysky 2026===========
+34-aesops-cop          001%
+35-plat-atl-cop        000%
+35-french-duo          001%
+36-german-duo          002%
+37-hermet-cop          000%
+38-colloquial-Grk-anki 000%
+39-pis-soph-greek-tran 000%
+40-mulamadhya-pal-tran 000%
+41-mulamadhya-grk-tran 000%
+42-mulamadhya-cop-tran 000%
+43-homer-oddysey-para  003%
+45-hom-hermes-hym-par  001%
+46-hom-aphrodite-par   000%
+47-hom-dyonisus-par    000%
+48-sidgwick-grk-comp   000%    
