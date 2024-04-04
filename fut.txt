@@ -12,20 +12,20 @@
 
 ==========done 2023============
 11-grkrec-dec          100%  Mar 21th
+12-copdec-rec          090%  Apr 06th
 
 ==========work 2024============
-12-coptic-mat          050%  Apr 10th
-13-copdec-rec          041%  Apr 20th
-14-paldec-rec          001%  May 20th
+12-coptic-mat          050%  Apr 25th
+14-paldec-rec          001%  May 10th
+16-fereng-rule-clean   001%  May 12th
+17-gaza's-att          002%  May 25th
 
-==========next 2024============ 
-16-fereng-rule-clean   001%  Jun 01st
-17-gaza's-att          002%  Jun 05th
-18-astronautilia       002%  Aug 20th
-19-harriu-pot          010%  Nov 03rd
-20-watchpalicourse     010%  Nov 15th 
-21-elanor-dic          015%  Dec 30th
-22-thun-perfc	       005%  Jan 10th
+=========target 2024=========== 
+18-astronaut-chk-txt   002%  Jul 25th
+19-harriu-pot          010%  Oct 13th
+20-watchpalicourse     010%  Oct 30th 
+21-elanor-dic          015%  Nov 30th
+22-thun-perfc	       005%  Dec 10th
 
 =========bluesky 2025==========
 23-coptic-mar          000%
