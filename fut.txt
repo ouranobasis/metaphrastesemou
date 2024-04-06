@@ -12,7 +12,7 @@
 
 ==========done 2023============
 11-grkrec-dec          100%  Mar 21th
-12-copdec-rec          090%  Apr 06th
+12-copdec-rec          100%  Apr 05th
 
 ==========work 2024============
 12-coptic-mat          050%  Apr 25th
