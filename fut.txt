@@ -15,44 +15,45 @@
 12-copdec-rec          100%  Apr 05th
 
 ==========work 2024============
-12-coptic-mat          050%  Apr 25th
-14-paldec-rec          001%  May 10th
-16-fereng-rule-clean   001%  May 12th
-17-gaza's-att          002%  May 25th
+12-coptic-mat          050%  Apr 14th
+14-paldec-rec          001%  Apr 25th
+16-fereng-rule-clean   001%  Apr 30th
+17-gaza's-att          002%  May 10th
 
 =========target 2024=========== 
-18-astronaut-chk-txt   002%  Jul 25th
-19-harriu-pot          010%  Oct 13th
-20-watchpalicourse     010%  Oct 30th 
-21-elanor-dic          015%  Nov 30th
-22-thun-perfc	       005%  Dec 10th
+18-astronaut-chk-txt   002%  May 25th
+19-harriu-pot          010%  Sep 13th
+20-watchpalicourse     010%  Sep 20th 
+21-elanor-dic          015%  Nov 10th
+22-thun-perfc	       005%  Nov 25th
+23-modernpalivocab     040%  Dec 12th
+24-macul muse phrase   000%  Dec 31st
 
 =========bluesky 2025==========
-23-coptic-mar          000%
-24-coptic-jon          000%
-25-coptic-luk          000%
-26-coptic-act          000%
-27-modernpalivocab     040%
-28-dracul-tra          000%
-29-dreamn-spa          001% 
-30-youtub-plt          005%
-31-macul muse phrase   000%
-32-polis-copt-sahid    000%
-33-guat-cop-phra-anki  000%
+25-sidgwick-grk-comp   000% 
+26-guat-cop-phra-anki  000%
+27-coptic-mar          000%
+28-coptic-jon          000%
+29-coptic-luk          000%
+30-coptic-act          000%
+31-dracul-tra          000%
+32-dreamn-spa          001% 
+33-youtub-plt          005%
+34-polis-copt-sahid    000%
+35-plat-atl-cop        000%
 
 ========greysky 2026===========
-34-aesops-cop          001%
-35-plat-atl-cop        000%
-35-french-duo          001%
-36-german-duo          002%
-37-hermet-cop          000%
-38-colloquial-Grk-anki 000%
-39-pis-soph-greek-tran 000%
-40-mulamadhya-pal-tran 000%
-41-mulamadhya-grk-tran 000%
-42-mulamadhya-cop-tran 000%
-43-homer-oddysey-para  003%
-45-hom-hermes-hym-par  001%
-46-hom-aphrodite-par   000%
-47-hom-dyonisus-par    000%
-48-sidgwick-grk-comp   000%    
+36-aesops-cop          001%
+37-french-duo          001%
+38-german-duo          002%
+39-hermet-cop          000%
+40-colloquial-Grk-anki 000%
+41-pis-soph-greek-tran 000%
+42-mulamadhya-pal-tran 000%
+43-mulamadhya-grk-tran 000%
+44-mulamadhya-cop-tran 000%
+45-homer-oddysey-para  003%
+46-hom-hermes-hym-par  001%
+47-hom-aphrodite-par   000%
+48-hom-dyonisus-par    000%
+   
