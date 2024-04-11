@@ -15,8 +15,8 @@
 12-copdec-rec          100%  Apr 05th
 
 ==========work 2024============
-12-coptic-mat          050%  Apr 14th
-14-paldec-rec          001%  Apr 25th
+12-coptic-mat          065%  Apr 14th
+14-paldec-rec          018%  Apr 25th
 16-fereng-rule-clean   001%  Apr 30th
 17-gaza's-att          002%  May 10th
 
