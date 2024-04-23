@@ -14,17 +14,18 @@
 11-grkrec-dec          100%  Mar 21th
 12-copdec-rec          100%  Apr 05th
 13-paldel-apb	       100%  Apr 21st
+
 ==========work 2024============
-12-coptic-mat          074%  Apr 28th
-14-paldec-rec          010%  May 10th
+14-coptic-mat          074%  Apr 28th
+15-paldec-rec          010%  May 10th
 16-fereng-rule-clean   030%  May 04th
 17-gaza's-att          002%  May 25th
+18-elanor-dic          015%  Nov 10th
 
 =========target 2024=========== 
-18-astronaut-chk-txt   002%  Jun 05th
-19-harriu-pot          010%  Sep 13th
-20-watchpalicourse     010%  Sep 20th 
-21-elanor-dic          015%  Nov 10th
+19-astronaut-chk-txt   002%  Jun 05th
+20-harriu-pot          010%  Sep 13th
+21-watchpalicourse     010%  Sep 20th 
 22-thun-perfc	       005%  Nov 25th
 23-modernpalivocab     040%  Dec 12th
 24-macul muse phrase   000%  Dec 31st
