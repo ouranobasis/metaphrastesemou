@@ -10,18 +10,18 @@
 09-arstro-nau          100%  Nov 27th
 10-mypali-cor dwnld    100%  Dec 02nd
 
-==========done 2023============
+==========done 2024============
 11-grkrec-dec          100%  Mar 21th
 12-copdec-rec          100%  Apr 05th
-
+13-paldel-apb	       100%  Apr 21st
 ==========work 2024============
-12-coptic-mat          065%  Apr 14th
-14-paldec-rec          018%  Apr 25th
-16-fereng-rule-clean   001%  Apr 30th
-17-gaza's-att          002%  May 10th
+12-coptic-mat          074%  Apr 28th
+14-paldec-rec          010%  May 10th
+16-fereng-rule-clean   030%  May 04th
+17-gaza's-att          002%  May 25th
 
 =========target 2024=========== 
-18-astronaut-chk-txt   002%  May 25th
+18-astronaut-chk-txt   002%  Jun 05th
 19-harriu-pot          010%  Sep 13th
 20-watchpalicourse     010%  Sep 20th 
 21-elanor-dic          015%  Nov 10th
