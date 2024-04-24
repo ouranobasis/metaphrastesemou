@@ -16,7 +16,7 @@
 13-paldel-apb	       100%  Apr 21st
 
 ==========work 2024============
-14-coptic-mat          074%  Apr 28th
+14-coptic-mat          071%  May 02th
 15-paldec-rec          010%  May 10th
 16-fereng-rule-clean   030%  May 04th
 17-gaza's-att          002%  May 25th
