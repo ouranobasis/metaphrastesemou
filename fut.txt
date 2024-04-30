@@ -13,22 +13,22 @@
 ==========done 2024============
 11-grkrec-dec          100%  Mar 21th
 12-copdec-rec          100%  Apr 05th
-13-paldel-apb	       100%  Apr 21st
+13-paldec-apb	       100%  Apr 21st
 
 ==========work 2024============
-14-coptic-mat          071%  May 02th
-15-paldec-rec          010%  May 10th
-16-fereng-rule-clean   030%  May 04th
-17-gaza's-att          002%  May 25th
-18-elanor-dic          015%  Nov 10th
+14-coptic-mat          080%  May 05th
+15-paldec-npc          060%  May 15th
+16-fereng-rule-clean   030%  May 20th
+17-gaza's-att          002%  Jun 25th
+18-elanor-dic          015%  Aug 13th
 
 =========target 2024=========== 
-19-astronaut-chk-txt   002%  Jun 05th
-20-harriu-pot          010%  Sep 13th
+19-astronaut-chk-txt   002%  Sep 05th
+20-harriu-pot          010%  Nov 13th
 21-watchpalicourse     010%  Sep 20th 
 22-thun-perfc	       005%  Nov 25th
 23-modernpalivocab     040%  Dec 12th
-24-macul muse phrase   000%  Dec 31st
+24-macul muse Anki     000%  Dec 31st
 
 =========bluesky 2025==========
 25-sidgwick-grk-comp   000% 
