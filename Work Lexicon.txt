@@ -17,13 +17,14 @@
 ὁ ἐφεξῆς ἄριθμος							version
 ὁ ὑπηρετικὸς ὑπολογιστὴς						server
 τὸ Δέλτον								ticket
-τὸ ἔρπεδον								bug
+τὸ ἔρπεδον / τὸ σφάλμα								bug
 ψηφικὰ στίγμα συλλεγόμενα προς χρηστοῦ 					DAC (ΨΣΣΧ) (digital datapoint collected from the user)
 πολυπλοκισμὸς καὶ πόνος 						complexity and labour
 ἐλήλεγμένος 								tested = ἐλέγχος = test
 σημασεία τοῦ κατατελοῦ							definition of done
 σημασεία τοῦ ἐτοίμου							definition of ready
-το ὀπλίδιον								app
+τὸ ὀπλίδιον								app
+τὸ ταμιεῖον τῆς ὑδροπορίας						department of water resources
 
 
 
