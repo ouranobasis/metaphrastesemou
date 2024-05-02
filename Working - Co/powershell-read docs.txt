@@ -1,3 +1,3 @@
--MS Mincho font in properties
+MS Mincho font in properties
 
--Get-Content '.\Done - Chapter 10.txt' -Encoding UTF8
+Get-Content '.\Done - Chapter 10.txt' -Encoding UTF8
