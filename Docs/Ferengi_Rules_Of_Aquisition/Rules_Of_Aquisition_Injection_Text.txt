@@ -543,7 +543,7 @@ $ὅταν διαστάζητε, ἀπαιτήσατε πλείονα χρήμα
 #268. d) When in doubt, shoot them, take their money, run and blame someone else.
 $ὅταν διαστάζητε, ἀυτοὺς ἀκοντίσατε, τὰ χρήματα ἁρπάσατε, φεύξατε, καὶ κατηγορήσατε ἄλλον.
 #269. Never purchase anything that has been promised to be valuable or go up in value.
-$Μὴ ποτε ἀγοράζειν ὅτι ὑπέσχεται εἶναι πολύτιμον ἢ περὶ πολλοῦ ποιεῖσθαι ἐν τῷ μέλλοντι χρόνῳ
+$ὅτινα ὑπέσχεται εἶναι πολύτιμον ἢ περὶ πολλοῦ ποιεῖσθαι ἐν τῷ μέλλοντι χρόνῳ μήποτε ἀγοράζειν
 #270. It’s better to have gambled and lost than to never have gambled at all.
 $κρείττον τὸ κυβεύειν καὶ ἀπολέσθαι ἢ τοῦ μηδὲν κινδυνεύειν καὶ ἔτι ἀπολέσαι.
 #271. There’s many witty men whose brains can’t line their pockets.
@@ -553,9 +553,9 @@ $ἡ ὅδος εἰς τὴν καρδίαν τῶν Φερέγγων πορε�
 #273. Always count their Latinum before selling anything.
 $ἁεὶ ἀριθμεῖτε τὸν Λατινῶνα τοῦ ὠνητοῦ πρὸ τοῦ πωλεῖν τινά.
 #274. There is no profit in love; however, a strong heart is worth a few bars of Latinum on the open market. Keep it on ice.
-$ἐν τῇ ἀγάπῃ οὐκ ἔστι τὸ κέρδος· ἀλλὰ καρδία ἰσχυρὰ ἀξία ἐστὶν ὀλίγων πλίνθων Λατινῶνος ἐπὶ τῶν ἀγορῶν. ἐπιτηρεῖτε αὐτὴν ἐπὶ τῷ παγετῷ.
+$ἐν τῷ ἔρωτι οὐκ ἔστι τὸ κέρδος· ἀλλὰ τὴν ἰσχυρὰ καρδία ἀξία ἐστὶν ὀλίγων πλίνθων Λατινῶνος ἐπὶ τῶν ἀγορῶν. ἐπιτηρεῖτε αὐτὴν ἐπὶ τῷ παγετῷ.
 #275. Latinum can’t buy happiness, but you can sure have a blast renting it.
-$τὸ λατινῶν οὐ δύναται ἀγοράσαι τὴν εὐδαιμονίαν, ἀλλὰ τῷ μισθωμένῳ μάλλον ἀρέσκει.
+$τὸ λατινῶν οὐ δύναται ἀγοράσαι τὴν εὐδαιμονίαν, ἀλλὰ τῷ μισθωτῷ σφόδρα ἀρέσκει.
 #276. If at first you don’t succeed, try to acquire again.
 $ἐὰν τὸ πρῶτον ἀποτύχητε, πειράσατε πάλιν κτᾶσθαι.
 #277. Diamonds may be girl’s best friend, but you can only buy the girl with Latinum.
@@ -579,6 +579,6 @@ $οὐδεμία εύεργεσία ἀζημίως οὔποτε ἄγει
 #286. Hear all, trust nothing!
 $ἀκούετε πάντα, μηδένι πιστεύετε.
 #287. When Morn leaves it is all over.
-$ὅταν ὁ Μορν ἀπέρηται, πάντα τελείως τελεί.
+$ὅταν ὁ Μορν ἀπέρχηται, πάντα τελείως τελεί.
 # 
 $~ΤΟ ΤΕΛΟΣ~
