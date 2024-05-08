@@ -15,7 +15,7 @@
 02-copdec-rec          100%  Apr 05th
 03-paldec-apb	       100%  Apr 21st
 04-coptic-mat          100%  May 05th
-05-paldec-npc          089%  May 15th
+05-paldec-npc          064%  May 15th
 07-gaza's-att          096%  Jun 25th
 
 ==========work 2024============
