@@ -1,13 +1,13 @@
 ===========done 2023===========
-01-fereng-rul          100%  May 10th
-02-akward-voc          100%  May 10th
-03-grammr-pal          100%  May 20th			  
-04-apofth-pat          100%  Jul 03rd
-05-aesops-fab          100%  Jul 29th
-06-gaza's-att          100%  Sep 03rd
-07-harriu-pot          100%  Oct 04th
-08-atlant-myt          100%  Oct 23rd
-09-arstro-nau          100%  Nov 27th
+01-fereng-rul                100%  May 10th
+02-akward-voc              100%  May 10th
+03-grammr-pal              100%  May 20th			  
+04-apofth-pat                100%  Jul 03rd
+05-aesops-fab                100%  Jul 29th
+06-gaza's-att                  100%  Sep 03rd
+07-harriu-pot                100%  Oct 04th
+08-atlant-myt                100%  Oct 23rd
+09-arstro-nau                100%  Nov 27th
 10-mypali-cor dwnld    100%  Dec 02nd
 
 ==========done 2024============
@@ -15,15 +15,15 @@
 02-copdec-rec          100%  Apr 05th
 03-paldec-apb	       100%  Apr 21st
 04-coptic-mat          100%  May 05th
-05-paldec-npc          064%  May 15th
-07-gaza's-att          096%  Jun 25th
+05-paldec-npc          100%  May 15th
+07-gaza's-att             096%  Jun 25th
 
 ==========work 2024============
 
 06-fereng-rule-clean   096%  May 20th
-08-elanor-dic          015%  Aug 13th
+08-elanor-dic             020%  Aug 13th
 09-astronaut-chk-txt   002%  Sep 05th
-10-harriu-pot          010%  Nov 13th
+10-harriu-pot             010%  Nov 13th
 11-watchpalicourse     010%  Sep 20th
 
 =========target 2024=========== 
