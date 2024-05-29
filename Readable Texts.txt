@@ -1,3 +1,4 @@
+Ancient Greek
 1.  Xenophon Anabasis              120
 2.  Library of Appolodorus         120
 3.  Letters of John                50
@@ -20,3 +21,38 @@
 20. Plato Phaedo                   60
 21. Lucian the Ass                 60
 22. Lucian True Story              60
+
+
+Coptic
+1. Matthew			   60
+2. Mark				   50
+3. Thomas			   10
+
+
+Pali
+1. Dhammachakkhapavatana sutta     10
+2. Aggivachagota sutta		   10
+
+
+Modern Greek			  
+1. Childrens book about saints     5
+
+
+Spanish
+1. 
+
+
+German
+1.
+
+
+French
+1.
+
+
+Sanskrit
+1.
+
+
+Ojibwe
+1.
