@@ -1,29 +1,36 @@
+(214 lines) Book 01 - Proem. About the cosmos-observing sheep and about Mandys. The beginning of the Astronautilia. 								                                                                                         
+(342 lines) Book 02 - About the Lesbians. 																		   								                        
+(271 lines) Book 03 - About the Bearers of Beaks. 																   								                                
+(135 lines) Book 04 - About the zoophytes. 																										                        
+(433 lines) Book 05 - About the Degenerates. 																									                        
+(380 lines) Book 06 - About the binary planet and remaining things. 																				                                                
+(247 lines) Book 07 - About the kosmobionts. Oudeis' aristeia. 																					                                        
+(300 lines) Book 08 - About the butterflies and Grogals and about the prophet. 																	                                                    
+(378 lines) Book 09 - About the Tailed Women and Fake-Dogs. 																						
+(186 lines) Book 10 - About the Macropodes and the capture and escape of Mandys. 					
+											
+(302 lines) Book 11 - About the unmarried men and remaining things. 	
+																	
+(473 lines) Book 12 - The battle of the men and women. Oudeis as prisoner and gladiator. The aristeia of the robots. The injustice of the king. 
 
+(378 lines) Book 13 - About various creatures on planets. 																						
+(351 lines) Book 14 - The Astronauts' Council. The Recreational Planet. Kypta's wickedness and persecution. 								
 
-Book 1 - Proem. About the cosmos-observing sheep and about Mandys. The beginning of the Astronautilia. 								(214 lines)Book 01 τετέλεσται
-Book 2 - About the Lesbians. 																		   								(342 lines)Book 02 τετέλεσται
-Book 3 - About the Bearers of Beaks. 																   								(271 lines)Book 03 τετέλεσται
-Book 4 - About the zoophytes. 																										(135 lines)Book 04 τετέλεσται
-Book 5 - About the Degenerates. 																									(433 lines)Book 05 τετέλεσται
-Book 6 - About the binary planet and remaining things. 																				(380 lines)Book 06 τετέλεσται
-Book 7 - About the kosmobionts. Oudeis' aristeia. 																					(247 lines)Book 07 τετέλεσται
-Book 8 - About the butterflies and Grogals and about the prophet. 																	(300 lines)Book 08 τετέλεσται
-Book 9 - About the Tailed Women and Fake-Dogs. 																						(378 lines)Book 09 τετέλεσται
-Book 10 - About the Macropodes and the capture and escape of Mandys. 																(186 lines)Book 10 τετέλεσται
-Book 11 - About the unmarried men and remaining things. 																			(302 lines)Book 11 τετέλεσται
-Book 12 - The battle of the men and women. Oudeis as prisoner and gladiator. The aristeia of the robots. The injustice of the king. (473 lines)Book 12 τετέλεσται
-Book 13 - About various creatures on planets. 																						(378 lines)Book 13 τετέλεσται 
-Book 14 - The Astronauts' Council. The Recreational Planet. Kypta's wickedness and persecution. 									(351 lines)Book 14 τετέλεσται
-Book 15 - About the royal daughter, the monster, and the good saviour in the archetypal schemes. 									(340 lines)Book 15 τετέλεσται
-Book 16 - The Robots' Rebellion. Franta's madness and restoration. 																	(374 lines)Book 16 τετέλεσται
-Book 17 - About the robbers and the capture of Elephas and Franta. 																	(185 lines)Book 17 τετέλεσται
-Book 18 - About the Grogal temple and the guards. Burda's aristeia. About the parrot-centaurs. 										(170 lines)Book 18 τετέλεσται
-Book 19 - The Oracle of the Grogal Prophet. 																					    (225 lines)Book 19 τετέλεσται
-Book 20 - About the other cosmic robbers and strange planets. Especially about the hypnotic animals. 							    (193 lines)Book 20 τετέλεσται
-Book 21 - About the Time Guardians. Franta's dexterity and aristeia. 															    (211 lines)Book 21 τετέλεσται
-Book 22 - The interception and trickery of Mandys. 																				    (146 lines)Book 22 τετέλεσται
-Book 23 - Mandys’ trick and escape. The Time Guardians’ coming and interference. Oudeis’ and Franta’s and Tonda’s hunt for Mandys.  (170 lines)Book 23 τετέλεσται
-Book 24 - The capture of Mandys and the sheep. The poem's close and end. 														    (171 lines)Book 24 τετέλεσται
+(340 lines) Book 15 - About the royal daughter, the monster, and the good saviour in the archetypal schemes.								
 
+(374 lines) Book 16 - The Robots' Rebellion. Franta's madness and restoration. 
 
-																																	 total: 7331
+(185 lines) Book 17 - About the robbers and the capture of Elephas and Franta. 	
+
+(170 lines) Book 18 - About the Grogal temple and the guards. Burda's aristeia. About the parrot-centaurs. 
+										
+(225 lines) Book 19 - The Oracle of the Grogal Prophet.
+
+(193 lines) Book 20 - About the other cosmic robbers and strange planets. Especially about the hypnotic animals. 
+
+(211 lines) Book 21 - About the Time Guardians. Franta's dexterity and aristeia. 
+
+(146 lines) Book 22 - The interception and trickery of Mandys. 																				    
+(170 lines) Book 23 - Mandys’ trick and escape. The Time Guardians’ coming and interference. Oudeis’ and Franta’s and Tonda’s hunt for Mandys. 
+
+(171 lines) Book 24 - The capture of Mandys and the sheep. The poem's close and end. 														   																		total: 7,331 lines									
