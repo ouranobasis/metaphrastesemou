@@ -1,7 +1,7 @@
 ===========done 2023===========
 01-fereng-rul                100%  May 10th
 02-akward-voc                100%  May 10th
-03-grammr-pal                100%  May 20th			  
+03-grammr-pal                100%  May 20th 
 04-apofth-pat                100%  Jul 03rd
 05-aesops-fab                100%  Jul 29th
 06-gaza's-att                100%  Sep 03rd
@@ -21,19 +21,20 @@
 
 ==========work 2024============
 08-fereng-rule-clean         096%  May 20th
-09-elanor-dic                025%  Aug 13th
-10-macul muse Anki           020%  May 30th
-11-harriu-pot                010%  Nov 13th
-12-watchpalicourse           010%  Sep 20th
+09-elanor-dic                025%  Dec 31st
+10-macul muse Anki           020%  Oct 30th
+11-watchpalicourse           010%  Sep 20th
 
 =========target 2024===========  
-13-thun-perfgrktra           005%  Nov 25th
-14-modernpalivocab           040%  Dec 12th
-15-guat-cop-phra-anki        000%
-16-polis-copt-sahid          000%
+
 
 =========bluesky 2025==========
-17-eng-trans-astrona         005%  Aug 2025
+12-harriu-pot                010% 
+13-thun-perfgrktra           005%  
+14-modernpalivocab           040%  
+15-guat-cop-phra-anki        000%
+16-polis-copt-sahid          000%
+17-eng-trans-astrona         005%  
 18-sidgwick-grk-comp         000% 
 19-french-duo                001%
 20-german-duo                002%
