@@ -25,8 +25,8 @@
 σημασεία τοῦ ἐτοίμου							definition of ready
 τὸ ὀπλίδιον								app
 τὸ ταμιεῖον τῆς ὑδροπορίας						department of water resources
-
-
+ἡ σῦριγξ								pipeline
+ἡ ὑπολογιστικὴ σῦριγξ							computer pipeline
 
 
 ⲙⲟⲩϣⲧ̅, ⲙⲉϣⲧ̅-, ⲙⲟϣⲧ=, Q=ⲙⲟϣⲧ̅ 							to test, to examine, to reflect, to consider
