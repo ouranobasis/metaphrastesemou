@@ -19,7 +19,7 @@ $τέχνεια ἔμφυτη εὐκαιρίᾳ προσέται, ἐξέργε
 #10. A dead customer can’t buy as much as a live one.
 $οἱ τεθνηκότες ὠνηταὶ οὐ δύνονται ὄσον ἀγοράζειν τοσούτον οἱ ζῶντες   
 #11. Latinum isn’t the only thing that shines.
-$λατινῶν οὐκ ἔστι τὸ μόνον ὃ ἐκλάμπει 
+$λατινῶν οὔκ ἐστι τὸ μόνον ὃ ἐκλάμπει 
 #12. Anything worth selling is worth selling twice.
 $ὅ τι ἄξιον τοῦ πωλεῖν, χρή δὶς πωλεῖν
 #13. Anything worth doing is worth doing for money.
@@ -49,11 +49,11 @@ $ἐπειδὴ ἁρπάζειν δύνασαι, οὔποτε αἰτήσατ�
 #25. Fear makes a good business partner.
 $φόβος ποιεῖ πρεπώδη μέτοχον
 #26. The vast majority of the rich in this galaxy did not inherit their wealth; they stole it.
-$ο πλεων πληθος κατα αὐτὴν τὴν θάλασσα ἀστέρων οὐ ἐκληρονόμησαν θησαῦρον αὐτοῦ; ἀλλὰ αὐτὴν ἤρπασαν.
-#27. The most beautiful thing about a tree is what you do with it after you cut it down.'
-$το κάλλιστον περὶ δένδρου ἐστὶν ὁ τι γενήσεται ἐκ τῆς τέχνης τοῦ ξυλοτόμου.
+$ὁ μέγας πλεῖστος κατὰ αὕτὴν τὴν θάλασσα ἀστέρων οὐ ἐκληρονόμησαν πλοῦτον αὐτῶν; ἀλλὰ αὕτην ἤρπασαν.
+#27. The most beautiful thing about a tree is what you do with it after you cut it down.
+$τὸ κάλλιστον περὶ δένδρου ἐστὶν ὁ τι γενήσεται ἐκ τῆς τέχνης τοῦ ξυλοτόμου.
 #28. Morality is always defined by those in power.
-$ἡ δικαιοσύνη κατὰ τοὺς αἰῶνας παρελάμβανε τὸν ὀρισμὸν ἀπὸ τῶν ἀρχόντων. 
+$ἡ δικαιοσύνη διὰ τοὺς αἰῶνας παρέλαβε τὸν ὀρισμὸν παρὰ τῶν ἀρχόντων. 
 #29. When someone says “It’s not the money,” they’re lying.
 $ἐπειδάν τις εἶπῃ ὁτι "χρήματα οὔ μοι μέλετει", ὑμὰς ἐξεπατοῦσιν. 
 #30. Talk is cheap; synthehol costs money.
@@ -103,13 +103,13 @@ $μήποτε ὁμολογεῖ τὰ ἁμαρτία σοῦ ἔαν ἔξεσ
 #52. Only Bugsy could have built Las Vegas.
 $Μόνον ὁ λήστης καλουμένος Βουξι εἴεν ἰκανός τῷ κατοικίζειν τὴν πόλιν καλουμένην λαζβέξις.
 #53. Sell first; ask questions later.
-$πρότον μὲν πωλήσατε ὔστερον δὲ ἐρώτετε.
+$πρῶτον μὲν πωλήσατε ὔστερον δὲ ἐρώτετε.
 #54. Never buy anything you can’t sell.
 $μήποτε ἀγοράσατε ὄντινα οὐ οἶά τὲ πωληθῆναι
 #55. Always sell at the highest possible profit.
 $πάντοτε πωλεῖτε ἐπὶ τοῦ ἀκροτάτου κέρδους.
 #56. Pursue profit; women come later.
-$διώξετε τὸ κέρδος, τὰς γυναίκας ὔστερον.
+$διώξετε τὸ κέρδος, τὰς γυναῖκας ὔστερον.
 #57. Good customers are almost as rare as Latinum – treasure them.
 $οἱ ἀγαθοὶ ὠνηταὶ σχεδόν εἰσι τόσοι σπάνιοι ὄσοι λάτινών,  αὐτούς περὶ πολλοῦ ποιεῖσθε. 
 #58. Friendship is seldom cheap.
