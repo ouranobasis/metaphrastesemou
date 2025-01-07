@@ -36,19 +36,3 @@ Comp.
 ἀληθέστερος			 έ + στερος  = έστερος
 Sup.
 ἀληθέστατος			 έ + στατος  = έστατος
-
-
-extport DAC then find replace then create new DAC import and start recording.
-; = θ
-p
-h
-l
-m
-n
-y = η
-[ = 6
-j = j
-> = ,
-' = ψ
-, = χ
-] = +
