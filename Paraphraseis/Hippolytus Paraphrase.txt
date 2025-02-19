@@ -119,8 +119,8 @@
        καὶ κρεῖσσον τὸ νοσεῖν ἢ τὸ θεραπεύειν
 	   but it is better to be sick than to tend the sick
 187 τὸ μέν ἐστιν ἁπλοῦν, τῷ δὲ συνάπτει						    
-       τὸ ἕτερον μὲν ἁπλοῦν, τῷ ἑτέρῳ δὲ συνάπτει
-		but the one is a single thing and in the other lies connected ......... (correct) the sickness....... the nurse
+       τὴν μὲν νόσον ἁπλοῦν, τῷ δὲ τροφῷ συνάπτει
+		but the one is a single thing and in the other lies connected
 188 λύπη τε φρενῶν χερσίν τε πόνος.								 
         ἡ λύπη τοῦ νόος τε καὶ ὁ πόνος τοῦ χερὸς
 		grief of the mind and toil for the hand
@@ -151,20 +151,41 @@
 197 μύθοις δ᾽ ἄλλως φερόμεσθα.	
 	   ἀλλὰ φερόμεθα ἄλλως λόγοις
        but by commands we are varioulsy carried									        
-Φαίδρα																		                PHAEDRA
-198 αἴρετέ μου δέμας, ὀρθοῦτε κάρα:								        lift my body, raise my head				
-199 λέλυμαι μελέων σύνδεσμα φίλων.							            I am dissolved of the power of my beloved limbs
-200 λάβετ᾽ εὐπήχεις χεῖρας, πρόπολοι.						                sevants take my arms beautiful in extent 
-201 βαρύ μοι κεφαλῆς ἐπίκρανον ἔχειν:							        the dressings of my head are heavy upon me
-202 ἄφελ᾽, ἀμπέτασον βόστρυχον ὤμοις.						            remove them, spread my curls upon my shoulders 
-Τροφός																		                NURSE
-203 θάρσει, τέκνον, καὶ μὴ χαλεπῶς								            have courage child, and dont transition 
-204 μετάβαλλε δέμας:														        your body into a difficult state
-205 ῥᾷον δὲ νόσον μετά θ᾽ ἡσυχίας							                but easy you shall the sickness bear
-206 καὶ γενναίου λήματος οἴσεις.									            both with ease and nobility
-207 μοχθεῖν δὲ βροτοῖσιν ἀνάγκη.									        and one is compelled to toil among mortals
-Φαίδρα																		               PHAEDRA
-208 αἰαῖ: πῶς ἂν δροσερᾶς ἀπὸ κρηνῖδος					               Aiiiii how I would draw a drink from the drops							    
+Φαίδρα																		                
+198 αἴρετέ μου δέμας, ὀρθοῦτε κάρα:								        
+       ἐφαίρετε τὸ σῶμά μου καὶ ὀρθοῦτε τὴν κεφαλήν μου
+       lift my body, straighten my head				
+199 λέλυμαι μελέων σύνδεσμα φίλων.							            
+       I am dissolved of the power of my beloved limbs
+	   τὰ εὐφιλῆ μέλη μου ἀπολέλυκε τῶν συνδέσμων
+200 λάβετ᾽ εὐπήχεις χεῖρας, πρόπολοι.						                
+       λάβετε τὰς εὐπρεπεῖς χεῖράς μου 
+	   sevants take my arms beautiful in extent 
+201 βαρύ μοι κεφαλῆς ἐπίκρανον ἔχειν:		
+	   βαρύ τὸν κάλυμμα τῆς κεφαλῆς ἐστιν
+       the dressings of my head are heavy upon me
+202 ἄφελ᾽, ἀμπέτασον βόστρυχον ὤμοις.		
+		καταπέτασον τὴν κόμην μου ἐπὶ τοὺς ὤμους
+       remove them, spread my curls upon my shoulders	   
+Τροφός																		               
+203 θάρσει, τέκνον, καὶ μὴ χαλεπῶς		
+	   θάρσει, τέκνον, καὶ μὴ γενήθητι σκυθρωπῶς
+       have courage child, and dont transition	   
+204 μετάβαλλε δέμας:														        
+	    τὸ σῶμά σου
+205 ῥᾷον δὲ νόσον μετά θ᾽ ἡσυχίας							                
+       but easy you shall the sickness bear
+	   ῥᾳδίως οἴσεις τὴν νόσον σου 
+206 καὶ γενναίου λήματος οἴσεις.									            
+       both with ease and nobility
+	   μετὰ γενναιότητος θυμοῦ καὶ ἡσυχίας ψυχῆς
+207 μοχθεῖν δὲ βροτοῖσιν ἀνάγκη.									        
+       ἀλλὰ τὸ μοχθεῖν ἀνάγκη τοῖς βροτοῖσιν ἐστὶν
+	   and one is compelled to toil among mortals
+Φαίδρα																		               
+208 αἰαῖ: πῶς ἂν δροσερᾶς ἀπὸ κρηνῖδος					    
+	   
+       Aiiiii how I would draw a drink from the drops							    
 209 καθαρῶν ὑδάτων πῶμ᾽ ἀρυσαίμαν,							       of a spring of pure water
 210 ὑπό τ᾽ αἰγείροις ἔν τε κομήτῃ								               under the poplar trees and in the shaggy meadow
 211 λειμῶνι κλιθεῖσ᾽ ἀναπαυσαίμαν;								       laying down a rest
