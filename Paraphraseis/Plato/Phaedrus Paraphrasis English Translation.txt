@@ -1,0 +1,865 @@
+
+<< Εισαγωγή	11-20 >>
+Πλάτωνος Ἡ Ἑβδόμη Ἐπιστολὴ
+The Seventh Letter By Plato
+Translated by J. Harward
+1-10
+[7.323δ] Πλάτων τοῖς Δίωνος οἰκείοις τε καὶ ἑταίροις εὖ πράττειν.
+Plato to the relatives and friends of Dion. May you fair well
+
+
+ἐπεστείλατέ μοι νομίζειν δεῖν τὴν διάνοιαν ὑμῶν εἶναι τὴν αὐτὴν ἣν εἶχεν καὶ Δίων, καὶ δὴ καὶ κοινωνεῖν διεκελεύεσθέ [7.324α] μοι, καθ᾽ ὅσον οἷός τέ εἰμι ἔργῳ καὶ λόγῳ. ἐγὼ δέ, εἰ μὲν δόξαν καὶ ἐπιθυμίαν τὴν αὐτὴν ἔχετε ἐκείνῳ, σύμφημι κοινωνήσειν, εἰ δὲ μή, βουλεύσεσθαι πολλάκις. τίς δ᾽ ἦν ἡ ἐκείνου διάνοια καὶ ἐπιθυμία, σχεδὸν οὐκ εἰκάζων ἀλλ᾽ ὡς εἰδὼς σαφῶς εἴποιμ᾽ ἄν.	
+
+(1) You write to me that I must consider your views the same as those of Dion, and you urge me to aid your cause so far as I can in word and deed. My answer is that, if you have the same opinion and desire as he had, I consent to aid your cause; but if not, I shall think more than once about it. Now what his purpose and desire was, I can inform you from no mere conjecture but from positive knowledge.
+
+ὅτε γὰρ κατ᾽ ἀρχὰς εἰς Συρακούσας ἐγὼ ἀφικόμην, σχεδὸν ἔτη τετταράκοντα γεγονώς, Δίων εἶχε τὴν ἡλικίαν ἣν τὰ νῦν Ἱππαρῖνος γέγονεν, καὶ ἣν ἔσχεν [7.324β] τότε δόξαν, ταύτην καὶ διετέλεσεν ἔχων, Συρακοσίους οἴεσθαι δεῖν ἐλευθέρους εἶναι, κατὰ νόμους τοὺς ἀρίστους οἰκοῦντας· ὥστε οὐδὲν θαυμαστὸν εἴ τις θεῶν καὶ τοῦτον εἰς τὴν αὐτὴν δόξαν περὶ πολιτείας ἐκείνῳ γενέσθαι σύμφρονα ποιήσειεν. τίς δ᾽ ἦν ὁ τρόπος τῆς γενέσεως αὐτῆς, οὐκ ἀπάξιον ἀκοῦσαι νέῳ καὶ μὴ νέῳ, πειράσομαι δὲ ἐξ ἀρχῆς αὐτὴν ἐγὼ πρὸς ὑμᾶς διεξελθεῖν· ἔχει γὰρ καιρὸν τὰ νῦν.	
+
+
+For when I made my first visit to Sicily, being then about forty years old, Dion was of the same age as Hipparinos is now, and the opinion which he then formed was that which he always retained, I mean the belief that the Syracusans ought to be free and governed by the best laws. So it is no matter for surprise if some God should make Hipparinos adopt the same opinion as Dion about forms of government. But it is well worth while that you should all, old as well as young, hear the way in which this opinion was formed, and I will attempt to give you an account of it from the beginning. For the present is a suitable opportunity. 
+
+
+Νέος ἐγώ ποτε ὢν πολλοῖς δὴ ταὐτὸν ἔπαθον· ᾠήθην, εἰ θᾶττον ἐμαυτοῦ γενοίμην κύριος, ἐπὶ τὰ κοινὰ τῆς πόλεως [7.324c] εὐθὺς ἰέναι. καί μοι τύχαι τινὲς τῶν τῆς πόλεως πραγμάτων τοιαίδε παρέπεσον. ὑπὸ πολλῶν γὰρ τῆς τότε πολιτείας λοιδορουμένης μεταβολὴ γίγνεται, καὶ τῆς μεταβολῆς εἷς καὶ πεντήκοντά τινες ἄνδρες προύστησαν ἄρχοντες, ἕνδεκα μὲν ἐν ἄστει, δέκα δ᾽ ἐν Πειραεῖ--περί τε ἀγορὰν ἑκάτεροι τούτων ὅσα τ᾽ ἐν τοῖς ἄστεσι διοικεῖν ἔδει--τριάκοντα δὲ πάντων [7.324d] ἄρχοντες κατέστησαν αὐτοκράτορες. τούτων δή τινες οἰκεῖοί τε ὄντες καὶ γνώριμοι ἐτύγχανον ἐμοί, καὶ δὴ καὶ παρεκάλουν εὐθὺς ὡς ἐπὶ προσήκοντα πράγματά με. καὶ ἐγὼ θαυμαστὸν οὐδὲν ἔπαθον ὑπὸ νεότητος· ᾠήθην γὰρ αὐτοὺς ἔκ τινος ἀδίκου βίου ἐπὶ δίκαιον τρόπον ἄγοντας διοικήσειν δὴ τὴν πόλιν, ὥστε αὐτοῖς σφόδρα προσεῖχον τὸν νοῦν, τί πράξοιεν.	
+
+(2) In my youth I went through the same experience as many other men. I fancied that if, early in life, I became my own master, I should at once embark on a political career. And I found myself confronted with the following occurrences in the public affairs of my own city. The existing constitution being generally condemned, a revolution took place, and fifty-one men came to the front as rulers of the revolutionary government, namely eleven in the city and ten in the Peiraeus-each of these bodies being in charge of the market and municipal matters-while thirty were appointed rulers with full powers over public affairs as a whole. Some of these were relatives and acquaintances of mine, and they at once invited me to share in their doings, as something to which I had a claim. The effect on me was not surprising in the case of a young man. I considered that they would, of course, so manage the State as to bring men out of a bad way of life into a good one. So I watched them very closely to see what they would do. 
+
+
+καὶ ὁρῶν δήπου τοὺς ἄνδρας ἐν χρόνῳ ὀλίγῳ χρυσὸν ἀποδείξαντας τὴν ἔμπροσθεν πολιτείαν--τά τε ἄλλα καὶ φίλον [7.324e] ἄνδρα ἐμοὶ πρεσβύτερον Σωκράτη, ὃν ἐγὼ σχεδὸν οὐκ ἂν αἰσχυνοίμην εἰπὼν δικαιότατον εἶναι τῶν τότε, ἐπί τινα τῶν πολιτῶν μεθ᾽ ἑτέρων ἔπεμπον, βίᾳ ἄξοντα ὡς ἀποθανούμενον, [7.325a] ἵνα δὴ μετέχοι τῶν πραγμάτων αὐτοῖς, εἴτε βούλοιτο εἴτε μή· ὁ δ᾽ οὐκ ἐπείθετο, πᾶν δὲ παρεκινδύνευσεν παθεῖν πρὶν ἀνοσίων αὐτοῖς ἔργων γενέσθαι κοινωνός--ἃ δὴ πάντα καθορῶν καὶ εἴ τιν᾽ ἄλλα τοιαῦτα οὐ σμικρά, ἐδυσχέρανά τε καὶ ἐμαυτὸν ἐπανήγαγον ἀπὸ τῶν τότε κακῶν.	
+
+
+(3) And seeing, as I did, that in quite a short time they made the former government seem by comparison something precious as gold-for among other things they tried to send a friend of mine, the aged Socrates, whom I should scarcely scruple to describe as the most upright man of that day, with some other persons to carry off one of the citizens by force to execution, in order that, whether he wished it, or not, he might share the guilt of their conduct; but he would not obey them, risking all consequences in preference to becoming a partner in their iniquitous deeds-seeing all these things and others of the same kind on a considerable scale, I disapproved of their proceedings, and withdrew from any connection with the abuses of the time. 
+
+
+Χρόνῳ δὲ οὐ πολλῷ μετέπεσε τὰ τῶν τριάκοντά τε καὶ πᾶσα ἡ τότε πολιτεία· πάλιν δὲ βραδύτερον μέν, εἷλκεν δέ με ὅμως ἡ [7.325b] περὶ τὸ πράττειν τὰ κοινὰ καὶ πολιτικὰ ἐπιθυμία. ἦν οὖν καὶ ἐν ἐκείνοις ἅτε τεταραγμένοις πολλὰ γιγνόμενα ἅ τις ἂν δυσχεράνειεν, καὶ οὐδέν τι θαυμαστὸν ἦν τιμωρίας ἐχθρῶν γίγνεσθαί τινών τισιν μείζους ἐν μεταβολαῖς· καίτοι πολλῇ γε ἐχρήσαντο οἱ τότε κατελθόντες ἐπιεικείᾳ. κατὰ δέ τινα τύχην αὖ τὸν ἑταῖρον ἡμῶν Σωκράτη τοῦτον δυναστεύοντές τινες εἰσάγουσιν εἰς δικαστήριον, ἀνοσιωτάτην αἰτίαν ἐπιβαλόντες [7.325c] καὶ πάντων ἥκιστα Σωκράτει προσήκουσαν· ὡς ἀσεβῆ γὰρ οἱ μὲν εἰσήγαγον, οἱ δὲ κατεψηφίσαντο καὶ ἀπέκτειναν τὸν τότε τῆς ἀνοσίου ἀγωγῆς οὐκ ἐθελήσαντα μετασχεῖν περὶ ἕνα τῶν τότε φευγόντων φίλων, ὅτε φεύγοντες ἐδυστύχουν αὐτοί. 	
+
+(4) Not long after that a revolution terminated the power of the thirty and the form of government as it then was. And once more, though with more hesitation, I began to be moved by the desire to take part in public and political affairs. Well, even in the new government, unsettled as it was, events occurred which one would naturally view with disapproval; and it was not surprising that in a period of revolution excessive penalties were inflicted by some persons on political opponents, though those who had returned from exile at that time showed very considerable forbearance. But once more it happened that some of those in power brought my friend Socrates, whom I have mentioned, to trial before a court of law, laying a most iniquitous charge against him and one most inappropriate in his case: for it was on a charge of impiety that some of them prosecuted and others condemned and executed the very man who would not participate in the iniquitous arrest of one of the friends of the party then in exile, at the time when they themselves were in exile and misfortune. 
+
+
+Σκοποῦντι δή μοι ταῦτά τε καὶ τοὺς ἀνθρώπους τοὺς πράττοντας τὰ πολιτικά, καὶ τοὺς νόμους γε καὶ ἔθη, ὅσῳ μᾶλλον διεσκόπουν ἡλικίας τε εἰς τὸ πρόσθε προύβαινον, τοσούτῳ χαλεπώτερον ἐφαίνετο ὀρθῶς εἶναί μοι τὰ πολιτικὰ [7.325d] διοικεῖν· οὔτε γὰρ ἄνευ φίλων ἀνδρῶν καὶ ἑταίρων πιστῶν οἷόν τ᾽ εἶναι πράττειν--οὓς οὔθ᾽ ὑπάρχοντας ἦν εὑρεῖν εὐπετές, οὐ γὰρ ἔτι ἐν τοῖς τῶν πατέρων ἤθεσιν καὶ ἐπιτηδεύμασιν ἡ πόλις ἡμῶν διῳκεῖτο, καινούς τε ἄλλους ἀδύνατον ἦν κτᾶσθαι μετά τινος ῥᾳστώνης--τά τε τῶν νόμων γράμματα καὶ ἔθη διεφθείρετο καὶ ἐπεδίδου θαυμαστὸν ὅσον, ὥστε με, [7.325e] τὸ πρῶτον πολλῆς μεστὸν ὄντα ὁρμῆς ἐπὶ τὸ πράττειν τὰ κοινά, βλέποντα εἰς ταῦτα καὶ φερόμενα ὁρῶντα πάντῃ πάντως, τελευτῶντα ἰλιγγιᾶν, καὶ τοῦ μὲν σκοπεῖν μὴ ἀποστῆναι μή ποτε ἄμεινον ἂν γίγνοιτο περί τε αὐτὰ ταῦτα καὶ [7.326a] δὴ καὶ περὶ τὴν πᾶσαν πολιτείαν, τοῦ δὲ πράττειν αὖ περιμένειν ἀεὶ καιρούς, τελευτῶντα δὲ νοῆσαι περὶ πασῶν τῶν νῦν πόλεων ὅτι κακῶς σύμπασαι πολιτεύονται--τὰ γὰρ τῶν νόμων αὐταῖς σχεδὸν ἀνιάτως ἔχοντά ἐστιν ἄνευ παρασκευῆς θαυμαστῆς τινος μετὰ τύχης--λέγειν τε ἠναγκάσθην, ἐπαινῶν τὴν ὀρθὴν φιλοσοφίαν, ὡς ἐκ ταύτης ἔστιν τά τε πολιτικὰ δίκαια καὶ τὰ τῶν ἰδιωτῶν πάντα κατιδεῖν· κακῶν οὖν οὐ [7.326b] λήξειν τὰ ἀνθρώπινα γένη, πρὶν ἂν ἢ τὸ τῶν φιλοσοφούντων ὀρθῶς γε καὶ ἀληθῶς γένος εἰς ἀρχὰς ἔλθῃ τὰς πολιτικὰς ἢ τὸ τῶν δυναστευόντων ἐν ταῖς πόλεσιν ἔκ τινος μοίρας θείας ὄντως φιλοσοφήσῃ.	
+(5) As I observed these incidents and the men engaged in public affairs, the laws too and the customs, the more closely I examined them and the farther I advanced in life, the more difficult it seemed to me to handle public affairs aright. For it was not possible to be active in politics without friends and trustworthy supporters; and to find these ready to my hand was not an easy matter, since public affairs at Athens were not carried on in accordance with the manners and practices of our fathers; nor was there any ready method by which I could make new friends. The laws too, written and unwritten, were being altered for the worse, and the evil was growing with startling rapidity. The result was that, though at first I had been full of a strong impulse towards political life, as I looked at the course of affairs and saw them being swept in all directions by contending currents, my head finally began to swim; and, though I did not stop looking to see if there was any likelihood of improvement in these symptoms and in the general course of public life, I postponed action till a suitable opportunity should arise. Finally, it became clear to me, with regard to all existing cornmunities, that they were one and all misgoverned. For their laws have got into a state that is almost incurable, except by some extraordinary reform with good luck to support it. And I was forced to say, when praising true philosophy that it is by this that men are enabled to see what justice in public and private life really is. Therefore, I said, there will be no cessation of evils for the sons of men, till either those who are pursuing a right and true philosophy receive sovereign power in the States, or those in power in the States by some dispensation of providence become true philosophers. 
+
+
+Ταύτην δὴ τὴν διάνοιαν ἔχων εἰς Ἰταλίαν τε καὶ Σικελίαν ἦλθον, ὅτε πρῶτον ἀφικόμην. ἐλθόντα δέ με ὁ ταύτῃ λεγόμενος αὖ βίος εὐδαίμων, Ἰταλιωτικῶν τε καὶ Συρακουσίων τραπεζῶν πλήρης, οὐδαμῇ οὐδαμῶς ἤρεσεν, δίς τε τῆς ἡμέρας ἐμπιμπλάμενον ζῆν καὶ μηδέποτε κοιμώμενον μόνον νύκτωρ, [7.326c] καὶ ὅσα τούτῳ ἐπιτηδεύματα συνέπεται τῷ βίῳ· ἐκ γὰρ τούτων τῶν ἐθῶν οὔτ᾽ ἂν φρόνιμος οὐδείς ποτε γενέσθαι τῶν ὑπὸ τὸν οὐρανὸν ἀνθρώπων ἐκ νέου ἐπιτηδεύων δύναιτο--οὐχ οὕτως θαυμαστῇ φύσει κραθήσεται--σώφρων δὲ οὐδ᾽ ἂν μελλήσαι ποτὲ γενέσθαι, καὶ δὴ καὶ περὶ τῆς ἄλλης ἀρετῆς ὁ αὐτὸς λόγος ἂν εἴη, πόλις τε οὐδεμία ἂν ἠρεμήσαι κατὰ νόμους οὐδ᾽ οὑστινασοῦν ἀνδρῶν οἰομένων ἀναλίσκειν μὲν δεῖν [7.326d] πάντα εἰς ὑπερβολάς, ἀργῶν δὲ εἰς ἅπαντα ἡγουμένων αὖ δεῖν γίγνεσθαι πλὴν ἐς εὐωχίας καὶ πότους καὶ ἀφροδισίων σπουδὰς διαπονουμένας· ἀναγκαῖον δὲ εἶναι ταύτας τὰς πόλεις τυραννίδας τε καὶ ὀλιγαρχίας καὶ δημοκρατίας μεταβαλλούσας μηδέποτε λήγειν, δικαίου δὲ καὶ ἰσονόμου πολιτείας τοὺς ἐν αὐταῖς δυναστεύοντας μηδ᾽ ὄνομα ἀκούοντας ἀνέχεσθαι. 	
+
+(6) With these thoughts in my mind I came to Italy and Sicily on my first visit. My first impressions on arrival were those of strong disapproval-disapproval of the kind of life which was there called the life of happiness, stuffed full as it was with the banquets of the Italian Greeks and Syracusans, who ate to repletion twice every day, and were never without a partner for the night; and disapproval of the habits which this manner of life produces. For with these habits formed early in life, no man under heaven could possibly attain to wisdom-human nature is not capable of such an extraordinary combination. Temperance also is out of the question for such a man; and the same applies to virtue generally. No city could remain in a state of tranquillity under any laws whatsoever, when men think it right to squander all their property in extravagant, and consider it a duty to be idle in everything else except eating and drinking and the laborious prosecution of debauchery. It follows necessarily that the constitutions of such cities must be constantly changing, tyrannies, oligarchies and democracies succeeding one another, while those who hold the power cannot so much as endure the name of any form of government which maintains justice and equality of rights.
+
+
+Ταῦτα δὴ πρὸς τοῖς πρόσθε διανοούμενος, εἰς Συρακούσας [7.326e] διεπορεύθην, ἴσως μὲν κατὰ τύχην, ἔοικεν μὴν τότε μηχανωμένῳ τινὶ τῶν κρειττόνων ἀρχὴν βαλέσθαι τῶν νῦν γεγονότων πραγμάτων περὶ Δίωνα καὶ τῶν περὶ Συρακούσας· δέος δὲ μὴ καὶ πλειόνων ἔτι, ἐὰν μὴ νῦν ὑμεῖς ἐμοὶ πείθησθε τὸ δεύτερον συμβουλεύοντι. πῶς οὖν δὴ λέγω πάντων [7.327a] ἀρχὴν γεγονέναι τὴν τότε εἰς Σικελίαν ἐμὴν ἄφιξιν; ἐγὼ συγγενόμενος Δίωνι τότε νέῳ κινδυνεύω, τὰ δοκοῦντα ἐμοὶ βέλτιστα ἀνθρώποις εἶναι μηνύων διὰ λόγων καὶ πράττειν αὐτὰ συμβουλεύων, ἀγνοεῖν ὅτι τυραννίδος τινὰ τρόπον κατάλυσιν ἐσομένην μηχανώμενος ἐλάνθανον ἐμαυτόν. δίων μὲν γὰρ δή, μάλ᾽ εὐμαθὴς ὢν πρός τε τἆλλα καὶ πρὸς τοὺς τότε ὑπ᾽ ἐμοῦ λόγους γενομένους, οὕτως ὀξέως ὑπήκουσεν [7.327b] καὶ σφόδρα, ὡς οὐδεὶς πώποτε ὧν ἐγὼ προσέτυχον νέων, καὶ τὸν ἐπίλοιπον βίον ζῆν ἠθέλησεν διαφερόντως τῶν πολλῶν Ἰταλιωτῶν τε καὶ Σικελιωτῶν, ἀρετὴν περὶ πλείονος ἡδονῆς τῆς τε ἄλλης τρυφῆς ἠγαπηκώς· ὅθεν ἐπαχθέστερον τοῖς περὶ τὰ τυραννικὰ νόμιμα ζῶσιν ἐβίω μέχρι τοῦ θανάτου τοῦ περὶ Διονύσιον γενομένου.	
+
+(7) With a mind full of these thoughts, on the top of my previous convictions, I crossed over to Syracuse-led there perhaps by chance-but it really looks as if some higher power was even then planning to lay a foundation for all that has now come to pass with regard to Dion and Syracuse-and for further troubles too, I fear, unless you listen to the advice which is now for the second time offered by me. What do I mean by saying that my arrival in Sicily at that movement proved to be the foundation on which all the sequel rests? I was brought into close intercourse with Dion who was then a young man, and explained to him my views as to the ideals at which men should aim, advising him to carry them out in practice. In doing this I seem to have been unaware that I was, in a fashion, without knowing it, contriving the overthrow of the tyranny which; subsequently took place. For Dion, who rapidly assimilated my teaching as he did all forms of knowledge, listened to me with an eagerness which I had never seen equalled in any young man, and resolved to live for the future in a better way than the majority of Italian and Sicilian Greeks, having set his affection on virtue in preference to pleasure and self-indulgence. The result was that until the death of Dionysios he lived in a way which rendered him somewhat unpopular among those whose manner of life was that which is usual in the courts of despots. 
+
+
+Μετὰ δὲ τοῦτο διενοήθη μὴ μόνον ἐν αὑτῷ ποτ᾽ ἂν γενέσθαι ταύτην τὴν διάνοιαν, ἣν [7.327c] αὐτὸς ὑπὸ τῶν ὀρθῶν λόγων ἔσχεν, ἐγγιγνομένην δὲ αὐτὴν καὶ ἐν ἄλλοις ὁρῶν κατενόει, πολλοῖς μὲν οὔ, γιγνομένην δ᾽ οὖν ἔν τισιν, ὧν καὶ Διονύσιον ἡγήσατο ἕνα γενέσθαι τάχ᾽ ἂν συλλαμβανόντων θεῶν, γενομένου δ᾽ αὖ τοῦ τοιούτου τόν τε αὐτοῦ βίον καὶ τὸν τῶν ἄλλων Συρακουσίων ἀμήχανον ἂν μακαριότητι συμβῆναι γενόμενον. πρὸς δὴ τούτοις ᾠήθη δεῖν ἐκ παντὸς τρόπου εἰς Συρακούσας ὅτι τάχιστα ἐλθεῖν ἐμὲ [7.327d] κοινωνὸν τούτων, μεμνημένος τήν τε αὑτοῦ καὶ ἐμὴν συνουσίαν ὡς εὐπετῶς ἐξηργάσατο εἰς ἐπιθυμίαν ἐλθεῖν αὐτὸν τοῦ καλλίστου τε καὶ ἀρίστου βίου· ὃ δὴ καὶ νῦν εἰ διαπράξαιτο ἐν Διονυσίῳ ὡς ἐπεχείρησε, μεγάλας ἐλπίδας εἶχεν ἄνευ σφαγῶν καὶ θανάτων καὶ τῶν νῦν γεγονότων κακῶν βίον ἂν εὐδαίμονα καὶ ἀληθινὸν ἐν πάσῃ τῇ χώρᾳ κατασκευάσαι.	
+
+(8) After that event he came to the conclusion that this conviction, which he himself had gained under the influence of good teaching, was not likely to be confined to himself. Indeed, he saw it being actually implanted in other minds-not many perhaps, but certainly in some; and he thought that with the aid of the Gods, Dionysios might perhaps become one of these, and that, if such a thing did come to pass, the result would be a life of unspeakable happiness both for himself and for the rest of the Syracusans. Further, he thought it essential that I should come to Syracuse by all manner of means and with the utmost possible speed to be his partner in these plans, remembering in his own case how readily intercourse with me had produced in him a longing for the noblest and best life. And if it should produce a similar effect on Dionysios, as his aim was that it should, he had great hope that, without bloodshed, loss of life, and those disastrous events which have now taken place, he would be able to introduce the true life of happiness throughout the whole territory.
+
+
+Ταῦτα Δίων ὀρθῶς διανοηθεὶς ἔπεισε μεταπέμπεσθαι Διονύσιον ἐμέ, καὶ αὐτὸς ἐδεῖτο πέμπων ἥκειν ὅτι τάχιστα ἐκ [7.327e] παντὸς τρόπου, πρίν τινας ἄλλους ἐντυχόντας Διονυσίῳ ἐπ᾽ ἄλλον βίον αὐτὸν τοῦ βελτίστου παρατρέψαι. λέγων δὲ τάδε ἐδεῖτο, εἰ καὶ μακρότερα εἰπεῖν. τίνας γὰρ καιρούς, ἔφη, μείζους περιμενοῦμεν τῶν νῦν παραγεγονότων θείᾳ τινὶ τύχῃ; καταλέγων δὲ τήν τε ἀρχὴν τῆς Ἰταλίας καὶ Σικελίας [7.328a] καὶ τὴν αὑτοῦ δύναμιν ἐν αὐτῇ, καὶ τὴν νεότητα καὶ τὴν ἐπιθυμίαν τὴν Διονυσίου, φιλοσοφίας τε καὶ παιδείας ὡς ἔχοι σφόδρα λέγων, τούς τε αὑτοῦ ἀδελφιδοῦς καὶ τοὺς οἰκείους ὡς εὐπαράκλητοι εἶεν πρὸς τὸν ὑπ᾽ ἐμοῦ λεγόμενον ἀεὶ λόγον καὶ βίον, ἱκανώτατοί τε Διονύσιον συμπαρακαλεῖν, ὥστε εἴπερ ποτὲ καὶ νῦν ἐλπὶς πᾶσα ἀποτελεσθήσεται τοῦ τοὺς αὐτοὺς φιλοσόφους τε καὶ πόλεων ἄρχοντας μεγάλων [7.328b] συμβῆναι γενομένους. τὰ μὲν δὴ παρακελεύματα ἦν ταῦτά τε καὶ τοιαῦτα ἕτερα πάμπολλα,	
+(9) Holding these sound views, Dion persuaded Dionysios to send for me; he also wrote himself entreating me to come by all manner of means and with the utmost possible speed, before certain other persons coming in contact with Dionysios should turn him aside into some way of life other than the best. What he said, though perhaps it is rather long to repeat, was as follows: "What opportunities," he said, "shall we wait for, greater than those now offered to us by Providence?" And he described the Syracusan empire in Italy and Sicily, his own influential position in it, and the youth of Dionysios and how strongly his desire was directed towards philosophy and education. His own nephews and relatives, he said, would be readily attracted towards the principles and manner of life described by me, and would be most influential in attracting Dionysios in the same direction, so that, now if ever, we should see the accomplishment of every hope that the same persons might actually become both philosophers and the rulers of great States. These were the appeals addressed to me and much more to the same effect. 
+
+
+Τὴν δ᾽ ἐμὴν δόξαν τὸ μὲν περὶ τῶν νέων, ὅπῃ ποτὲ γενήσοιτο, εἶχεν φόβος--αἱ γὰρ ἐπιθυμίαι τῶν τοιούτων ταχεῖαι καὶ πολλάκις ἑαυταῖς ἐναντίαι φερόμεναι--τὸ δὲ Δίωνος ἦθος ἠπιστάμην τῆς ψυχῆς πέρι φύσει τε ἐμβριθὲς ὂν ἡλικίας τε ἤδη μετρίως ἔχον. 	
+(10) My own opinion, so far as the young men were concerned, and the probable line which their conduct would take, was full of apprehension-for young men are quick in forming desires, which often take directions conflicting with one another. But I knew that the character of Dion's mind was naturally a stable one and had also the advantage of somewhat advanced years. 
+ 
+
+Ὅθεν μοι σκοπουμένῳ καὶ διστάζοντι πότερον εἴη πορευτέον καὶ ὑπακουστέον ἢ πῶς, ὅμως ἔρρεψε δεῖν, εἴ ποτέ τις τὰ διανοηθέντα [7.328c] περὶ νόμων τε καὶ πολιτείας ἀποτελεῖν ἐγχειρήσοι, καὶ νῦν πειρατέον εἶναι· πείσας γὰρ ἕνα μόνον ἱκανῶς πάντα ἐξειργασμένος ἐσοίμην ἀγαθά. 	
+(11) Therefore, I pondered the matter and was in two minds as to whether I ought to listen to entreaties and go, or how I ought to act; and finally the scale turned in favour of the view that, if ever anyone was to try to carry out in practice my ideas about laws and constitutions, now was the time for making the attempt; for if only I could fully convince one man, I should have secured thereby the accomplishment of all good things. 
+Ταύτῃ μὲν δὴ τῇ διανοίᾳ τε καὶ τόλμῃ ἀπῆρα οἴκοθεν, οὐχ ᾗ τινες ἐδόξαζον, ἀλλ᾽ αἰσχυνόμενος μὲν ἐμαυτὸν τὸ μέγιστον, μὴ δόξαιμί ποτε ἐμαυτῷ παντάπασι λόγος μόνον ἀτεχνῶς εἶναι τίς, ἔργου δὲ οὐδενὸς ἄν ποτε ἑκὼν ἀνθάψασθαι, κινδυνεύσειν δὲ προδοῦναι πρῶτον [7.328d] μὲν τὴν Δίωνος ξενίαν τε καὶ ἑταιρίαν ἐν κινδύνοις ὄντως γεγονότος οὐ σμικροῖς. εἴτ᾽ οὖν πάθοι τι, εἴτ᾽ ἐκπεσὼν ὑπὸ Διονυσίου καὶ τῶν ἄλλων ἐχθρῶν ἔλθοι παρ᾽ ἡμᾶς φεύγων καὶ ἀνέροιτο εἰπών· "ὦ Πλάτων, ἥκω σοι φυγὰς οὐχ ὁπλιτῶν δεόμενος οὐδὲ ἱππέων ἐνδεὴς γενόμενος τοῦ ἀμύνασθαι τοὺς ἐχθρούς, ἀλλὰ λόγων καὶ πειθοῦς, ᾗ σὲ μάλιστα ἠπιστάμην ἐγὼ δυνάμενον ἀνθρώπους νέους ἐπὶ τὰ ἀγαθὰ καὶ τὰ δίκαια προτρέποντα εἰς φιλίαν τε καὶ ἑταιρίαν ἀλλήλοις [7.328e] καθιστάναι ἑκάστοτε· ὧν ἐνδείᾳ κατὰ τὸ σὸν μέρος νῦν ἐγὼ καταλιπὼν Συρακούσας ἐνθάδε πάρειμι. καὶ τὸ μὲν ἐμὸν ἔλαττον ὄνειδός σοι φέρει· φιλοσοφία δέ, ἣν ἐγκωμιάζεις ἀεὶ καὶ ἀτίμως φῂς ὑπὸ τῶν λοιπῶν ἀνθρώπων φέρεσθαι, πῶς οὐ προδέδοται τὰ νῦν μετ᾽ ἐμοῦ μέρος ὅσον ἐπὶ σοὶ γέγονεν; [7.329a] καὶ Μεγαροῖ μὲν εἰ κατοικοῦντες ἐτυγχάνομεν, ἦλθες δήπου ἄν μοι βοηθὸς ἐφ᾽ ἅ σε παρεκάλουν, ἢ πάντων ἂν φαυλότατον ἡγοῦ σαυτόν· νῦν δ᾽ ἄρα τὸ μῆκος τῆς πορείας καὶ τὸ μέγεθος δὴ τοῦ πλοῦ καὶ τοῦ πόνου ἐπαιτιώμενος οἴει δόξαν κακίας ἀποφευξεῖσθαί ποτε; πολλοῦ καὶ δεήσει." λεχθέντων δὲ τούτων τίς ἂν ἦν μοι πρὸς ταῦτα εὐσχήμων ἀπόκρισις; οὐκ ἔστιν. 	
+(12) With these views and thus nerved to the task, I sailed from home, in the spirit which some imagined, but principally through a feeling of shame with regard to myself, lest I might some day appear to myself wholly and solely a mere man of words, one who would never of his own will lay his hand to any act. Also there was reason to think that I should be betraying first and foremost my friendship and comradeship with Dion, who in very truth was in a position of considerable danger. If therefore anything should happen to him, or if he were banished by Dionysios and his other enemies and coming to us as exile addressed this question to me: "Plato, I have come to you as a fugitive, not for want of hoplites, nor because I had no cavalry for defence against my enemies, but for want of words and power of persuasion, which I knew to be a special gift of yours, enabling you to lead young men into the path of goodness and justice, and to establish in every case relations of friendship and comradeship among them. It is for the want of this assistance on your part that I have left Syracuse and am here now. And the disgrace attaching to your treatment of me is a small matter. But philosophy-whose praises you are always singing, while you say she is held in dishonour by the rest of mankind-must we not say that philosophy along with me has now been betrayed, so far as your action was concerned? Had I been living at Megara, you would certainly have come to give me your aid towards the objects for which I asked it; or you would have thought yourself the most contemptible of mankind. But as it is, do you think that you will escape the reputation of cowardice by making excuses about the distance of the journey, the length of the sea voyage, and the amount of labour involved? Far from it." To reproaches of this kind what creditable reply could I have made? Surely none. 
+
+
+Ἀλλ᾽ ἦλθον μὲν κατὰ λόγον ἐν δίκῃ τε [7.329b] ὡς οἷόν τε ἀνθρώπῳ μάλιστα, διά τε τὰ τοιαῦτα καταλιπὼν τὰς ἐμαυτοῦ διατριβάς, οὔσας οὐκ ἀσχήμονας, ὑπὸ τυραννίδα δοκοῦσαν οὐ πρέπειν τοῖς ἐμοῖς λόγοις οὐδὲ ἐμοί· ἐλθών τε ἐμαυτὸν ἠλευθέρωσα Διὸς ξενίου καὶ τῆς φιλοσόφου ἀνέγκλητον μοίρας παρέσχον, ἐπονειδίστου γενομένης ἄν, εἴ τι καταμαλθακισθεὶς καὶ ἀποδειλιῶν αἰσχύνης μετέσχον κακῆς. 	
+(13) I took my departure, therefore, acting, so far as a man can act, in obedience to reason and justice, and for these reasons leaving my own occupations, which were certainly not discreditable ones, to put myself under a tyranny which did not seem likely to harmonise with my teaching or with myself. By my departure I secured my own freedom from the displeasure of Zeus Xenios, and made myself clear of any charge on the part of philosophy, which would have been exposed to detraction, if any disgrace had come upon me for faint-heartedness and cowardice. 
+Ἐλθὼν δέ--οὐ γὰρ δεῖ μηκύνειν--ηὗρον στάσεως τὰ περὶ Διονύσιον μεστὰ σύμπαντα καὶ διαβολῶν [7.329c] πρὸς τὴν τυραννίδα Δίωνος πέρι· ἤμυνον μὲν οὖν καθ᾽ ὅσον ἠδυνάμην, σμικρὰ δ᾽ οἷός τ᾽ ἦ, μηνὶ δὲ σχεδὸν ἴσως τετάρτῳ Δίωνα Διονύσιος αἰτιώμενος ἐπιβουλεύειν τῇ τυραννίδι, σμικρὸν εἰς πλοῖον ἐμβιβάσας, ἐξέβαλεν ἀτίμως.	
+(14) On my arrival, to cut a long story short, I found the court of Dionysios full of intrigues and of attempts to create in the sovereign ill-feeling against Dion. I combated these as far as I could, but with very little success; and in the fourth month or thereabouts, charging Dion with conspiracy to seize the throne, Dionysios put him on board a small boat and expelled him from Syracuse with ignominy.
+οἱ δὴ Δίωνος τὸ μετὰ τοῦτο πάντες φίλοι ἐφοβούμεθα μή τινα ἐπαιτιώμενος τιμωροῖτο ὡς συναίτιον τῆς Δίωνος ἐπιβουλῆς· περὶ δ᾽ ἐμοῦ καὶ διῆλθε λόγος τις ἐν Συρακούσαις, ὡς τεθνεὼς εἴην ὑπὸ Διονυσίου τούτων ὡς πάντων τῶν τότε [7.329d] γεγονότων αἴτιος. ὁ δὲ αἰσθανόμενος πάντας ἡμᾶς οὕτω διατεθέντας, φοβούμενος μὴ μεῖζον ἐκ τῶν φόβων γένοιτό τι, φιλοφρόνως πάντας ἀνελάμβανεν, καὶ δὴ καὶ τὸν ἐμὲ παρεμυθεῖτό τε καὶ θαρρεῖν διεκελεύετο καὶ ἐδεῖτο πάντως μένειν· ἐγίγνετο γάρ οἱ τὸ μὲν ἐμὲ φυγεῖν ἀπ᾽ αὐτοῦ καλὸν οὐδέν, τὸ δὲ μένειν--διὸ δὴ καὶ σφόδρα προσεποιεῖτο δεῖσθαι. τὰς δὲ τῶν τυράννων δεήσεις ἴσμεν ὅτι μεμειγμέναι ἀνάγκαις [7.329e] εἰσίν--ὃ δὴ μηχανώμενος διεκώλυέν μου τὸν ἔκπλουν, εἰς ἀκρόπολιν ἀγαγὼν καὶ κατοικίσας ὅθεν οὐδ᾽ ἂν εἷς ἔτι με ναύκληρος μὴ ὅτι κωλύοντος ἐξήγαγε Διονυσίου, ἀλλ᾽ οὐδ᾽ εἰ μὴ πέμπων αὐτὸς τὸν κελεύοντα ἐξαγαγεῖν ἐπέστελλεν, οὔτ᾽ ἂν ἔμπορος οὔτε τῶν ἐν ταῖς τῆς χώρας ἐξόδοις ἀρχόντων οὐδ᾽ ἂν εἷς περιεῖδέν με μόνον ἐκπορευόμενον, ὃς οὐκ ἂν συλλαβὼν εὐθέως παρὰ Διονύσιον πάλιν ἀπήγαγεν, ἄλλως τε καὶ διηγγελμένον ἤδη ποτὲ τοὐναντίον ἢ [7.330a] τὸ πρότερον πάλιν, ὡς Πλάτωνα Διονύσιος θαυμαστῶς ὡς ἀσπάζεται.	
+
+
+All of us who were Dion's friends were afraid that he might take vengeance on one or other of us as an accomplice in Dion's conspiracy. With regard to me, there was even a rumour current in Syracuse that I had been put to death by Dionysios as the cause of all that had occurred. Perceiving that we were all in this state of mind and apprehending that our fears might lead to some serious consequence, he now tried to win all of us over by kindness: me in particular he encouraged, bidding me be of good cheer and entreating me on all grounds to remain. For my flight from him was not likely to redound to his credit, but my staying might do so. Therefore, he made a great pretence of entreating me. And we know that the entreaties of sovereigns are mixed with compulsion. So to secure his object he proceeded to render my departure impossible, bringing me into the acropolis, and establishing me in quarters from which not a single ship's captain would have taken me away against the will of Dionysios, nor indeed without a special messenger sent by him to order my removal. Nor was there a single merchant, or a single official in charge of points of departure from the country, who would have allowed me to depart unaccompanied, and would not have promptly seized me and taken me back to Dionysios, especially since a statement had now been circulated contradicting the previous rumours and giving out that Dionysios was becoming extraordinarily attached to Plato.
+
+
+Τὸ δ᾽ εἶχεν δὴ πῶς; τὸ γὰρ ἀληθὲς δεῖ φράζειν. Ἠσπάζετο μὲν ἀεὶ προϊόντος τοῦ χρόνου μᾶλλον κατὰ τὴν τοῦ τρόπου τε καὶ ἤθους συνουσίαν, ἑαυτὸν δὲ ἐπαινεῖν μᾶλλον ἢ Δίωνα ἐβούλετό με καὶ φίλον ἡγεῖσθαι διαφερόντως μᾶλλον ἢ ᾽κεῖνον, καὶ θαυμαστῶς ἐφιλονίκει πρὸς τὸ τοιοῦτον· ᾗ δ᾽ ἂν οὕτως ἐγένετο, εἴπερ ἐγίγνετο, κάλλιστα, ὤκνει [7.330b] ὡς δὴ μανθάνων καὶ ἀκούων τῶν περὶ φιλοσοφίαν λόγων οἰκειοῦσθαι καὶ ἐμοὶ συγγίγνεσθαι, φοβούμενος τοὺς τῶν διαβαλλόντων λόγους, μή πῃ παραποδισθείη καὶ δίων δὴ πάντα εἴη διαπεπραγμένος. Ἐγὼ δὲ πάντα ὑπέμενον, τὴν πρώτην διάνοιαν φυλάττων ᾗπερ ἀφικόμην, εἴ πως εἰς ἐπιθυμίαν ἔλθοι τῆς φιλοσόφου ζωῆς· ὁ δ᾽ ἐνίκησεν ἀντιτείνων.	
+
+
+What were the facts about this attachment? I must tell the truth. As time went on, and as intercourse made him acquainted with my disposition and character, he did become more and more attached to me, and wished me to praise him more than I praised Dion, and to look upon him as more specially my friend than Dion, and he was extraordinarily eager about this sort of thing. But when confronted with the one way in which this might have been done, if it was to be done at all, he shrank from coming into close and intimate relations with me as a pupil and listener to my discourses on philosophy, fearing the danger suggested by mischief-makers, that he might be ensnared, and so Dion would prove to have accomplished all his object. I endured all this patiently, retaining the purpose with which I had come and the hope that he might come to desire the philosophic life. But his resistance prevailed against me. 
+
+
+Καὶ ὁ πρῶτος δὴ χρόνος τῆς εἰς Σικελίαν ἐμῆς ἐπιδημίας [7.330c] τε καὶ διατριβῆς διὰ πάντα ταῦτα συνέβη γενόμενος. Μετὰ δὲ τοῦτο ἀπεδήμησά τε καὶ πάλιν ἀφικόμην πάσῃ σπουδῇ μεταπεμπομένου Διονυσίου· ὧν δὲ ἕνεκα καὶ ὅσα ἔπραξα, ὡς εἰκότα τε καὶ δίκαια, ὑμῖν πρῶτον μὲν συμβουλεύσας ἃ χρὴ ποιεῖν ἐκ τῶν νῦν γεγονότων, ὕστερον τὰ περὶ ταῦτα διέξειμι, τῶν ἐπανερωτώντων ἕνεκα τί δὴ βουλόμενος ἦλθον τὸ δεύτερον, ἵνα μὴ τὰ πάρεργα ὡς ἔργα μοι συμβαίνῃ λεγόμενα. Λέγω δὴ τάδε ἐγώ--	
+(15) The time of my first visit to Sicily and my stay there was taken up with all these incidents. On a later occasion I left home and again came on an urgent summons from Dionysios. But before giving the motives and particulars of my conduct then and showing how suitable and right it was, I must first, in order that I may not treat as the main point what is only a side issue, give you my advice as to what your acts should be in the present position of affairs; afterwards, to satisfy those who put the question why I came a second time, I will deal fully with the facts about my second visit; what I have now to say is this.
+
+
+Τὸν συμβουλεύοντα ἀνδρὶ κάμνοντι καὶ δίαιταν διαιτωμένῳ [7.330d] μοχθηρὰν πρὸς ὑγίειαν ἄλλο τι χρὴ πρῶτον μὲν μεταβάλλειν τὸν βίον, καὶ ἐθέλοντι μὲν πείθεσθαι καὶ τἆλλα ἤδη παραινεῖν· μὴ ἐθέλοντι δέ, φεύγοντα ἀπὸ τῆς τοῦ τοιούτου συμβουλῆς ἄνδρα τε ἡγοίμην ἂν καὶ ἰατρικόν, τὸν δὲ ὑπομένοντα τοὐναντίον ἄνανδρόν τε καὶ ἄτεχνον.	
+
+(16) He who advises a sick man, whose manner of life is prejudicial to health, is clearly bound first of all to change his patient's manner of life, and if the patient is willing to obey him, he may go on to give him other advice. But if he is not willing, I shall consider one who declines to advise such a patient to be a man and a physician, and one who gives in to him to be unmanly and unprofessional.
+
+
+Ταὐτὸν δὴ καὶ πόλει, εἴτε αὐτῆς εἷς εἴη κύριος εἴτε καὶ πλείους, εἰ μὲν κατὰ τρόπον ὀρθῇ πορευομένης ὁδῷ τῆς πολιτείας συμβουλεύοιτό [7.330e] τι τῶν προσφόρων, νοῦν ἔχοντος τὸ τοῖς τοιούτοις συμβουλεύειν· τοῖς δ᾽ ἔξω τὸ παράπαν βαίνουσι τῆς ὀρθῆς πολιτείας καὶ μηδαμῇ ἐθέλουσιν αὐτῆς εἰς ἴχνος ἰέναι, προαγορεύουσιν δὲ τῷ συμβούλῳ τὴν μὲν πολιτείαν ἐᾶν καὶ μὴ [7.331a] κινεῖν, ὡς ἀποθανουμένῳ ἐὰν κινῇ, ταῖς δὲ βουλήσεσιν καὶ ἐπιθυμίαις αὐτῶν ὑπηρετοῦντας συμβουλεύειν κελεύοιεν, τίνα τρόπον γίγνοιτ᾽ ἂν ῥᾷστά τε καὶ τάχιστα εἰς τὸν ἀεὶ χρόνον, τὸν μὲν ὑπομένοντα συμβουλὰς τοιαύτας ἡγοίμην ἂν ἄνανδρον, τὸν δ᾽ οὐχ ὑπομένοντα ἄνδρα.	
+
+In the same way with regard to a State, whether it be under a single ruler or more than one, if, while the government is being carried on methodically and in a right course, it asks advice about any details of policy, it is the part of a wise man to advise such people. But when men are travelling altogether outside the path of right government and flatly refuse to move in the right path, and start by giving notice to their adviser that he must leave the government alone and make no change in it under penalty of death-if such men should order their counsellors to pander to their wishes and desires and to advise them in what way their object may most readily and easily be once for all accomplished, I should consider as unmanly one who accepts the duty of giving such forms of advice, and one who refuses it to be a true man.
+
+Ταύτην δὴ τὴν διάνοιαν ἐγὼ κεκτημένος, ὅταν τίς μοι συμβουλεύηται περί τινος τῶν μεγίστων περὶ τὸν αὑτοῦ βίον, οἷον περὶ χρημάτων κτήσεως [7.331b] ἢ περὶ σώματος ἢ ψυχῆς ἐπιμελείας, ἂν μέν μοι τὸ καθ᾽ ἡμέραν ἔν τινι τρόπῳ δοκῇ ζῆν ἢ συμβουλεύσαντος ἂν ἐθέλειν πείθεσθαι περὶ ὧν ἀνακοινοῦται, προθύμως συμβουλεύω καὶ οὐκ ἀφοσιωσάμενος μόνον ἐπαυσάμην.	
+(17) Holding these views, whenever anyone consults me about any of the weightiest matters affecting his own life, as, for instance, the acquisition of property or the proper treatment of body or mind, if it seems to me that his daily life rests on any system, or if he seems likely to listen to advice about the things on which he consults me, I advise him with readiness, and do not content myself with giving him a merely perfunctory answer.
+
+
+Ἐὰν δὲ μὴ συμβουλεύηταί μοι τὸ παράπαν ἢ συμβουλεύοντι δῆλος ᾖ μηδαμῇ πεισόμενος, αὐτόκλητος ἐπὶ τὸν τοιοῦτον οὐκ ἔρχομαι συμβουλεύσων, βιασόμενος δὲ οὐδ᾽ ἂν ὑὸς ᾖ μου.	
+
+
+But if a man does not consult me at all, or evidently does not intend to follow my advice, I do not take the initiative in advising such a man, and will not use compulsion to him, even if he be my own son.
+
+
+Δούλῳ δὲ συμβουλεύσαιμ᾽ ἂν καὶ μὴ ἐθέλοντά γε προσβιαζοίμην· [7.331c] πατέρα δὲ ἢ μητέρα οὐχ ὅσιον ἡγοῦμαι προσβιάζεσθαι μὴ νόσῳ παραφροσύνης ἐχομένους, ἐὰν δέ τινα καθεστῶτα ζῶσι βίον, ἑαυτοῖς ἀρέσκοντα, ἐμοὶ δὲ μή, μήτε ἀπεχθάνεσθαι μάτην νουθετοῦντα μήτε δὴ κολακεύοντά γε ὑπηρετεῖν αὐτοῖς, πληρώσεις ἐπιθυμιῶν ἐκπορίζοντα ἃς αὐτὸς ἀσπαζόμενος οὐκ ἂν ἐθέλοιμι ζῆν.	
+
+
+I would advise a slave under such circumstances, and would use compulsion to him if he were unwilling. To a father or mother I do not think that piety allows one to offer compulsion, unless they are suffering from an attack of insanity; and if they are following any regular habits of life which please them but do not please me, I would not offend them by offering useless, advice, nor would I flatter them or truckle to them, providing them with the means of satisfying desires which I myself would sooner die than cherish.
+
+
+Ταὐτὸν δὴ καὶ περὶ πόλεως αὑτοῦ διανοούμενον χρὴ ζῆν τὸν ἔμφρονα· λέγειν μέν, εἰ μὴ [7.331d] καλῶς αὐτῷ φαίνοιτο πολιτεύεσθαι, εἰ μέλλοι μήτε ματαίως ἐρεῖν μήτε ἀποθανεῖσθαι λέγων, βίαν δὲ πατρίδι πολιτείας μεταβολῆς μὴ προσφέρειν, ὅταν ἄνευ φυγῆς καὶ σφαγῆς ἀνδρῶν μὴ δυνατὸν ᾖ γίγνεσθαι τὴν ἀρίστην, ἡσυχίαν δὲ ἄγοντα εὔχεσθαι τὰ ἀγαθὰ αὑτῷ τε καὶ τῇ πόλει.	
+
+The wise man should go through life with the same attitude of mind towards his country. If she should appear to him to be following a policy which is not a good one, he should say so, provided that his words are not likely either to fall on deaf ears or to lead to the loss of his own life. But force against his native land he should not use in order to bring about a change of constitution, when it is not possible for the best constitution to be introduced without driving men into exile or putting them to death; he should keep quiet and offer up prayers for his own welfare and for that of his country.
+
+Κατὰ δὴ τοῦτον τὸν τρόπον ἐγὼ ὑμῖν τ᾽ ἂν συμβουλεύοιμι, συνεβούλευον δὲ καὶ Διονυσίῳ μετὰ Δίωνος, ζῆν μὲν τὸ καθ᾽ ἡμέραν πρῶτον, ὅπως ἐγκρατὴς αὐτὸς αὑτοῦ ὅτι μάλιστα [7.331e] ἔσεσθαι μέλλοι καὶ πιστοὺς φίλους τε καὶ ἑταίρους κτήσεσθαι, ὅπως μὴ πάθοι ἅπερ ὁ πατὴρ αὐτοῦ, ὃς παραλαβὼν Σικελίας πολλὰς καὶ μεγάλας πόλεις ὑπὸ τῶν βαρβάρων ἐκπεπορθημένας, οὐχ οἷός τ᾽ ἦν κατοικίσας πολιτείας ἐν ἑκάσταις καταστήσασθαι πιστὰς ἑταίρων ἀνδρῶν, οὔτε ἄλλων δή [7.332a] ποθεν ὀθνείων οὔτε ἀδελφῶν, οὓς ἔθρεψέν τε αὐτὸς νεωτέρους ὄντας, ἔκ τε ἰδιωτῶν ἄρχοντας καὶ ἐκ πενήτων πλουσίους ἐπεποιήκει διαφερόντως.	
+(18) These are the principles in accordance with which I should advise you, as also, jointly with Dion, I advised Dionysios, bidding him in the first place to live his daily life in a way that would make him as far as possible master of himself and able to gain faithful friends and supporters, in order that he might not have the same experience as his father. For his father, having taken under his rule many great cities of Sicily which had been utterly destroyed by the barbarians, was not able to found them afresh and to establish in them trustworthy governments carried on by his own supporters, either by men who had no ties of blood with him, or by his brothers whom he had brought up when they were younger, and had raised from humble station to high office and from poverty to immense wealth.
+
+
+Τούτων κοινωνὸν τῆς ἀρχῆς οὐδένα οἷός τ᾽ ἦν πειθοῖ καὶ διδαχῇ καὶ εὐεργεσίαις καὶ συγγενείαις ἀπεργασάμενος ποιήσασθαι, Δαρείου δὲ ἑπταπλασίῳ φαυλότερος ἐγένετο, ὃς οὐκ ἀδελφοῖς πιστεύσας οὐδ᾽ ὑφ᾽ αὑτοῦ τραφεῖσιν, κοινωνοῖς δὲ μόνον τῆς τοῦ Μήδου τε [7.332b] καὶ εὐνούχου χειρώσεως, διένειμέ τε μέρη μείζω ἕκαστα Σικελίας πάσης ἑπτά, καὶ πιστοῖς ἐχρήσατο τοῖς κοινωνοῖς καὶ οὐκ ἐπιτιθεμένοις οὔτε αὐτῷ οὔτε ἀλλήλοις, ἔδειξέν τε παράδειγμα οἷον χρὴ τὸν νομοθέτην καὶ βασιλέα τὸν ἀγαθὸν γίγνεσθαι· νόμους γὰρ κατασκευάσας ἔτι καὶ νῦν διασέσωκεν τὴν Περσῶν ἀρχήν. 	
+
+
+Not one of these was he able to work upon by persuasion, instruction, services and ties of kindred, so as to make him a partner in his rule; and he showed himself inferior to Darius with a sevenfold inferiority. For Darius did not put his trust in brothers or in men whom he had brought up, but only in his confederates in the overthrow of the Mede and Eunuch; and to these he assigned portions of his empire, seven in number, each of them greater than all Sicily; and they were faithful to him and did not attack either him or one another. Thus he showed a pattern of what the good lawgiver and king ought to be; for he drew up laws by which he has secured the Persian empire in safety down to the present time. 
+
+
+Ἔτι δὲ Ἀθηναῖοι πρὸς τούτοις, οὐκ αὐτοὶ κατοικίσαντες, πολλὰς τῶν Ἑλλήνων πόλεις ὑπὸ βαρβάρων ἐμβεβλημένας ἀλλ᾽ οἰκουμένας παραλαβόντες, ὅμως [7.332c] ἑβδομήκοντα ἔτη διεφύλαξαν τὴν ἀρχὴν ἄνδρας φίλους ἐν ταῖς πόλεσιν ἑκάσταις κεκτημένοι. Διονύσιος δὲ εἰς μίαν πόλιν ἁθροίσας πᾶσαν Σικελίαν, ὑπὸ σοφίας πιστεύων οὐδενί, μόγις ἐσώθη· πένης γὰρ ἦν ἀνδρῶν φίλων καὶ πιστῶν, οὗ μεῖζον σημεῖον εἰς ἀρετὴν καὶ κακίαν οὐκ ἔστιν οὐδέν, τοῦ ἔρημον ἢ μὴ τοιούτων ἀνδρῶν εἶναι.	
+(19) Again, to give another instance, the Athenians took under their rule very many cities not founded by themselves, which had been hard hit by the barbarians but were still in existence, and maintained their rule over these for seventy years, because they had in each them men whom they could trust. But Dionysios, who had gathered the whole of Sicily into a single city, and was so clever that he trusted no one, only secured his own safety with great difficulty. For he was badly off for trustworthy friends; and there is no surer criterion of virtue and vice than this, whether a man is or is not destitute of such friends.
+
+
+Ἃ δὴ καὶ Διονυσίῳ συνεβουλεύομεν ἐγὼ καὶ Δίων, ἐπειδὴ τὰ παρὰ τοῦ πατρὸς [7.332d] αὐτῷ συνεβεβήκει οὕτως, ἀνομιλήτῳ μὲν παιδείας, ἀνομιλήτῳ δὲ συνουσιῶν τῶν προσηκουσῶν γεγονέναι, πρῶτον . . . ἔπειτα ταύτῃ ὁρμήσαντα φίλους ἄλλους αὑτῷ τῶν οἰκείων ἅμα καὶ ἡλικιωτῶν καὶ συμφώνους πρὸς ἀρετὴν κτήσασθαι, μάλιστα δ᾽ αὐτὸν αὑτῷ, τούτου γὰρ αὐτὸν θαυμαστῶς ἐνδεᾶ γεγονέναι, λέγοντες οὐκ ἐναργῶς οὕτως--οὐ γὰρ ἦν ἀσφαλές --αἰνιττόμενοι δὲ καὶ διαμαχόμενοι τοῖς λόγοις ὡς οὕτω μὲν πᾶς ἀνὴρ αὑτόν τε καὶ ἐκείνους ὧν ἂν ἡγεμὼν γίγνηται σώσει, [7.332e] μὴ ταύτῃ δὲ τραπόμενος τἀναντία πάντα ἀποτελεῖ·	
+(20) This, then, was the advice which Dion and I gave to Dionysios, since, owing to bringing up which he had received from his father, he had had no advantages in the way of education or of suitable lessons, in the first place...; and, in the second place, that, after starting in this way, he should make friends of others among his connections who were of the same age and were in sympathy with his pursuit of virtue, but above all that he should be in harmony with himself; for this it was of which he was remarkably in need. This we did not say in plain words, for that would not have been safe; but in covert language we maintained that every man in this way would save both himself and those whom he was leading, and if he did not follow this path, he would do just the opposite of this.
+
+πορευθεὶς δὲ ὡς λέγομεν, καὶ ἑαυτὸν ἔμφρονά τε καὶ σώφρονα ἀπεργασάμενος, εἰ τὰς ἐξηρημωμένας Σικελίας πόλεις κατοικίσειεν νόμοις τε συνδήσειεν καὶ πολιτείαις, ὥστε αὑτῷ τε οἰκείας καὶ ἀλλήλαις εἶναι πρὸς τὰς τῶν βαρβάρων βοηθείας, οὐ [7.333a] διπλασίαν τὴν πατρῴαν ἀρχὴν μόνον ποιήσοι, πολλαπλασίαν δὲ ὄντως·	
+
+And after proceeding on the course which we described, and making himself a wise and temperate man, if he were then to found again the cities of Sicily which had been laid waste, and bind them together by laws and constitutions, so as to be loyal to him and to one another in their resistance to the attacks of the barbarians, he would, we told him, make his father's empire not merely double what it was but many times greater.
+
+ἕτοιμον γὰρ εἶναι τούτων γενομένων πολὺ μᾶλλον δουλώσασθαι Καρχηδονίους τῆς ἐπὶ Γέλωνος αὐτοῖς γενομένης δουλείας, ἀλλ᾽ οὐχ ὥσπερ νῦν τοὐναντίον ὁ πατὴρ αὐτοῦ φόρον ἐτάξατο φέρειν τοῖς βαρβάροις.	
+
+For, if these things were done, his way would be clear to a more complete subjugation of the Carthaginians than that which befell them in Gelon's time, whereas in our own day his father had followed the opposite course of levying attribute for the barbarians.
+
+Ταῦτα ἦν τὰ λεγόμενα καὶ παρακελευόμενα ὑφ᾽ ἡμῶν τῶν ἐπιβουλευόντων Διονυσίῳ, ὡς πολλαχόθεν ἐχώρουν οἱ τοιοῦτοι λόγοι, οἳ δὴ καὶ κρατήσαντες παρὰ Διονυσίῳ ἐξέβαλον μὲν Δίωνα, ἡμᾶς [7.333b] δ᾽ εἰς φόβον κατέβαλον· ἵνα δ᾽ ἐκπεράνωμεν οὐκ ὀλίγα πράγματα τὰ ἐν ὀλίγῳ χρόνῳ, ἐλθὼν ἐκ Πελοποννήσου καὶ Ἀθηνῶν Δίων ἔργῳ τὸν Διονύσιον ἐνουθέτησεν.	
+
+This was the language and these the exhortations given by us, the conspirators against Dionysios according to the charges circulated from various sources-charges which, prevailing as they did with Dionysios, caused the expulsion of Dion and reduced me to a state of apprehension. But when-to summarise great events which happened in no great time-Dion returned from the Peloponnese and Athens, his advice to Dionysios took the form of action.
+
+ἐπειδὴ δ᾽ οὖν ἠλευθέρωσέν τε καὶ ἀπέδωκεν αὐτοῖς δὶς τὴν πόλιν, ταὐτὸν πρὸς Δίωνα Συρακόσιοι τότε ἔπαθον ὅπερ καὶ Διονύσιος, ὅτε αὐτὸν ἐπεχείρει παιδεύσας καὶ θρέψας βασιλέα τῆς ἀρχῆς ἄξιον, οὕτω κοινωνεῖν αὐτῷ τοῦ βίου παντός, ὁ δὲ τοῖς [7.333c] διαβάλλουσιν καὶ λέγουσιν ὡς ἐπιβουλεύων τῇ τυραννίδι Δίων πράττοι πάντα ὅσα ἔπραττεν ἐν τῷ τότε χρόνῳ, ἵνα ὁ μὲν παιδείᾳ δὴ τὸν νοῦν κηληθεὶς ἀμελοῖ τῆς ἀρχῆς ἐπιτρέψας ἐκείνῳ, ὁ δὲ σφετερίσαιτο καὶ Διονύσιον ἐκβάλοι ἐκ τῆς ἀρχῆς δόλῳ. ταῦτα τότε ἐνίκησεν καὶ τὸ δεύτερον ἐν Συρακοσίοις λεγόμενα, καὶ μάλα ἀτόπῳ τε καὶ αἰσχρᾷ νίκῃ τοῖς τῆς νίκης αἰτίοις.	
+(21) To proceed-when Dion had twice over delivered the city and restored it to the citizens, the Syracusans went through the same changes of feeling towards him as Dionysios had gone through, when Dion attempted first to educate him and train him to be a sovereign worthy of supreme power and, when that was done, to be his coadjutor in all the details of his career. Dionysios listened to those who circulated slanders to the effect that Dion was aiming at the tyranny in all the steps which he took at that time his intention being that Dionysios, when his mind had fallen under the spell of culture, should neglect the government and leave it in his hands, and that he should then appropriate it for himself and treacherously depose Dionysios. These slanders were victorious on that occasion; they were so once more when circulated among the Syracusans, winning a victory which took an extraordinary course and proved disgraceful to its authors.
+
+
+οἷον γὰρ γέγονεν, ἀκοῦσαι χρὴ τοὺς [7.333d] ἐμὲ παρακαλοῦντας πρὸς τὰ νῦν πράγματα.	
+
+The story of what then took place is one which deserves careful attention on the part of those who are inviting me to deal with the present situation.
+
+
+ἦλθον Ἀθηναῖος ἀνὴρ ἐγώ, ἑταῖρος Δίωνος, σύμμαχος αὐτῷ, πρὸς τὸν τύραννον, ὅπως ἀντὶ πολέμου φιλίαν ποιήσαιμι· διαμαχόμενος δὲ τοῖς διαβάλλουσιν ἡττήθην. Πείθοντος δὲ Διονυσίου τιμαῖς καὶ χρήμασιν γενέσθαι μετ᾽ αὐτοῦ ἐμὲ μάρτυρά τε καὶ φίλον πρὸς τὴν εὐπρέπειαν τῆς ἐκβολῆς τῆς Δίωνος αὐτῷ γίγνεσθαι, τούτων δὴ τὸ πᾶν διήμαρτεν.	
+(22) I, an Athenian and friend of Dion, came as his ally to the court of Dionysios, in order that I might create good will in place of a state war; in my conflict with the authors of these slanders I was worsted. When Dionysios tried to persuade me by offers of honours and wealth to attach myself to him, and with a view to giving a decent colour to Dion's expulsion a witness and friend on his side, he failed completely in his attempt.
+
+
+ὕστερον δὲ δὴ κατιὼν οἴκαδε [7.333e] Δίων ἀδελφὼ δύο προσλαμβάνει Ἀθήνηθεν, οὐκ ἐκ φιλοσοφίας γεγονότε φίλω, ἀλλ᾽ ἐκ τῆς περιτρεχούσης ἑταιρίας ταύτης τῆς τῶν πλείστων φίλων, ἣν ἐκ τοῦ ξενίζειν τε καὶ μυεῖν καὶ ἐποπτεύειν πραγματεύονται, καὶ δὴ καὶ τούτω τὼ συγκαταγαγόντε αὐτὸν φίλω ἐκ τούτων τε καὶ ἐκ τῆς πρὸς τὴν κάθοδον ὑπηρεσίας ἐγενέσθην ἑταίρω·	
+
+Later on, when Dion returned from exile, he took with him from Athens two brothers, who had been his friends, not from community in philosophic study, but with the ordinary companionship common among most friends, which they form as the result of relations of hospitality and the intercourse which occurs when one man initiates the other in the mysteries. It was from this kind of intercourse and from services connected with his return that these two helpers in his restoration became his companions.
+
+
+ἐλθόντες [7.334a] δὲ εἰς Σικελίαν, ἐπειδὴ Δίωνα ᾔσθοντο διαβεβλημένον εἰς τοὺς ἐλευθερωθέντας ὑπ᾽ αὐτοῦ Σικελιώτας ὡς ἐπιβουλεύοντα γενέσθαι τύραννον, οὐ μόνον τὸν ἑταῖρον καὶ ξένον προύδοσαν, ἀλλ᾽ οἷον τοῦ φόνου αὐτόχειρες ἐγένοντο, ὅπλα ἔχοντες ἐν ταῖς χερσὶν αὐτοὶ τοῖς φονεῦσι παρεστῶτες ἐπίκουροι.	
+
+Having come to Sicily, when they perceived that Dion had been misrepresented to the Sicilian Greeks, whom he had liberated, as one that plotted to become monarch, they not only betrayed their companion and friend, but shared personally in the guilt of his murder, standing by his murderers as supporters with weapons in their hands.
+
+
+Καὶ τὸ μὲν αἰσχρὸν καὶ ἀνόσιον οὔτε παρίεμαι ἔγωγε οὔτε τι λέγω--πολλοῖς γὰρ καὶ ἄλλοις ὑμνεῖν ταῦτα ἐπιμελὲς [7.334b] καὶ εἰς τὸν ἔπειτα μελήσει χρόνον--τὸ δὲ Ἀθηναίων πέρι λεγόμενον, ὡς αἰσχύνην οὗτοι περιῆψαν τῇ πόλει, ἐξαιροῦμαι· φημὶ γὰρ κἀκεῖνον Ἀθηναῖον εἶναι ὃς οὐ προύδωκεν τὸν αὐτὸν τοῦτον, ἐξὸν χρήματα καὶ ἄλλας τιμὰς πολλὰς λαμβάνειν.	
+
+The guilt and impiety of their conduct I neither excuse nor do I dwell upon it. For many others make it their business to harp upon it, and will make it their business in the future. But I do take exception to the statement that, because they were Athenians, they have brought shame upon this city. For I say that he too is an Athenian who refused to betray this same Dion, when he had the offer of riches and many other honours.
+
+
+Οὐ γὰρ διὰ βαναύσου φιλότητος ἐγεγόνει φίλος, διὰ δὲ ἐλευθέρας παιδείας κοινωνίαν, ᾗ μόνῃ χρὴ πιστεύειν τὸν νοῦν κεκτημένον μᾶλλον ἢ συγγενείᾳ ψυχῶν καὶ σωμάτων· ὥστε οὐκ ἀξίω [7.334c] ὀνείδους γεγόνατον τῇ πόλει τὼ Δίωνα ἀποκτείναντε, ὡς ἐλλογίμω πώποτε ἄνδρε γενομένω.	
+
+For his was no common or vulgar friendship, but rested on community in liberal education, and this is the one thing in which a wise man will put his trust, far more than in ties of personal and bodily kinship. So the two murderers of Dion were not of sufficient importance to be causes of disgrace to this city, as though they had been men of any note.
+
+
+Ταῦτα εἴρηται πάντα τῆς συμβουλῆς ἕνεκα τῶν Διωνείων φίλων καὶ συγγενῶν· συμβουλεύω δὲ δή τι πρὸς τούτοις τὴν αὐτὴν συμβουλὴν καὶ λόγον τὸν αὐτὸν λέγων ἤδη τρίτον τρίτοις ὑμῖν. μὴ δουλοῦσθαι Σικελίαν ὑπ᾽ ἀνθρώποις δεσπόταις, μηδὲ ἄλλην πόλιν, ὅ γ᾽ ἐμὸς λόγος, ἀλλ᾽ ὑπὸ νόμοις· οὔτε γὰρ τοῖς δουλουμένοις οὔτε τοῖς δουλωθεῖσιν ἄμεινον, [7.334d] αὐτοῖς καὶ παισὶ παίδων τε καὶ ἐκγόνοις, ἀλλ᾽ ὀλέθριος πάντως ἡ πεῖρα, σμικρὰ δὲ καὶ ἀνελεύθερα ψυχῶν ἤθη τὰ τοιαῦτα ἁρπάζειν κέρδη φιλεῖ, οὐδὲν τῶν εἰς τὸν ἔπειτα καὶ εἰς τὸν παρόντα καιρὸν ἀγαθῶν καὶ δικαίων εἰδότα θείων τε καὶ ἀνθρωπίνων.	
+(23) All this has been said with a view to counselling the friends and family of Dion. And in addition to this I give for the third time to you the same advice and counsel which I have given twice before to others-not to enslave Sicily or any other State to despots-this my counsel but-to put it under the rule of laws-for the other course is better neither for the enslavers nor for the enslaved, for themselves, their children's children and descendants; the attempt is in every way fraught with disaster. It is only small and mean natures that are bent upon seizing such gains for themselves, natures that know nothing of goodness and justice, divine as well as human, in this life and in the next. 
+
+Ταῦτα πρῶτον μὲν Δίωνα ἐπεχείρησα ἐγὼ πείθειν, δεύτερον δὲ Διονύσιον, τρίτους δὲ ὑμᾶς νῦν. Καὶ ἐμοὶ πείθεσθε Διὸς τρίτου σωτῆρος χάριν, εἶτα εἰς Διονύσιον βλέψαντες καὶ Δίωνα, ὧν ὁ μὲν μὴ πειθόμενος ζῇ τὰ νῦν [7.334e] οὐ καλῶς, ὁ δὲ πειθόμενος τέθνηκεν καλῶς· τὸ γὰρ τῶν καλλίστων ἐφιέμενον αὑτῷ τε καὶ πόλει πάσχειν ὅτι ἂν πάσχῃ πᾶν ὀρθὸν καὶ καλόν.	
+(24) These are the lessons which I tried to teach, first to Dion, secondly to Dionysios, and now for the third time to you. Do you obey me thinking of Zeus the Preserver, the patron of third ventures, and looking at the lot of Dionysios and Dion, of whom the one who disobeyed me is living in dishonour, while he who obeyed me has died honourably. For the one thing which is wholly right and noble is to strive for that which is most honourable for a man's self and for his country, and to face the consequences whatever they may be.
+
+
+Οὔτε γὰρ πέφυκεν ἀθάνατος ἡμῶν οὐδείς, οὔτ᾽ εἴ τῳ συμβαίη, γένοιτο ἂν εὐδαίμων, ὡς δοκεῖ τοῖς πολλοῖς· κακὸν γὰρ καὶ ἀγαθὸν οὐδὲν λόγου ἄξιόν [7.335a] ἐστιν τοῖς ἀψύχοις, ἀλλ᾽ ἢ μετὰ σώματος οὔσῃ ψυχῇ τοῦτο συμβήσεται ἑκάστῃ ἢ κεχωρισμένῃ.	
+
+For none of us can escape death, nor, if a man could do so, would it, as the vulgar suppose, make him happy. For nothing evil or good, which is worth mentioning at all, belongs to things soulless; but good or evil will be the portion of every soul, either while attached to the body or when separated from it.
+
+Πείθεσθαι δὲ ὄντως ἀεὶ χρὴ τοῖς παλαιοῖς τε καὶ ἱεροῖς λόγοις, οἳ δὴ μηνύουσιν ἡμῖν ἀθάνατον ψυχὴν εἶναι δικαστάς τε ἴσχειν καὶ τίνειν τὰς μεγίστας τιμωρίας, ὅταν τις ἀπαλλαχθῇ τοῦ σώματος· διὸ καὶ τὰ μεγάλα ἁμαρτήματα καὶ ἀδικήματα σμικρότερον εἶναι χρὴ νομίζειν κακὸν πάσχειν ἢ δρᾶσαι, ὧν ὁ φιλοχρήματος [7.335b] πένης τε ἀνὴρ τὴν ψυχὴν οὔτε ἀκούει, ἐάν τε ἀκούσῃ, καταγελῶν, ὡς οἴεται, πανταχόθεν ἀναιδῶς ἁρπάζει πᾶν ὅτιπερ ἂν οἴηται, καθάπερ θηρίον, φαγεῖν ἢ πιεῖν ἢ περὶ τὴν ἀνδραποδώδη καὶ ἀχάριστον, ἀφροδίσιον λεγομένην οὐκ ὀρθῶς, ἡδονὴν ποριεῖν αὑτῷ τοὐμπίμπλασθαι, τυφλὸς ὢν καὶ οὐχ ὁρῶν, οἷς συνέπεται τῶν ἁρπαγμάτων ἀνοσιουργία, κακὸν ἡλίκον ἀεὶ μετ᾽ ἀδικήματος ἑκάστου, ἣν ἀναγκαῖον τῷ ἀδικήσαντι συνεφέλκειν ἐπί τε γῇ στρεφομένῳ καὶ ὑπὸ γῆς [7.335c] νοστήσαντι πορείαν ἄτιμόν τε καὶ ἀθλίαν πάντως πανταχῇ.	
+(25) And we should in very truth always believe those ancient and sacred teachings, which declare that the soul is immortal, that it has judges, and suffers the greatest penalties when it has been separated from the body. Therefore also we should consider it a lesser evil to suffer great wrongs and outrages than to do them. The covetous man, impoverished as he is in the soul, turns a deaf ear to this teaching; or if he hears it, he laughs it to scorn with fancied superiority, and shamelessly snatches for himself from every source whatever his bestial fancy supposes will provide for him the means of eating or drinking or glutting himself with that slavish and gross pleasure which is falsely called after the goddess of love. He is blind and cannot see in those acts of plunder which are accompanied by impiety what heinous guilt is attached to each wrongful deed, and that the offender must drag with him the burden of this impiety while he moves about on earth, and when he has travelled beneath the earth on a journey which has every circumstance of shame and misery.
+
+
+Δίωνα δὴ ἐγὼ λέγων ταῦτά τε καὶ ἄλλα τοιαῦτα ἔπειθον, καὶ τοῖς ἀποκτείνασιν ἐκεῖνον δικαιότατ᾽ ἂν ὀργιζοίμην ἐγὼ τρόπον τινὰ ὁμοιότατα καὶ Διονυσίῳ· ἀμφότεροι γὰρ ἐμὲ καὶ τοὺς ἄλλους ὡς ἔπος εἰπεῖν ἅπαντας τὰ μέγιστα ἔβλαψαν ἀνθρώπους, οἱ μὲν τὸν βουλόμενον δικαιοσύνῃ χρῆσθαι διαφθείραντες, ὁ δὲ οὐδὲν ἐθελήσας χρήσασθαι δικαιοσύνῃ [7.335d] διὰ πάσης τῆς ἀρχῆς, μεγίστην δύναμιν ἔχων, ἐν ᾗ γενομένη φιλοσοφία τε καὶ δύναμις ὄντως ἐν ταὐτῷ διὰ πάντων ἀνθρώπων Ἑλλήνων τε καὶ βαρβάρων λάμψασ᾽ ἂν ἱκανῶς δόξαν παρέστησεν πᾶσιν τὴν ἀληθῆ, ὡς οὐκ ἄν ποτε γένοιτο εὐδαίμων οὔτε πόλις οὔτ᾽ ἀνὴρ οὐδείς, ὃς ἂν μὴ μετὰ φρονήσεως ὑπὸ δικαιοσύνῃ διαγάγῃ τὸν βίον, ἤτοι ἐν αὑτῷ κεκτημένος ἢ ὁσίων ἀνδρῶν ἀρχόντων ἐν ἤθεσιν τραφείς τε καὶ παιδευθεὶς [7.335e] ἐνδίκως. ταῦτα μὲν Διονύσιος ἔβλαψεν· τὰ δὲ ἄλλα σμικρὰ ἂν εἴη πρὸς ταῦτά μοι βλάβη.	
+(26) It was by urging these and other like truths that I convinced Dion, and it is I who have the best right to be angered with his murderers in much the same way as I have with Dionysios. For both they and he have done the greatest injury to me, and I might almost say to all mankind, they by slaying the man that was willing to act righteously, and he by refusing to act righteously during the whole of his rule, when he held supreme power, in which rule if philosophy and power had really met together, it would have sent forth a light to all men, Greeks and barbarians, establishing fully for all the true belief that there can be no happiness either for the community or for the individual man, unless he passes his life under the rule of righteousness with the guidance of wisdom, either possessing these virtues in himself, or living under the rule of godly men and having received a right training and education in morals. These were the aims which Dionysios injured, and for me everything else is a trifling injury compared with this.
+
+
+ὁ δὲ Δίωνα ἀποκτείνας οὐκ οἶδεν ταὐτὸν ἐξειργασμένος τούτῳ. Δίωνα γὰρ ἐγὼ σαφῶς οἶδα, ὡς οἷόν τε περὶ ἀνθρώπων ἄνθρωπον διισχυρίζεσθαι, ὅτι, τὴν ἀρχὴν εἰ κατέσχεν, ὡς οὐκ ἄν ποτε ἐπ᾽ ἄλλο γε [7.336a] σχῆμα ἀρχῆς ἐτράπετο ἢ ἐπὶ τὸ Συρακούσας μὲν πρῶτον, τὴν πατρίδα τὴν ἑαυτοῦ, ἐπεὶ τὴν δουλείαν αὐτῆς ἀπήλλαξεν φαιδρύνας ἐλευθέρας δ᾽ ἐν σχήματι κατέστησεν, τὸ μετὰ τοῦτ᾽ ἂν πάσῃ μηχανῇ ἐκόσμησεν νόμοις τοῖς προσήκουσίν τε καὶ ἀρίστοις τοὺς πολίτας, τό τε ἐφεξῆς τούτοις προυθυμεῖτ᾽ ἂν πρᾶξαι, πᾶσαν Σικελίαν κατοικίζειν καὶ ἐλευθέραν ἀπὸ τῶν βαρβάρων ποιεῖν, τοὺς μὲν ἐκβάλλων, τοὺς δὲ χειρούμενος ῥᾷον Ἱέρωνος·	
+(27) The murderer of Dion has, without knowing it, done the same as Dionysios. For as regards Dion, I know right well, so far as it is possible for a man to say anything positively about other men, that, if he had got the supreme power, he would never have turned his mind to any other form of rule, but that, dealing first with Syracuse, his own native land, when he had made an end of her slavery, clothed her in bright apparel, and given her the garb of freedom, he would then by every means in his power have ordered aright the lives of his fellow-citizens by suitable and excellent laws; and the thing next in order, which he would have set his heart to accomplish, was to found again all the States of Sicily and make them free from the barbarians, driving out some and subduing others, an easier task for him than it was for Hiero.
+
+
+τούτων δ᾽ αὖ γενομένων δι᾽ ἀνδρὸς [7.336b] δικαίου τε καὶ ἀνδρείου καὶ σώφρονος καὶ φιλοσόφου, τὴν αὐτὴν ἀρετῆς ἂν πέρι γενέσθαι δόξαν τοῖς πολλοῖς, ἥπερ ἄν, εἰ Διονύσιος ἐπείσθη, παρὰ πᾶσιν ἂν ὡς ἔπος εἰπεῖν ἀνθρώποις ἀπέσωσεν γενομένη.	
+
+If these things had been accomplished by a man who was just and brave and temperate and a philosopher, the same belief with regard to virtue would have been established among the majority which, if Dionysios had been won over, would have been established, I might almost say, among all mankind and would have given them salvation.
+
+Νῦν δὲ ἤ πού τις δαίμων ἤ τις ἀλιτήριος ἐμπεσὼν ἀνομίᾳ καὶ ἀθεότητι καὶ τὸ μέγιστον τόλμαις ἀμαθίας, ἐξ ἧς πάντα κακὰ πᾶσιν ἐρρίζωται καὶ βλαστάνει καὶ εἰς ὕστερον ἀποτελεῖ καρπὸν τοῖς γεννήσασιν πικρότατον, αὕτη πάντα τὸ δεύτερον ἀνέτρεψέν τε καὶ[7.336c] ἀπώλεσεν.	
+
+But now some higher power or avenging fiend has fallen upon them, inspiring them with lawlessness, godlessness and acts of recklessness issuing from ignorance, the seed from which all evils for all mankind take root and grow and will in future bear the bitterest harvest for those who brought them into being. This ignorance it was which in that second venture wrecked and ruined everything.
+
+Νῦν δὲ δὴ εὐφημῶμεν χάριν οἰωνοῦ τὸ τρίτον. ὅμως δὲ μιμεῖσθαι μὲν συμβουλεύω Δίωνα ὑμῖν τοῖς φίλοις τήν τε τῆς πατρίδος εὔνοιαν καὶ τὴν τῆς τροφῆς σώφρονα δίαιταν, ἐπὶ λῳόνων δὲ ὀρνίθων τὰς ἐκείνου βουλήσεις πειρᾶσθαι ἀποτελεῖν--αἳ δὲ ἦσαν, ἀκηκόατε παρ᾽ ἐμοῦ σαφῶς--τὸν δὲ μὴ δυνάμενον ὑμῶν Δωριστὶ ζῆν κατὰ τὰ [7.336d] πάτρια, διώκοντα δὲ τόν τε τῶν Δίωνος σφαγέων καὶ τὸν Σικελικὸν βίον, μήτε παρακαλεῖν μήτε οἴεσθαι πιστὸν ἄν τι καὶ ὑγιὲς πρᾶξαί ποτε, τοὺς δὲ ἄλλους παρακαλεῖν ἐπὶ πάσης Σικελίας κατοικισμόν τε καὶ ἰσονομίαν ἔκ τε αὐτῆς Σικελίας καὶ ἐκ Πελοποννήσου συμπάσης, φοβεῖσθαι δὲ μηδὲ Ἀθήνας· εἰσὶ γὰρ καὶ ἐκεῖ πάντων ἀνθρώπων διαφέροντες πρὸς ἀρετήν, ξενοφόνων τε ἀνδρῶν μισοῦντες τόλμας.	
+(28) And now, for good luck's sake, let us on this third venture abstain from words of ill omen. But, nevertheless, I advise you, his friends, to imitate in Dion his love for his country and his temperate habits of daily life, and to try with better auspices to carry out his wishes-what these were, you have heard from me in plain words. And whoever among you cannot live the simple Dorian life according to the customs of your forefathers, but follows the manner of life of Dion's murderers and of the Sicilians, do not invite this man to join you, or expect him to do any loyal or salutary act; but invite all others to the work of resettling all the States of Sicily and establishing equality under the laws, summoning them from Sicily itself and from the whole Peloponnese-and have no fear even of Athens; for there, also, are men who excel all mankind in their devotion to virtue and in hatred of the reckless acts of those who shed the blood of friends.
+
+
+εἰ δ᾽ οὖν ταῦτα μὲν ὕστερα γένοιτ᾽ ἄν, κατεπείγουσιν δὲ ὑμᾶς αἱ τῶν [7.336e] στάσεων πολλαὶ καὶ παντοδαπαὶ φυόμεναι ἑκάστης ἡμέρας διαφοραί, εἰδέναι μέν που χρὴ πάντα τινὰ ἄνδρα, ᾧ καὶ βραχὺ δόξης ὀρθῆς μετέδωκεν θεία τις τύχη, ὡς οὐκ ἔστιν παῦλα κακῶν τοῖς στασιάσασιν, πρὶν ἂν οἱ κρατήσαντες μάχαις καὶ ἐκβολαῖς ἀνθρώπων καὶ σφαγαῖς μνησικακοῦντες [7.337a] καὶ ἐπὶ τιμωρίας παύσωνται τρεπόμενοι τῶν ἐχθρῶν, ἐγκρατεῖς δὲ ὄντες αὑτῶν, θέμενοι νόμους κοινοὺς μηδὲν μᾶλλον πρὸς ἡδονὴν αὑτοῖς ἢ τοῖς ἡττηθεῖσιν κειμένους, ἀναγκάσωσιν αὐτοὺς χρῆσθαι τοῖς νόμοις διτταῖς οὔσαις ἀνάγκαις, αἰδοῖ καὶ φόβῳ, φόβῳ μὲν διὰ τὸ κρείττους αὐτῶν εἶναι δεικνύντες τὴν βίαν, αἰδοῖ δὲ αὖ διὰ τὸ κρείττους φαίνεσθαι περί τε τὰς ἡδονὰς καὶ τοῖς νόμοις μᾶλλον ἐθέλοντές τε καὶ δυνάμενοι δουλεύειν.	
+(29) But if, after all, this is work for a future time, whereas immediate action is called for by the disorders of all sorts and kinds which arise every day from your state of civil strife, every man to whom Providence has given even a moderate share of right intelligence ought to know that in times of civil strife there is no respite from trouble till the victors make an end of feeding their grudge by combats and banishments and executions, and of wreaking their vengeance on their enemies. They should master themselves and, enacting impartial laws, framed not to gratify themselves more than the conquered party, should compel men to obey these by two restraining forces, respect and fear; fear, because they are the masters and can display superior force; respect, because they rise superior to pleasures and are willing and able to be servants to the laws. 
+
+
+ἄλλως δὲ οὐκ ἔστιν ὡς ἄν ποτε κακῶν λήξαι [7.337b] πόλις ἐν αὑτῇ στασιάσασα, ἀλλὰ στάσεις καὶ ἔχθραι καὶ μίση καὶ ἀπιστίαι ταῖς οὕτω διατεθείσαις πόλεσιν αὐταῖς πρὸς αὑτὰς ἀεὶ γίγνεσθαι φιλεῖ.	
+
+There is no other way save this for terminating the troubles of a city that is in a state of civil strife; but a constant continuance of internal disorders, struggles, hatred and mutual distrust is the common lot of cities which are in that plight.
+
+Τοὺς δὴ κρατήσαντας ἀεὶ χρή, ὅτανπερ ἐπιθυμήσωσιν σωτηρίας, αὐτοὺς ἐν αὑτοῖς ἄνδρας προκρῖναι τῶν Ἑλλήνων οὓς ἂν πυνθάνωνται ἀρίστους ὄντας, πρῶτον μὲν γέροντας, καὶ παῖδας καὶ γυναῖκας κεκτημένους οἴκοι καὶ προγόνους αὑτῶν ὅτι μάλιστα πολλούς τε καὶ ἀγαθοὺς καὶ ὀνομαστοὺς καὶ κτῆσιν κεκτημένους πάντας [7.337c] ἱκανήν--ἀριθμὸν δὲ εἶναι μυριάνδρῳ πόλει πεντήκοντα ἱκανοὶ τοιοῦτοι--τούτους δὴ δεήσεσιν καὶ τιμαῖς ὅτι μεγίσταις οἴκοθεν μεταπέμψασθαι, μεταπεμψαμένους δὲ ὀμόσαντας δεῖσθαι καὶ κελεύειν θεῖναι νόμους, μήτε νικήσασιν μήτε νικηθεῖσιν νέμειν πλέον, τὸ δὲ ἴσον καὶ κοινὸν πάσῃ τῇ πόλει.	
+(30) Therefore, those who have for the time being gained the upper hand, when they desire to secure their position, must by their own act and choice select from all Hellas men whom they have ascertained to be the best for the purpose. These must in the first place be men of mature years, who have children and wives at home, and, as far as possible, a long line of ancestors of good repute, and all must be possessed of sufficient property. For a city of ten thousand householders their numbers should be fifty; that is enough. These they must induce to come from their own homes by entreaties and the promise of the highest honours; and having induced them to come they must entreat and command them to draw up laws after binding themselves by oath to show no partiality either to conquerors or to conquered, but to give equal and common rights to the whole State.
+
+
+Τεθέντων δὲ τῶν νόμων ἐν τούτῳ δὴ τὰ πάντα ἐστίν. ἂν μὲν γὰρ οἱ νενικηκότες ἥττους αὑτοὺς τῶν νόμων [7.337d] μᾶλλον τῶν νενικημένων παρέχωνται, πάντ᾽ ἔσται σωτηρίας τε καὶ εὐδαιμονίας μεστὰ καὶ πάντων κακῶν ἀποφυγή· εἰ δὲ μή, μήτ᾽ ἐμὲ μήτ᾽ ἄλλον κοινωνὸν παρακαλεῖν ἐπὶ τὸν μὴ πειθόμενον τοῖς νῦν ἐπεσταλμένοις.	
+(31) When laws have been enacted, what everything then hinges on is this. If the conquerors show more obedience to the laws than the conquered, the whole State will be full of security and happiness, and there will be an escape from all your troubles. But if they do not, then do not summon me or any other helper to aid you against those who do not obey the counsel I now give you.
+
+Ταῦτα γάρ ἐστιν ἀδελφὰ ὧν τε Δίων ὧν τ᾽ ἐγὼ ἐπεχειρήσαμεν Συρακούσαις εὖ φρονοῦντες συμπρᾶξαι, δεύτερα μήν· πρῶτα δ᾽ ἦν ἃ τὸ πρῶτον ἐπεχειρήθη μετ᾽ αὐτοῦ Διονυσίου πραχθῆναι πᾶσιν κοινὰ ἀγαθά, τύχη δέ τις ἀνθρώπων κρείττων διεφόρησεν. 	
+
+For this course is akin to that which Dion and I attempted to carry out with our hearts set on the welfare of Syracuse. It is indeed a second best course. The first and best was that scheme of welfare to all mankind which we attempted to carry out with the co-operation of Dionysios; but some chance, mightier than men, brought it to nothing. 
+
+
+[7.337e] Τὰ δὲ νῦν ὑμεῖς πειρᾶσθε εὐτυχέστερον αὐτὰ ἀγαθῇ πρᾶξαι μοίρᾳ καὶ θείᾳ τινὶ τύχῃ.	
+
+Do you now, with good fortune attending you and with Heaven's help, try to bring your efforts to a happier issue.
+
+
+Συμβουλὴ μὲν δὴ καὶ ἐπιστολὴ εἰρήσθω καὶ ἡ παρὰ Διονύσιον ἐμὴ προτέρα ἄφιξις· ἡ δὲ δὴ ὑστέρα πορεία τε καὶ πλοῦς ὡς εἰκότως τε ἅμα καὶ ἐμμελῶς γέγονεν, ᾧ μέλει ἀκούειν ἔξεστι τὸ μετὰ τοῦτο.	
+(32) Let this be the end of my advice and injunction and of the narrative of my first visit to Dionysios. Whoever wishes may next hear of my second journey and voyage, and learn that it was a reasonable and suitable proceeding.
+
+
+Ὁ μὲν γὰρ δὴ πρῶτος χρόνος [7.338a] τῆς ἐν Σικελίᾳ διατριβῆς μοι διεπεράνθη, καθάπερ εἶπον, πρὶν συμβουλεύειν τοῖς οἰκείοις καὶ ἑταίροις τοῖς περὶ Δίωνα· τὸ μετ᾽ ἐκεῖνα δ᾽ οὖν ἔπεισα ὅπῃ δή ποτ᾽ ἐδυνάμην Διονύσιον ἀφεῖναί με, εἰρήνης δὲ γενομένης--ἦν γὰρ τότε πόλεμος ἐν Σικελίᾳ--συνωμολογήσαμεν ἀμφότεροι.	
+
+My first period of residence in Sicily was occupied in the way which I related before giving my advice to the relatives and friends of Dion. After those events I persuaded Dionysios by such arguments as I could to let me go; and we made an agreement as to what should be done when peace was made; for at that time there was a state of war in Sicily.
+
+Διονύσιος μὲν ἔφη μεταπέμψεσθαι Δίωνα καὶ ἐμὲ πάλιν, καταστησάμενος τὰ περὶ τὴν ἀρχὴν ἀσφαλέστερον ἑαυτῷ, Δίωνα δὲ ἠξίου [7.338b] διανοεῖσθαι μὴ φυγὴν αὑτῷ γεγονέναι τότε, μετάστασιν δέ· ἐγὼ δ᾽ ἥξειν ὡμολόγησα ἐπὶ τούτοις τοῖς λόγοις.	
+
+Dionysios said that, when he had put the affairs of his empire in a position of greater safety for himself, he would send for Dion and me again; and he desired that Dion should regard what had befallen him not as an exile, but as a change of residence. I agreed to come again on these conditions.
+
+Γενομένης δὲ εἰρήνης, μετεπέμπετό με, Δίωνα δὲ ἐπισχεῖν ἔτι ἐνιαυτὸν ἐδεῖτο, ἐμὲ δὲ ἥκειν ἐκ παντὸς τρόπου ἠξίου.	
+(33) When peace had been made, he began sending for me; he requested that Dion should wait for another year, but begged that I should by all means come.
+
+Δίων μὲν οὖν ἐκέλευέ τέ με πλεῖν καὶ ἐδεῖτο· καὶ γὰρ δὴ λόγος ἐχώρει πολὺς ἐκ Σικελίας ὡς Διονύσιος θαυμαστῶς φιλοσοφίας ἐν ἐπιθυμίᾳ πάλιν εἴη γεγονὼς τὰ νῦν· ὅθεν ὁ Δίων συντεταμένως ἐδεῖτο ἡμῶν τῇ μεταπέμψει μὴ ἀπειθεῖν.	
+
+Dion now kept urging and entreating me to go. For persistent rumours came from Sicily that Dionysios was now once more possessed by an extraordinary desire for philosophy. For this reason Dion pressed me urgently not to decline his invitation.
+
+
+Ἐγὼ δὲ ᾔδη μέν που [7.338c] κατὰ τὴν φιλοσοφίαν τοῖς νέοις πολλὰ τοιαῦτα γιγνόμενα, ὅμως δ᾽ οὖν ἀσφαλέστερόν μοι ἔδοξεν χαίρειν τότε γε πολλὰ καὶ Δίωνα καὶ Διονύσιον ἐᾶν, καὶ ἀπηχθόμην ἀμφοῖν ἀποκρινάμενος ὅτι γέρων τε εἴην καὶ κατὰ τὰς ὁμολογίας οὐδὲν γίγνοιτο τῶν τὰ νῦν πραττομένων.	
+
+But though I was well aware that as regards philosophy such symptoms were not uncommon in young men, still it seemed to me safer at that time to part company altogether with Dion and Dionysios; and I offended both of them by replying that I was an old man, and that the steps now being taken were quite at variance with the previous agreement. 
+
+Ἔοικεν δὴ τὸ μετὰ τοῦτο Ἀρχύτης τε παρὰ Διονύσιον [πρὶν] ἀφικέσθαι--ἐγὼ γὰρ πρὶν ἀπιέναι ξενίαν καὶ φιλίαν Ἀρχύτῃ καὶ τοῖς ἐν [7.338d] Τάραντι καὶ Διονυσίῳ ποιήσας ἀπέπλεον--ἄλλοι τέ τινες ἐν Συρακούσαις ἦσαν Δίωνός τε ἄττα διακηκοότες καὶ τούτων τινὲς ἄλλοι, παρακουσμάτων τινῶν ἔμμεστοι τῶν κατὰ φιλοσοφίαν·	
+(34) After this, it seems, Archytes came to the court of Dionysios. Before my departure I had brought him and his Tarentine circle into friendly relations with Dionysios. There were some others in Syracuse who had received some instruction from Dion, and others had learnt from these, getting their heads full of erroneous teaching on philosophical questions.
+
+οἳ δοκοῦσί μοι Διονυσίῳ πειρᾶσθαι διαλέγεσθαι τῶν περὶ τὰ τοιαῦτα, ὡς Διονυσίου πάντα διακηκοότος ὅσα διενοούμην ἐγώ.
+
+These, it seems, were attempting to hold discussions with Dionysios on questions connected with such subjects, in the idea that he had been fully instructed in my views.
+ὁ δὲ οὔτε ἄλλως ἐστὶν ἀφυὴς πρὸς τὴν τοῦ μανθάνειν δύναμιν φιλότιμός τε θαυμαστῶς·	
+
+Now is not at all devoid of natural gifts for learning, and he has a great craving for honour and glory.
+
+ἤρεσκέν τε οὖν ἴσως αὐτῷ τὰ λεγόμενα ᾐσχύνετό τε φανερὸς γιγνόμενος [7.338e] οὐδὲν ἀκηκοὼς ὅτ᾽ ἐπεδήμουν ἐγώ, ὅθεν ἅμα μὲν εἰς ἐπιθυμίαν ᾔει τοῦ διακοῦσαι ἐναργέστερον, ἅμα δ᾽ ἡ φιλοτιμία κατήπειγεν αὐτόν--δι᾽ ἃ δὲ οὐκ ἤκουσεν ἐν τῇ πρόσθεν ἐπιδημίᾳ, διεξήλθομεν ἐν τοῖς ἄνω ῥηθεῖσιν νυνδὴ λόγοις-- ἐπειδὴ δ᾽ οὖν οἴκαδέ τ᾽ ἐσώθην καὶ καλοῦντος τὸ δεύτερον ἀπηρνήθην, καθάπερ εἶπον νυνδή, δοκεῖ μοι Διονύσιος παντάπασιν φιλοτιμηθῆναι μή ποτέ τισιν δόξαιμι καταφρονῶν [7.339a] αὐτοῦ τῆς φύσεώς τε καὶ ἕξεως ἅμα καὶ τῆς διαίτης ἔμπειρος γεγονώς, οὐκέτ᾽ ἐθέλειν δυσχεραίνων παρ᾽ αὐτὸν ἀφικνεῖσθαι.	
+
+What was said probably pleased him, and he felt some shame when it became clear that he had not taken advantage of my teaching during my visit. For these reasons he conceived a desire for more definite instruction, and his love of glory was an additional incentive to him. The real reasons why he had learnt nothing during my previous visit have just been set forth in the preceding narrative. Accordingly, now that I was safe at home and had refused his second invitation, as I just now related, Dionysios seems to have felt all manner of anxiety lest certain people should suppose that I was unwilling to visit him again because I had formed a poor opinion of his natural gifts and character, and because, knowing as I did his manner of life, I disapproved of it.
+
+
+Δίκαιος δὴ λέγειν εἰμὶ τἀληθὲς καὶ ὑπομένειν, εἴ τις ἄρα τὰ γεγονότα ἀκούσας καταφρονήσει τῆς ἐμῆς φιλοσοφίας, τὸν τύραννον δὲ ἡγήσεται νοῦν ἔχειν.	
+(35) It is right for me to speak the truth, and make no complaint if anyone, after hearing the facts, forms a poor opinion of my philosophy, and thinks that the tyrant was in the right.
+
+Ἔπεμψε μὲν γὰρ δὴ Διονύσιος τρίτον ἐπ᾽ ἐμὲ τριήρη ῥᾳστώνης ἕνεκα τῆς πορείας, ἔπεμψεν δὲ Ἀρχέδημον, ὃν ἡγεῖτό με τῶν ἐν [7.339b] Σικελίᾳ περὶ πλείστου ποιεῖσθαι, τῶν Ἀρχύτῃ συγγεγονότων ἕνα, καὶ ἄλλους γνωρίμους τῶν ἐν Σικελίᾳ· 	
+
+Dionysios now invited me for the third time, sending a trireme to ensure me comfort on the voyage; he sent also Archedemos-one of those who had spent some time with Archytes, and of whom he supposed that I had a higher opinion than of any of the Sicilian Greeks-and, with him, other men of repute in Sicily.
+
+
+οὗτοι δὲ ἡμῖν ἤγγελλον πάντες τὸν αὐτὸν λόγον, ὡς θαυμαστὸν ὅσον Διονύσιος ἐπιδεδωκὼς εἴη πρὸς φιλοσοφίαν.	
+
+These all brought the same report, that Dionysios had made progress in philosophy.
+
+Ἔπεμψεν δὲ ἐπιστολὴν πάνυ μακράν, εἰδὼς ὡς πρὸς Δίωνα διεκείμην καὶ τὴν αὖ Δίωνος προθυμίαν τοῦ ἐμὲ πλεῖν καὶ εἰς Συρακούσας ἐλθεῖν·	
+
+He also sent a very long letter, knowing as he did my relations with Dion and Dion's eagerness also that I should take ship and go to Syracuse.
+
+πρὸς γὰρ δὴ πάντα ταῦτα ἦν παρεσκευασμένη τὴν ἀρχὴν ἔχουσα ἡ ἐπιστολή, τῇδέ πῃ φράζουσα-- "Διονύσιος [7.339c] Πλάτωνι" --τὰ νόμιμα ἐπὶ τούτοις εἰπὼν οὐδὲν τὸ μετὰ τοῦτο εἶπεν πρότερον ἢ ὡς "ἂν εἰς Σικελίαν πεισθεὶς ὑφ᾽ ἡμῶν ἔλθῃς τὰ νῦν, πρῶτον μέν σοι τὰ περὶ Δίωνα ὑπάρξει ταύτῃ γιγνόμενα ὅπῃπερ ἂν αὐτὸς ἐθέλῃς--θελήσεις δὲ οἶδ᾽ ὅτι τὰ μέτρια, καὶ ἐγὼ συγχωρήσομαι--εἰ δὲ μή, οὐδέν σοι τῶν περὶ Δίωνα ἕξει πραγμάτων οὔτε περὶ τἆλλα οὔτε περὶ αὐτὸν κατὰ νοῦν γιγνόμενα."	
+
+The letter was framed in its opening sentences to meet all these conditions, and the tenor of it was as follows: "Dionysios to Plato," here followed the customary greeting and immediately after it he said, "If in compliance with our request you come now, in the first place, Dion's affairs will be dealt with in whatever way you yourself desire; I know that you will desire what is reasonable, and I shall consent to it. But if not, none of Dion's affairs will have results in accordance with your wishes, with regard either to Dion himself or to other matters."
+
+Ταῦθ᾽ οὕτως εἶπεν, τἆλλα δὲ [7.339d] μακρὰ ἂν εἴη καὶ ἄνευ καιροῦ λεγόμενα.	
+
+This he said in these words; the rest it would be tedious and inopportune to quote.
+
+Ἐπιστολαὶ δὲ ἄλλαι ἐφοίτων παρά τε Ἀρχύτου καὶ τῶν ἐν Τάραντι, τήν τε φιλοσοφίαν ἐγκωμιάζουσαι τὴν Διονυσίου, καὶ ὅτι, ἂν μὴ ἀφίκωμαι νῦν, τὴν πρὸς Διονύσιον αὐτοῖς γενομένην φιλίαν δι᾽ ἐμοῦ, οὐ σμικρὰν οὖσαν πρὸς τὰ πολιτικά, παντάπασιν διαβαλοίην.	
+
+Other letters arrived from Archytes and the Tarentines, praising the philosophical studies of Dionysios and saying that, if I did not now come, I should cause a complete rupture in their friendship with Dionysios, which had been brought about by me and was of no small importance to their political interests.
+
+Ταύτης δὴ τοιαύτης γενομένης ἐν τῷ τότε χρόνῳ τῆς μεταπέμψεως, τῶν μὲν ἐκ Σικελίας τε καὶ Ἰταλίας ἑλκόντων, τῶν δὲ Ἀθήνηθεν ἀτεχνῶς μετὰ δεήσεως οἷον [7.339e] ἐξωθούντων με, καὶ πάλιν ὁ λόγος ἧκεν ὁ αὐτός, τὸ μὴ δεῖν προδοῦναι Δίωνα μηδὲ τοὺς ἐν Τάραντι ξένους τε καὶ ἑταίρους, αὐτῷ δέ μοι ὑπῆν ὡς οὐδὲν θαυμαστὸν νέον ἄνθρωπον παρακούοντα ἀξίων λόγου πραγμάτων, εὐμαθῆ, πρὸς ἔρωτα ἐλθεῖν τοῦ βελτίστου βίου·	
+(36) When this invitation came to me at that time in such terms, and those who had come from Sicily and Italy were trying to drag me thither, while my friends at Athens were literally pushing me out with their urgent entreaties, it was the same old tale-that I must not betray Dion and my Tarentine friends and supporters. Also I myself had a lurking feeling that there was nothing surprising in the fact that a young man, quick to learn, hearing talk of the great truths of philosophy, should feel a craving for the higher life.
+
+Δεῖν οὖν αὐτὸ ἐξελέγξαι σαφῶς ὁποτέρως ποτὲ ἄρα ἔχοι, καὶ τοῦτ᾽ αὐτὸ μηδαμῇ προδοῦναι μηδ᾽ ἐμὲ τὸν αἴτιον γενέσθαι τηλικούτου ἀληθῶς ὀνείδους, [7.340a] εἴπερ ὄντως εἴη τῳ ταῦτα λελεγμένα.	
+
+I thought therefore that I must put the matter definitely to the test to see whether his desire was genuine or the reverse, and on no account leave such an impulse unaided nor make myself responsible for such a deep and real disgrace, if the reports brought by anyone were really true.
+Πορεύομαι δὴ τῷ λογισμῷ τούτῳ κατακαλυψάμενος--πολλὰ δεδιὼς μαντευόμενός τε οὐ πάνυ καλῶς, ὡς ἔοικεν--ἐλθὼν δ᾽ οὖν τὸ τρίτον τῷ σωτῆρι τοῦτό γε οὖν ἔπραξα ὄντως·	
+
+So blindfolding myself with this reflection, I set out, with many fears and with no very favourable anticipations, as was natural enough.
+
+
+ἐσώθην γάρ τοι πάλιν εὐτυχῶς, καὶ τούτων γε μετὰ θεὸν Διονυσίῳ χάριν εἰδέναι χρεών, ὅτι πολλῶν βουληθέντων ἀπολέσαι με διεκώλυσεν καὶ ἔδωκέν τι μέρος αἰδοῖ τῶν περὶ ἐμὲ πραγμάτων.	
+
+However, I went, and my action on this occasion at any rate was really a case of "the third to the Preserver," for I had the good fortune to return safely; and for this I must, next to the God, thank Dionysios, because, though many wished to make an end of me, he prevented them and paid some proper respect to my situation.
+
+
+[7.340b] Ἐπειδὴ δὲ ἀφικόμην, ᾤμην τούτου πρῶτον ἔλεγχον δεῖν λαβεῖν, πότερον ὄντως εἴη Διονύσιος ἐξημμένος ὑπὸ φιλοσοφίας ὥσπερ πυρός, ἢ μάτην ὁ πολὺς οὗτος ἔλθοι λόγος Ἀθήναζε.	
+(37) On my arrival, I thought that first I must put to the test the question whether Dionysios had really been kindled with the fire of philosophy, or whether all the reports which had come to Athens were empty rumours.
+
+Ἔστιν δή τις τρόπος τοῦ περὶ τὰ τοιαῦτα πεῖραν λαμβάνειν οὐκ ἀγεννὴς ἀλλ᾽ ὄντως τυράννοις πρέπων, ἄλλως τε καὶ τοῖς τῶν παρακουσμάτων μεστοῖς, ὃ δὴ κἀγὼ Διονύσιον εὐθὺς ἐλθὼν ᾐσθόμην καὶ μάλα πεπονθότα.	
+
+Now there is a way of putting such things to the test which is not to be despised and is well suited to monarchs, especially to those who have got their heads full of erroneous teaching, which immediately my arrival I found to be very much the case with Dionysios.
+
+
+Δεικνύναι δὴ δεῖ τοῖς τοιούτοις ὅτι ἔστι πᾶν τὸ πρᾶγμα οἷόν τε [7.340c] καὶ δι᾽ ὅσων πραγμάτων καὶ ὅσον πόνον ἔχει.	
+
+
+One should show such men what philosophy is in all its extent; what their range of studies is by which it is approached, and how much labour it involves.
+
+Ὁ γὰρ ἀκούσας, ἐὰν μὲν ὄντως ᾖ φιλόσοφος οἰκεῖός τε καὶ ἄξιος τοῦ πράγματος θεῖος ὤν, ὁδόν τε ἡγεῖται θαυμαστὴν ἀκηκοέναι συντατέον τε εἶναι νῦν καὶ οὐ βιωτὸν ἄλλως ποιοῦντι·	
+
+For the man who has heard this, if he has the true philosophic spirit and that godlike temperament which makes him a kin to philosophy and worthy of it, thinks that he has been told of a marvellous road lying before him, that he must forthwith press on with all his strength, and that life is not worth living if he does anything else.
+
+Μετὰ τοῦτο δὴ συντείνας αὐτός τε καὶ τὸν ἡγούμενον τὴν ὁδόν, οὐκ ἀνίησιν πρὶν ἂν ἢ τέλος ἐπιθῇ πᾶσιν, ἢ λάβῃ δύναμιν ὥστε αὐτὸς αὑτὸν χωρὶς τοῦ δείξοντος δυνατὸς εἶναι ποδηγεῖν.	
+
+After this he uses to the full his own powers and those of his guide in the path, and relaxes not his efforts, till he has either reached the end of the whole course of study or gained such power that he is not incapable of directing his steps without the aid of a guide.
+
+
+[7.340d] Ταύτῃ καὶ κατὰ ταῦτα διανοηθεὶς ὁ τοιοῦτος ζῇ, πράττων μὲν ἐν αἷστισιν ἂν ᾖ πράξεσιν, παρὰ πάντα δὲ ἀεὶ φιλοσοφίας ἐχόμενος καὶ τροφῆς τῆς καθ᾽ ἡμέραν ἥτις ἂν αὐτὸν μάλιστα εὐμαθῆ τε καὶ μνήμονα καὶ λογίζεσθαι δυνατὸν ἐν αὑτῷ νήφοντα ἀπεργάζηται· τὴν δὲ ἐναντίαν ταύτῃ μισῶν διατελεῖ.	
+
+This is the spirit and these are the thoughts by which such a man guides his life, carrying out his work, whatever his occupation may be, but throughout it all ever cleaving to philosophy and to such rules of diet in his daily life as will give him inward sobriety and therewith quickness in learning, a good memory, and reasoning power; the kind of life which is opposed to this he consistently hates.
+
+
+Οἱ δὲ ὄντως μὲν μὴ φιλόσοφοι, δόξαις δ᾽ ἐπικεχρωσμένοι, καθάπερ οἱ τὰ σώματα ὑπὸ τῶν ἡλίων ἐπικεκαυμένοι, ἰδόντες τε ὅσα μαθήματά ἐστιν καὶ ὁ πόνος [7.340e] ἡλίκος καὶ δίαιτα ἡ καθ᾽ ἡμέραν ὡς πρέπουσα ἡ κοσμία τῷ πράγματι, χαλεπὸν ἡγησάμενοι καὶ ἀδύνατον αὑτοῖς, οὔτε δὴ [7.341a] ἐπιτηδεύειν δυνατοὶ γίγνονται, ἔνιοι δὲ αὐτῶν πείθουσιν αὑτοὺς ὡς ἱκανῶς ἀκηκοότες εἰσὶν τὸ ὅλον, καὶ οὐδὲν ἔτι δέονταί τινων πραγμάτων.	
+
+Those who have not the true philosophic temper, but a mere surface colouring of opinions penetrating, like sunburn, only skin deep, when they see how great the range of studies is, how much labour is involved in it, and how necessary to the pursuit it is to have an orderly regulation of the daily life, come to the conclusion that the thing is difficult and impossible for them, and are actually incapable of carrying out the course of study; while some of them persuade themselves that they have sufficiently studied the whole matter and have no need of any further effort.
+
+
+Ἡ μὲν δὴ πεῖρα αὕτη γίγνεται ἡ σαφής τε καὶ ἀσφαλεστάτη πρὸς τοὺς τρυφῶντάς τε καὶ ἀδυνάτους διαπονεῖν, ὡς μηδέποτε βαλεῖν ἐν αἰτίᾳ τὸν δεικνύντα ἀλλ᾽ αὐτὸν αὑτόν, μὴ δυνάμενον πάντα τὰ πρόσφορα ἐπιτηδεύειν τῷ πράγματι.	
+
+This is the sure test and is the safest one to apply to those who live in luxury and are incapable of continuous effort; it ensures that such a man shall not throw the blame upon his teacher but on himself, because he cannot bring to the pursuit all the qualities necessary to it. 
+
+Οὕτω δὴ καὶ Διονυσίῳ τότ᾽ ἐρρήθη τὰ ῥηθέντα.	
+
+Thus it came about that I said to Dionysios what I did say on that occasion.
+
+Πάντα μὲν οὖν οὔτ᾽ ἐγὼ διεξῆλθον οὔτε [7.341b] Διονύσιος ἐδεῖτο·	
+(38) I did not, however, give a complete exposition, nor did Dionysios ask for one.
+
+Πολλὰ γὰρ αὐτὸς καὶ τὰ μέγιστα εἰδέναι τε καὶ ἱκανῶς ἔχειν προσεποιεῖτο διὰ τὰς ὑπὸ τῶν ἄλλων παρακοάς.	
+
+For he professed to know many, and those the most important, points, and to have a sufficient hold of them through instruction given by others.
+
+Ὕστερον δὲ καὶ ἀκούω γεγραφέναι αὐτὸν περὶ ὧν τότε ἤκουσε, συνθέντα ὡς αὑτοῦ τέχνην, οὐδὲν τῶν αὐτῶν ὧν ἀκούοι· οἶδα δὲ οὐδὲν τούτων.	
+
+I hear also that he has since written about what he heard from me, composing what professes to be his own handbook, very different, so he says, from the doctrines which he heard from me; but of its contents I know nothing; 
+
+Ἄλλους μέν τινας οἶδα γεγραφότας περὶ τῶν αὐτῶν τούτων, οἵτινες δέ, οὐδ᾽ αὐτοὶ αὑτούς.	
+
+I know indeed that others have written on the same subjects; but who they are, is more than they know themselves.
+
+Τοσόνδε γε μὴν περὶ πάντων ἔχω φράζειν τῶν γεγραφότων [7.341c] καὶ γραψόντων, ὅσοι φασὶν εἰδέναι περὶ ὧν ἐγὼ σπουδάζω, εἴτ᾽ ἐμοῦ ἀκηκοότες εἴτ᾽ ἄλλων εἴθ᾽ ὡς εὑρόντες αὐτοί·	
+
+Thus much at least, I can say about all writers, past or future, who say they know the things to which I devote myself, whether by hearing the teaching of me or of others, or by their own discoveries-
+
+τούτους οὐκ ἔστιν κατά γε τὴν ἐμὴν δόξαν περὶ τοῦ πράγματος ἐπαΐειν οὐδέν.	
+
+-that according to my view it is not possible for them to have any real skill in the matter.
+
+Οὔκουν ἐμόν γε περὶ αὐτῶν ἔστιν σύγγραμμα οὐδὲ μήποτε γένηται·	
+
+There neither is nor ever will be a treatise of mine on the subject.
+
+ῥητὸν γὰρ οὐδαμῶς ἐστιν ὡς ἄλλα μαθήματα, ἀλλ᾽ ἐκ πολλῆς συνουσίας γιγνομένης περὶ τὸ πρᾶγμα αὐτὸ καὶ τοῦ συζῆν ἐξαίφνης, οἷον ἀπὸ πυρὸς [7.341d] πηδήσαντος ἐξαφθὲν φῶς, ἐν τῇ ψυχῇ γενόμενον αὐτὸ ἑαυτὸ ἤδη τρέφει.	
+
+For it does not admit of exposition like other branches of knowledge; but after much converse about the matter itself and a life lived together, suddenly a light, as it were, is kindled in one soul by a flame that leaps to it from another, and thereafter sustains itself.
+
+
+Καίτοι τοσόνδε γε οἶδα, ὅτι γραφέντα ἢ λεχθέντα ὑπ᾽ ἐμοῦ βέλτιστ᾽ ἂν λεχθείη· καὶ μὴν ὅτι γεγραμμένα κακῶς οὐχ ἥκιστ᾽ ἂν ἐμὲ λυποῖ.	
+
+Yet this much I know-that if the things were written or put into words, it would be done best by me, and that, if they were written badly, I should be the person most pained.
+
+Εἰ δέ μοι ἐφαίνετο γραπτέα θ᾽ ἱκανῶς εἶναι πρὸς τοὺς πολλοὺς καὶ ῥητά, τί τούτου κάλλιον ἐπέπρακτ᾽ ἂν ἡμῖν ἐν τῷ βίῳ ἢ τοῖς τε ἀνθρώποισι μέγα ὄφελος γράψαι καὶ τὴν φύσιν εἰς φῶς [7.341e] πᾶσιν προαγαγεῖν;	
+
+Again, if they had appeared to me to admit adequately of writing and exposition, what task in life could I have performed nobler than this, to write what is of great service to mankind and to bring the nature of things into the light for all to see?
+
+Ἀλλ᾽ οὔτε ἀνθρώποις ἡγοῦμαι τὴν ἐπιχείρησιν περὶ αὐτῶν λεγομένην ἀγαθόν, εἰ μή τισιν ὀλίγοις ὁπόσοι δυνατοὶ ἀνευρεῖν αὐτοὶ διὰ σμικρᾶς ἐνδείξεως, 	
+
+But I do not think it a good thing for men that there should be a disquisition, as it is called, on this topic-except for some few, who are able with a little teaching to find it out for themselves.
+
+
+τῶν τε δὴ ἄλλων τοὺς μὲν καταφρονήσεως οὐκ ὀρθῆς ἐμπλήσειεν ἂν οὐδαμῇ ἐμμελῶς, τοὺς δὲ ὑψηλῆς καὶ χαύνης ἐλπίδος, ὡς [7.342a] σέμν᾽ ἄττα μεμαθηκότας.	
+
+As for the rest, it would fill some of them quite illogically with a mistaken feeling of contempt, and others with lofty and vain-glorious expectations, as though they had learnt something high and mighty.
+
+
+Ἔτι δὲ μακρότερα περὶ αὐτῶν ἐν νῷ μοι γέγονεν εἰπεῖν· τάχα γὰρ ἂν περὶ ὧν λέγω σαφέστερον ἂν εἴη λεχθέντων αὐτῶν.	
+(39) On this point I intend to speak a little more at length; for perhaps, when I have done so, things will be clearer with regard to my present subject.
+
+Ἔστι γάρ τις λόγος ἀληθής, ἐναντίος τῷ τολμήσαντι γράφειν τῶν τοιούτων καὶ ὁτιοῦν, πολλάκις μὲν ὑπ᾽ ἐμοῦ καὶ πρόσθεν ῥηθείς, ἔοικεν δ᾽ οὖν εἶναι καὶ νῦν λεκτέος.	
+
+There is an argument which holds good against the man ventures to put anything whatever into writing on questions of this nature; it has often before been stated by me, and it seems suitable to the present occasion. 
+
+
+Ἔστιν τῶν ὄντων ἑκάστῳ, δι᾽ ὧν τὴν ἐπιστήμην ἀνάγκη παραγίγνεσθαι, τρία, τέταρτον δ᾽ αὐτή--πέμπτον δ᾽ αὐτὸ [7.342b] τιθέναι δεῖ ὃ δὴ γνωστόν τε καὶ ἀληθῶς ἐστιν ὄν--ἓν μὲν ὄνομα, δεύτερον δὲ λόγος, τὸ δὲ τρίτον εἴδωλον, τέταρτον δὲ ἐπιστήμη.	
+(40) For everything that exists there are three instruments by which the knowledge of it is necessarily imparted; fourth, there is the knowledge itself, and, as fifth, we must count the thing itself which is known and truly exists. The first is the name, the, second the definition, the third. the image, and the fourth the knowledge.
+
+
+Περὶ ἓν οὖν λαβὲ βουλόμενος μαθεῖν τὸ νῦν λεγόμενον, καὶ πάντων οὕτω πέρι νόησον.	
+
+If you wish to learn what I mean, take these in the case of one instance, and so understand them in the case of all.
+
+Κύκλος ἐστίν τι λεγόμενον, ᾧ τοῦτ᾽ αὐτό ἐστιν ὄνομα ὃ νῦν ἐφθέγμεθα.	
+
+A circle is a thing spoken of, and its name is that very word which we have just uttered.
+
+Λόγος δ᾽ αὐτοῦ τὸ δεύτερον, ἐξ ὀνομάτων καὶ ῥημάτων συγκείμενος· τὸ γὰρ ἐκ τῶν ἐσχάτων ἐπὶ τὸ μέσον ἴσον ἀπέχον πάντῃ, λόγος ἂν εἴη ἐκείνου ᾧπερ στρογγύλον καὶ περιφερὲς [7.342c] ὄνομα καὶ κύκλος.	
+
+The second thing belonging to it is its definition, made up names and verbal forms. For that which has the name "round," "annular," or, "circle," might be defined as that which has the distance from its circumference to its centre everywhere equal.
+
+
+Τρίτον δὲ τὸ ζωγραφούμενόν τε καὶ ἐξαλειφόμενον καὶ τορνευόμενον καὶ ἀπολλύμενον· ὧν αὐτὸς ὁ κύκλος, ὃν πέρι πάντ᾽ ἐστὶν ταῦτα, οὐδὲν πάσχει, τούτων ὡς ἕτερον ὄν.	
+
+Third, comes that which is drawn and rubbed out again, or turned on a lathe and broken up-none of which things can happen to the circle itself-to which the other things, mentioned have reference; for it is something of a different order from them. 
+
+Τέταρτον δὲ ἐπιστήμη καὶ νοῦς ἀληθής τε δόξα περὶ ταῦτ᾽ ἐστίν· ὡς δὲ ἓν τοῦτο αὖ πᾶν θετέον, οὐκ ἐν φωναῖς οὐδ᾽ ἐν σωμάτων σχήμασιν ἀλλ᾽ ἐν ψυχαῖς ἐνόν, ᾧ δῆλον ἕτερόν τε ὂν αὐτοῦ τοῦ κύκλου τῆς φύσεως τῶν [7.342d] τε ἔμπροσθεν λεχθέντων τριῶν.
+
+Fourth, comes knowledge, intelligence and right opinion about these things. Under this one head we must group everything which has its existence, not in words nor in bodily shapes, but in souls-from which it is dear that it is something different from the nature of the circle itself and from the three things mentioned before. 
+
+Τούτων δὲ ἐγγύτατα μὲν συγγενείᾳ καὶ ὁμοιότητι τοῦ πέμπτου νοῦς πεπλησίακεν, τἆλλα δὲ πλέον ἀπέχει.	
+
+Of these things intelligence comes closest in kinship and likeness to the fifth, and the others are farther distant.
+
+Ταὐτὸν δὴ περί τε εὐθέος ἅμα καὶ περιφεροῦς σχήματος καὶ χρόας, περί τε ἀγαθοῦ καὶ καλοῦ καὶ δικαίου, καὶ περὶ σώματος ἅπαντος σκευαστοῦ τε καὶ κατὰ φύσιν γεγονότος, πυρὸς ὕδατός τε καὶ τῶν τοιούτων πάντων, καὶ ζῴου σύμπαντος πέρι καὶ ἐν ψυχαῖς ἤθους, καὶ περὶ ποιήματα καὶ παθήματα σύμπαντα·	
+(41) The same applies to straight as well as to circular form, to colours, to the good, the, beautiful, the just, to all bodies whether manufactured or coming into being in the course of nature, to fire, water, and all such things, to every living being, to character in souls, and to all things done and suffered.
+
+οὐ γὰρ ἂν τούτων [7.342e] μή τις τὰ τέτταρα λάβῃ ἁμῶς γέ πως, οὔποτε τελέως ἐπιστήμης τοῦ πέμπτου μέτοχος ἔσται.	
+
+For in the case of all these, no one, if he has not some how or other got hold of the four things first mentioned, can ever be completely a partaker of knowledge of the fifth.
+
+
+Πρὸς γὰρ τούτοις ταῦτα οὐχ ἧττον ἐπιχειρεῖ τὸ ποῖόν τι περὶ ἕκαστον δηλοῦν[7.343a] ἢ τὸ ὂν ἑκάστου διὰ τὸ τῶν λόγων ἀσθενές·	
+
+
+Further, on account of the weakness of language, these (i.e., the four) attempt to show what each thing is like, not less than what each thing is.
+
+
+ὧν ἕνεκα νοῦν ἔχων οὐδεὶς τολμήσει ποτὲ εἰς αὐτὸ τιθέναι τὰ νενοημένα ὑπ᾽ αὐτοῦ, καὶ ταῦτα εἰς ἀμετακίνητον, ὃ δὴ πάσχει τὰ γεγραμμένα τύποις.	
+
+For this reason no man of intelligence will venture to express his philosophical views in language, especially not in language that is unchangeable, which is true of that which is set down in written characters.
+
+
+Τοῦτο δὲ πάλιν αὖ τὸ νῦν λεγόμενον δεῖ μαθεῖν.	
+(42) Again you must learn the point which comes next.
+
+
+Κύκλος ἕκαστος τῶν ἐν ταῖς πράξεσι γραφομένων ἢ καὶ τορνευθέντων μεστὸς τοῦ ἐναντίου ἐστὶν τῷ πέμπτῳ--τοῦ γὰρ εὐθέος ἐφάπτεται πάντῃ--αὐτὸς δέ, φαμέν, ὁ κύκλος οὔτε τι σμικρότερον οὔτε μεῖζον τῆς ἐναντίας ἔχει ἐν αὑτῷ φύσεως.	
+
+Every circle, of those which are by the act of man drawn or even turned on a lathe, is full of that which is opposite to the fifth thing. For everywhere it has contact with the straight. But the circle itself, we say, has nothing in either smaller or greater, of that which is its opposite.
+
+Ὄνομά τε αὐτῶν φαμεν οὐδὲν οὐδενὶ [7.343b] βέβαιον εἶναι, κωλύειν δ᾽ οὐδὲν τὰ νῦν στρογγύλα καλούμενα εὐθέα κεκλῆσθαι τά τε εὐθέα δὴ στρογγύλα, καὶ οὐδὲν ἧττον βεβαίως ἕξειν τοῖς μεταθεμένοις καὶ ἐναντίως καλοῦσιν.	
+
+We say also that the name is not a thing of permanence for any of them, and that nothing prevents the things now called round from being called straight, and the straight things round; for those who make changes and call things by opposite names, nothing will be less permanent (than a name).
+
+Καὶ μὴν περὶ λόγου γε ὁ αὐτὸς λόγος, εἴπερ ἐξ ὀνομάτων καὶ ῥημάτων σύγκειται, μηδὲν ἱκανῶς βεβαίως εἶναι βέβαιον·	
+
+Again with regard to the definition, if it is made up of names and verbal forms, the same remark holds that there is no sufficiently durable permanence in it.
+
+
+μυρίος δὲ λόγος αὖ περὶ ἑκάστου τῶν τεττάρων ὡς ἀσαφές, τὸ δὲ μέγιστον, ὅπερ εἴπομεν ὀλίγον ἔμπροσθεν, ὅτι δυοῖν ὄντοιν, τοῦ τε ὄντος καὶ τοῦ ποιοῦ τινος, οὐ τὸ [7.343c] ποιόν τι, τὸ δὲ τί, ζητούσης εἰδέναι τῆς ψυχῆς, τὸ μὴ ζητούμενον ἕκαστον τῶν τεττάρων προτεῖνον τῇ ψυχῇ λόγῳ τε καὶ κατ᾽ ἔργα, αἰσθήσεσιν εὐέλεγκτον τό τε λεγόμενον καὶ δεικνύμενον ἀεὶ παρεχόμενον ἕκαστον, ἀπορίας τε καὶ ἀσαφείας ἐμπίμπλησι πάσης ὡς ἔπος εἰπεῖν πάντ᾽ ἄνδρα.	
+
+And there is no end to the instances of the ambiguity from which each of the four suffers; but the greatest of them is that which we mentioned a little earlier, that, whereas there are two things, that which has real being, and that which is only a quality, when the soul is seeking to know, not the quality, but the essence, each of the four, presenting to the soul by word and in act that which it is not seeking (i.e., the quality), a thing open to refutation by the senses, being merely the thing presented to the soul in each particular case whether by statement or the act of showing, fills, one may say, every man with puzzlement and perplexity.
+
+
+Ἐν οἷσι μὲν οὖν μηδ᾽ εἰθισμένοι τὸ ἀληθὲς ζητεῖν ἐσμεν ὑπὸ πονηρᾶς τροφῆς, ἐξαρκεῖ δὲ τὸ προταθὲν τῶν εἰδώλων, οὐ καταγέλαστοι γιγνόμεθα ὑπ᾽ ἀλλήλων, οἱ ἐρωτώμενοι ὑπὸ [7.343d] τῶν ἐρωτώντων, δυναμένων δὲ τὰ τέτταρα διαρρίπτειν τε καὶ ἐλέγχειν·	
+(43) Now in subjects in which, by reason of our defective education, we have not been accustomed even to search for the truth, but are satisfied with whatever images are presented to us, we are not held up to ridicule by one another, the questioned by questioners, who can pull to pieces and criticise the four things.
+
+ἐν οἷς δ᾽ ἂν τὸ πέμπτον ἀποκρίνασθαι καὶ δηλοῦν ἀναγκάζωμεν, ὁ βουλόμενος τῶν δυναμένων ἀνατρέπειν κρατεῖ.	
+
+But in subjects where we try to compel a man to give a clear answer about the fifth, any one of those who are capable of overthrowing an antagonist gets the better of us,
+
+
+Καὶ ποιεῖ τὸν ἐξηγούμενον ἐν λόγοις ἢ γράμμασιν ἢ ἀποκρίσεσιν τοῖς πολλοῖς τῶν ἀκουόντων δοκεῖν μηδὲν γιγνώσκειν ὧν ἂν ἐπιχειρῇ γράφειν ἢ λέγειν, ἀγνοούντων ἐνίοτε ὡς οὐχ ἡ ψυχὴ τοῦ γράψαντος ἢ λέξαντος ἐλέγχεται, ἀλλ᾽ ἡ τῶν τεττάρων φύσις ἑκάστου, πεφυκυῖα [7.343e] φαύλως.	
+
+and makes the man, who gives an exposition in speech or writing or in replies to questions, appear to most of his hearers to know nothing of the things on which he is attempting to write or speak; for they are sometimes not aware that it is not the mind of the writer or speaker which is proved to be at fault, but the defective nature of each of the four instruments. 
+
+Ἡ δὲ διὰ πάντων αὐτῶν διαγωγή, ἄνω καὶ κάτω μεταβαίνουσα ἐφ᾽ ἕκαστον, μόγις ἐπιστήμην ἐνέτεκεν εὖ πεφυκότος εὖ πεφυκότι·	
+
+The process however of dealing with all of these, as the mind moves up and down to each in turn, does after much effort give birth in a well-constituted mind to knowledge of that which is well constituted.
+
+
+κακῶς δὲ ἂν φυῇ, ὡς ἡ τῶν πολλῶν ἕξις τῆς ψυχῆς εἴς τε τὸ μαθεῖν εἴς τε τὰ λεγόμενα ἤθη [7.344a] πέφυκεν, τὰ δὲ διέφθαρται, οὐδ᾽ ἂν ὁ Λυγκεὺς ἰδεῖν ποιήσειεν τοὺς τοιούτους.	
+
+But if a man is ill-constituted by nature (as the state of the soul is naturally in the majority both in its capacity for learning and in what is called moral character)-or it may have become so by deterioration-not even Lynceus could endow such men with the power of sight.
+
+ 
+Ἑνὶ δὲ λόγῳ, τὸν μὴ συγγενῆ τοῦ πράγματος οὔτ᾽ ἂν εὐμάθεια ποιήσειέν ποτε οὔτε μνήμη-- τὴν ἀρχὴν γὰρ ἐν ἀλλοτρίαις ἕξεσιν οὐκ ἐγγίγνεται--ὥστε ὁπόσοι τῶν δικαίων τε καὶ τῶν ἄλλων ὅσα καλὰ μὴ προσφυεῖς εἰσιν καὶ συγγενεῖς, ἄλλοι δὲ ἄλλων εὐμαθεῖς ἅμα καὶ μνήμονες, οὐδ᾽ ὅσοι συγγενεῖς, δυσμαθεῖς δὲ καὶ ἀμνήμονες, οὐδένες τούτων μήποτε μάθωσιν ἀλήθειαν ἀρετῆς εἰς [7.344b] τὸ δυνατὸν οὐδὲ κακίας.	
+(44) In one word, the man who has no natural kinship with this matter cannot be made akin to it by quickness of learning or memory; for it cannot be engendered at all in natures which are foreign to it. Therefore, if men are not by nature kinship allied to justice and all other things that are honourable, though they may be good at learning and remembering other knowledge of various kinds-or if they have the kinship but are slow learners and have no memory-none of all these will ever learn to the full the truth about virtue and vice.
+Ἅμα γὰρ αὐτὰ ἀνάγκη μανθάνειν καὶ τὸ ψεῦδος ἅμα καὶ ἀληθὲς τῆς ὅλης οὐσίας, μετὰ τριβῆς πάσης καὶ χρόνου πολλοῦ, ὅπερ ἐν ἀρχαῖς εἶπον·	For both must be learnt together; and together also must be learnt, by complete and long continued study, as I said at the beginning, the true and the false about all that has real being.
+
+μόγις δὲ τριβόμενα πρὸς ἄλληλα αὐτῶν ἕκαστα, ὀνόματα καὶ λόγοι ὄψεις τε καὶ αἰσθήσεις, ἐν εὐμενέσιν ἐλέγχοις ἐλεγχόμενα καὶ ἄνευ φθόνων ἐρωτήσεσιν καὶ ἀποκρίσεσιν χρωμένων, ἐξέλαμψε φρόνησις περὶ ἕκαστον καὶ νοῦς, συντείνων ὅτι [7.344c] μάλιστ᾽ εἰς δύναμιν ἀνθρωπίνην.	
+
+After much effort, as names, definitions, sights, and other data of sense, are brought into contact and friction one with another, in the course of scrutiny and kindly testing by men who proceed by question and answer without ill will, with a sudden flash there shines forth understanding about every problem, and an intelligence whose efforts reach the furthest limits of human powers.
+
+Διὸ δὴ πᾶς ἀνὴρ σπουδαῖος τῶν ὄντων σπουδαίων πέρι πολλοῦ δεῖ μὴ γράψας ποτὲ ἐν ἀνθρώποις εἰς φθόνον καὶ ἀπορίαν καταβαλεῖ.	
+
+Therefore every man of worth, when dealing with matters of worth, will be far from exposing them to ill feeling and misunderstanding among men by committing them to writing.
+
+Ἑνὶ δὴ ἐκ τούτων δεῖ γιγνώσκειν λόγῳ, ὅταν ἴδῃ τίς του συγγράμματα γεγραμμένα εἴτε ἐν νόμοις νομοθέτου εἴτε ἐν ἄλλοις τισὶν ἅττ᾽ οὖν, ὡς οὐκ ἦν τούτῳ ταῦτα σπουδαιότατα, εἴπερ ἔστ᾽ αὐτὸς σπουδαῖος, κεῖται δέ που ἐν χώρᾳ τῇ καλλίστῃ τῶν τούτου· εἰ δὲ ὄντως αὐτῷ ταῦτ᾽ ἐσπουδασμένα ἐν γράμμασιν [7.344d] ἐτέθη, "ἐξ ἄρα δή τοι ἔπειτα," θεοὶ μὲν οὔ, βροτοὶ δὲ "φρένας ὤλεσαν αὐτοί."	
+
+In one word, then, it may be known from this that, if one sees written treatises composed by anyone, either the laws of a lawgiver, or in any other form whatever, these are not for that man the things of most worth, if he is a man of worth, but that his treasures are laid up in the fairest spot that he possesses. But if these things were worked at by him as things of real worth, and committed to writing, then surely, not gods, but men "have themselves bereft him of his wits."
+
+Τούτῳ δὴ τῷ μύθῳ τε καὶ πλάνῳ ὁ συνεπισπόμενος εὖ εἴσεται, εἴτ᾽ οὖν Διονύσιος ἔγραψέν τι τῶν περὶ φύσεως ἄκρων καὶ πρώτων εἴτε τις ἐλάττων εἴτε μείζων, ὡς οὐδὲν ἀκηκοὼς οὐδὲ μεμαθηκὼς ἦν ὑγιὲς ὧν ἔγραψεν κατὰ τὸν ἐμὸν λόγον· ὁμοίως γὰρ ἂν αὐτὰ ἐσέβετο ἐμοί, καὶ οὐκ ἂν αὐτὰ ἐτόλμησεν εἰς ἀναρμοστίαν καὶ ἀπρέπειαν ἐκβάλλειν.	
+(45) Anyone who has followed this discourse and digression will know well that, if Dionysios or anyone else, great or small, has written a treatise on the highest matters and the first principles of things, he has, so I say, neither heard nor learnt any sound teaching about the subject of his treatise; otherwise, he would have had the same reverence for it, which I have, and would have shrunk from putting it forth into a world of discord and uncomeliness.
+
+Οὔτε γὰρ ὑπομνημάτων χάριν ἔγραψεν--οὐδὲν γὰρ [7.344e] δεινὸν μή τις αὐτὸ ἐπιλάθηται, ἐὰν ἅπαξ τῇ ψυχῇ περιλάβῃ· πάντων γὰρ ἐν βραχυτάτοις κεῖται--φιλοτιμίας δὲ αἰσχρᾶς, εἴπερ, ἕνεκα, εἴθ᾽ ὡς αὑτοῦ τιθέμενος εἴθ᾽ ὡς παιδείας δὴ μέτοχος ὤν, ἧς οὐκ ἄξιος ἦν ἀγαπῶν δόξαν τὴν [7.345a] τῆς μετοχῆς γενομένης.	
+
+For he wrote it, not as an aid to memory-since there is no risk of forgetting it, if a man's soul has once laid hold of it; for it is expressed in the shortest of statements-but if he wrote it at all, it was from a mean craving for honour, either putting it forth as his own invention, or to figure as a man possessed of culture, of which he was not worthy, if his heart was set on the credit of possessing it.
+
+
+Εἰ μὲν οὖν ἐκ τῆς μιᾶς συνουσίας Διονυσίῳ τοῦτο γέγονεν, τάχ᾽ ἂν εἴη, γέγονεν δ᾽ οὖν ὅπως, "ἴττω Ζεύς," φησὶν ὁ Θηβαῖος· διεξῆλθον μὲν γὰρ ὡς εἶπόν τε ἐγὼ καὶ ἅπαξ μόνον, ὕστερον δὲ οὐ πώποτε ἔτι.	
+
+If then Dionysios gained this culture from the one lesson which he had from me, we may perhaps grant him the possession of it, though how he acquired it-God wot, as the Theban says; for I gave him the teaching, which I have described, on that one occasion and never again.
+
+Ἐννοεῖν δὴ δεῖ τὸ μετὰ τοῦτο, ὅτῳ μέλει τὸ περὶ αὐτὰ γεγονὸς εὑρεῖν ὅπῃ ποτὲ γέγονεν, τίνι πότ᾽ αἰτίᾳ τὸ δεύτερον καὶ τὸ τρίτον, πλεονάκις τε οὐ διεξῇμεν·	
+(46) The next point which requires to be made clear to anyone who wishes to discover how things really happened, is the reason why it came about that I did not continue my teaching in a second and third lesson and yet oftener.
+
+πότερον Διονύσιος ἀκούσας μόνον [7.345b] ἅπαξ, οὕτως εἰδέναι τε οἴεται καὶ ἱκανῶς οἶδεν, εἴτε αὐτὸς εὑρὼν ἢ καὶ μαθὼν ἔμπροσθεν παρ᾽ ἑτέρων, ἢ φαῦλα εἶναι τὰ λεχθέντα, ἢ τὸ τρίτον οὐ καθ᾽ αὑτόν, μείζονα δέ, καὶ ὄντως οὐκ ἂν δυνατὸς εἶναι φρονήσεώς τε καὶ ἀρετῆς ζῆν ἐπιμελούμενος.	
+
+Does Dionysios, after a single lesson, believe himself to know the matter, and has he an adequate knowledge of it, either as having discovered it for himself or learnt it before from others, or does he believe my teaching to be worthless, or, thirdly, to be beyond his range and too great for him, and himself to be really unable to live as one who gives his mind to wisdom and virtue? 
+
+Εἰ μὲν γὰρ φαῦλα, πολλοῖς μάρτυσι μαχεῖται τὰ ἐναντία λέγουσιν, οἳ περὶ τῶν τοιούτων πάμπολυ Διονυσίου κυριώτεροι ἂν εἶεν κριταί· εἰ δὲ ηὑρηκέναι ἢ μεμαθηκέναι, ἄξια δ᾽ οὖν εἶναι πρὸς παιδείαν ψυχῆς ἐλευθέρας, [7.345c] πῶς ἄν, μὴ θαυμαστὸς ὢν ἄνθρωπος, τὸν ἡγεμόνα τούτων καὶ κύριον οὕτως εὐχερῶς ἠτίμασέν ποτ᾽ ἄν;	
+
+For if he thinks it worthless, he will have to contend with many who say the opposite, and who would be held in far higher repute as judges than Dionysios, if on the other hand, he thinks he has discovered or learnt the things and that they are worth having as part of a liberal education, how could he, unless he is an extraordinary person, have so recklessly dishonoured the master who has led the way in these subjects?
+
+Πῶς δ᾽ ἠτίμασεν, ἐγὼ φράζοιμ᾽ ἄν.	
+
+How he dishonoured him, I will now state.
+
+Οὐ πολὺν χρόνον διαλιπὼν τὸ μετὰ τοῦτο, ἐν τῷ πρόσθεν Δίωνα ἐῶν τὰ ἑαυτοῦ κεκτῆσθαι καὶ καρποῦσθαι χρήματα, τότε οὐκέτ᾽ εἴα τοὺς ἐπιτρόπους αὐτοῦ πέμπειν εἰς Πελοπόννησον, καθάπερ ἐπιλελησμένος τῆς ἐπιστολῆς παντάπασιν· εἶναι γὰρ αὐτὰ οὐ Δίωνος ἀλλὰ τοῦ ὑέος, ὄντος μὲν ἀδελφιδοῦ [7.345d] αὐτοῦ κατὰ νόμους ἐπιτροπεύοντος.	
+(47) Up to this time he had allowed Dion to remain in possession of his property and to receive the income from it. But not long after the foregoing events, as if he had entirely forgotten his letter to that effect, he no longer allowed Dion's trustees to send him remittances to the Peloponnese, on the pretence that the owner of the property was not Dion but Dion's son, his own nephew, of whom he himself was legally the trustee.
+
+Τὰ μὲν δὴ πεπραγμένα μέχρι τούτου ταῦτ᾽ ἦν ἐν τῷ τότε χρόνῳ, τούτων δὲ οὕτω γενομένων, ἑωράκη τε ἐγὼ ἀκριβῶς τὴν ἐπιθυμίαν τὴν Διονυσίου φιλοσοφίας, ἀγανακτεῖν τε ἐξῆν εἴτε βουλοίμην εἴτε μή.	
+
+These were the actual facts which occurred up to the point which we have reached. They had opened my eyes as to the value of Dionysios' desire for philosophy, and I had every right to complain, whether I wished to do so or not.
+
+
+Ἦν γὰρ θέρος ἤδη τότε καὶ ἔκπλοι τῶν νεῶν·	Now by this time it was summer and the season for sea voyages;
+
+ἐδόκει δὴ χαλεπαίνειν μὲν οὐ δεῖν ἐμὲ Διονυσίῳ μᾶλλον ἢ ἐμαυτῷ τε καὶ τοῖς βιασαμένοις ἐλθεῖν ἐμὲ τὸ [7.345e] τρίτον εἰς τὸν πορθμὸν τὸν περὶ τὴν Σκύλλαν,	
+
+therefore I decided that I must not be vexed with Dionysios rather than with myself and those who had forced me to come for the third time into the strait of Scylla, 
+
+ὄφρ᾽ ἔτι τὴν ὀλοὴν ἀναμετρήσαιμι Χάρυβδιν, λέγειν δὲ πρὸς Διονύσιον ὅτι μοι μένειν ἀδύνατον εἴη Δίωνος οὕτω προπεπηλακισμένου.	
+
+that once again I might to fell Charybdis measure back my course, but must tell Dionysios that it was impossible for me to remain after this outrage had been put upon Dion.
+
+
+Ὁ δὲ παρεμυθεῖτό τε καὶ ἐδεῖτο μένειν, οὐκ οἰόμενός οἱ καλῶς ἔχειν ἐμὲ ἄγγελον αὐτὸν τῶν τοιούτων ἐλθεῖν ὅτι τάχος· 	
+
+He tried to soothe me and begged me to remain, not thinking it desirable for himself that I should arrive post haste in person as the bearer of such tidings.
+
+οὐ πείθων δὲ αὐτός μοι πομπὴν [7.346a] παρασκευάσειν ἔφη.	
+
+When his entreaties produced no effect, he promised that he himself would provide me with transport.
+
+Ἐγὼ γὰρ ἐν τοῖς ἀποστόλοις πλοίοις ἐμβὰς διενοούμην πλεῖν, τεθυμωμένος, πάσχειν τε οἰόμενος δεῖν, εἰ διακωλυοίμην, ὁτιοῦν, ἐπειδὴ περιφανῶς ἠδίκουν μὲν οὐδέν, ἠδικούμην δέ· 	
+
+or my intention was to embark on one of the trading ships and sail away, being indignant and thinking it my duty to face all dangers, in case I was prevented from going-since plainly and obviously I was doing no wrong, but was the party wronged.
+
+
+ὁ δὲ οὐδέν με τοῦ καταμένειν προσιέμενον ὁρῶν, μηχανὴν τοῦ μεῖναι τὸν τότε ἔκπλουν μηχανᾶται τοιάνδε τινά.	
+(48) Seeing me not at all inclined to stay, he devised the following scheme to make me stay during that sading season.
+
+Τῇ μετὰ ταῦτα ἐλθὼν ἡμέρᾳ λέγει πρός με πιθανὸν λόγον· "ἐμοὶ καὶ σοὶ Δίων," ἔφη, "καὶ τὰ Δίωνος [7.346b] ἐκποδὼν ἀπαλλαχθήτω τοῦ περὶ αὐτὰ πολλάκις διαφέρεσθαι· ποιήσω γὰρ διὰ σέ, ἔφη, Δίωνι τάδε.	
+
+On the next day he came to me and made a plausible proposal: "Let us put an end," he said, "to these constant quarrels between you and me about Dion and his affairs. For your sake I will do this for Dion.
+
+Ἀξιῶ ἐκεῖνον ἀπολαβόντα τὰ ἑαυτοῦ οἰκεῖν μὲν ἐν Πελοποννήσῳ, μὴ ὡς φυγάδα δέ, ἀλλ᾽ ὡς αὐτῷ καὶ δεῦρο ἐξὸν ἀποδημεῖν, ὅταν ἐκείνῳ τε καὶ ἐμοὶ καὶ ὑμῖν τοῖς φίλοις κοινῇ συνδοκῇ·	
+
+I require him to take his own property and reside in the Peloponnese, not as an exile, but on the understanding that it is open for him to migrate here, when this step has the joint approval of himself, me, and you his friends; 
+
+ταῦτα δ᾽ εἶναι μὴ ἐπιβουλεύοντος ἐμοί, τούτων δὲ ἐγγυητὰς γίγνεσθαι σέ τε καὶ τοὺς σοὺς οἰκείους καὶ τοὺς ἐνθάδε Δίωνος, ὑμῖν δὲ τὸ βέβαιον ἐκεῖνος παρεχέτω.
+
+and this shall be open to him on the understanding that he does not plot against me. You and your friends and Dion's friends here must be sureties for him in this, and he must give you security.
+
+
+Τὰ χρήματα δὲ ἃ ἂν λάβῃ, [7.346c] κατὰ Πελοπόννησον μὲν καὶ Ἀθήνας κείσθω παρ᾽ οἷστισιν ἂν ὑμῖν δοκῇ, καρπούσθω δὲ δίων, μὴ κύριος δὲ ἄνευ ὑμῶν γιγνέσθω ἀνελέσθαι.	
+
+Let the funds which he receives be deposited in the Peloponnese and at Athens, with persons approved by you, and let Dion enjoy the income from them but have no power to take them out of deposit without the approval of you and your friends.
+
+
+Ἐγὼ γὰρ ἐκείνῳ μὲν οὐ σφόδρα πιστεύω τούτοις χρώμενον ἂν τοῖς χρήμασιν δίκαιον γίγνεσθαι περὶ ἐμέ--οὐ γὰρ ὀλίγα ἔσται--σοὶ δὲ καὶ τοῖς σοῖς μᾶλλον πεπίστευκα.	
+
+For I have no great confidence in him, that, if he has this property at his disposal, he will act justly towards me, for it will be no small amount; but I have more confidence in you and your friends.
+
+Ὅρα δὴ ταῦτα εἴ σοι ἀρέσκει, καὶ μένε ἐπὶ τούτοις τὸν ἐνιαυτὸν τοῦτον, εἰς δὲ ὥρας ἄπιθι [7.346d] λαβὼν τὰ χρήματα ταῦτα· καὶ δίων εὖ οἶδ᾽ ὅτι πολλὴν χάριν ἕξει σοι διαπραξαμένῳ ταῦτα ὑπὲρ ἐκείνου."	
+
+See if this satisfies you; and on these conditions remain for the present year, and at the next season you shall depart taking the property with you. I am quite sure that Dion will be grateful to you, if you accomplish so much on his behalf."
+
+
+Τοῦτον δὴ ἐγὼ τὸν λόγον ἀκούσας ἐδυσχέραινον μέν, ὅμως δὲ βουλευσάμενος ἔφην εἰς τὴν ὑστεραίαν αὐτῷ περὶ τούτων τὰ δόξαντα ἀπαγγελεῖν.	
+(49) When I heard this proposal I was vexed, but after reflection said I would let him know my view of it on the following day.
+
+
+Ταῦτα συνεθέμεθα τότε. Ἐβουλευόμην δὴ τὸ μετὰ ταῦτα κατ᾽ ἐμαυτὸν γενόμενος, μάλα συγκεχυμένος· πρῶτος δ᾽ ἦν μοι τῆς βουλῆς ἡγούμενος ὅδε [7.346e] λόγος.	
+
+We agreed to that effect for the moment, and afterwards when I was by myself I pondered the matter in much distress. The first reflection that came up, leading the way in my self-communing, was this:
+
+
+"Φέρε, εἰ διανοεῖται τούτων μηδὲν ποιεῖν Διονύσιος ὧν φησιν, ἀπελθόντος δ᾽ ἐμοῦ ἐὰν ἐπιστέλλῃ Δίωνι πιθανῶς, αὐτός τε καὶ ἄλλοις πολλοῖς τῶν αὐτοῦ διακελευόμενος, ἃ νῦν πρὸς ἐμὲ λέγει, ὡς αὐτοῦ μὲν ἐθέλοντος, ἐμοῦ δὲ οὐκ ἐθελήσαντος ἃ προυκαλεῖτό με δρᾶν, ἀλλ᾽ ὀλιγωρήσαντος τῶν ἐκείνου τὸ παράπαν πραγμάτων,
+
+"Come suppose that Dionysios intends to do none of the things which he has mentioned, but that, after my departure, he writes a plausible letter to Dion, and orders several of his creatures to write to the same effect, telling him of the proposal which he has now made to me, making out that he was willing to do what he proposed, but that I refused and completely neglected Dion's interests.
+
+
+πρὸς δὲ καὶ τούτοισιν ἔτι μηδ᾽ ἐθέλῃ με ἐκπέμπειν, αὐτὸς τῶν ναυκλήρων [7.347a] μηδενὶ προστάττων, ἐνδείξηται δὲ πᾶσιν ῥᾳδίως ὡς ἀβουλῶν ἐμὲ ἐκπλεῖν, ἆρά τις ἐθελήσει με ἄγειν ναύτην ὁρμώμενον ἐκ τῆς Διονυσίου οἰκίας;"	
+
+Further, suppose that he is not willing to allow my departure, and without giving personal orders to any of the merchants, makes it clear, as he easily can, to all that he not wish me to sail, will anyone consent to take me as a passenger, when I leave the house: of Dionysios?" 
+
+
+--ᾤκουν γὰρ πρὸς τοῖς ἄλλοισιν κακοῖς ἐν τῷ κήπῳ τῷ περὶ τὴν οἰκίαν, ὅθεν οὐδ᾽ ἂν ὁ θυρωρὸς ἤθελέν με ἀφεῖναι μὴ πεμφθείσης αὐτῷ τινος ἐντολῆς παρὰ Διονυσίου--	
+(50) For in addition to my other troubles, I was lodging at that time in the garden which surround his house, from which even the gatekeeper would have refused to let me go, unless an order had been sent to him from Dionysios.
+
+
+"ἂν δὲ περιμείνω τὸν ἐνιαυτόν, ἕξω μὲν Δίωνι ταῦτα ἐπιστέλλειν, ἐν οἷς τ᾽ αὖτ᾽ εἰμὶ καὶ ἃ πράττω·	
+
+"Suppose however that I wait for the year, I shall be able to write word of these things to Dion, stating the position in which I am, and the steps which I am trying to take.
+
+
+καὶ ἐὰν μὲν δὴ ποιῇ τι Διονύσιος ὧν φησιν, οὐ [7.347b] παντάπασιν ἔσται μοι καταγελάστως πεπραγμένα--τάλαντα γὰρ ἴσως ἐστὶν οὐκ ἔλαττον, ἂν ἐκτιμᾷ τις ὀρθῶς, ἑκατὸν ἡ Δίωνος οὐσία--ἂν δ᾽ οὖν γίγνηται τὰ νῦν ὑποφαίνοντα οἷα εἰκὸς αὐτὰ γίγνεσθαι, ἀπορῶ μὲν ὅτι χρήσομαι ἐμαυτῷ, ὅμως δὲ ἀναγκαῖον ἴσως ἐνιαυτόν γ᾽ ἔτι πονῆσαι καὶ ἔργοις ἐλέγξαι πειρᾶσθαι τὰς Διονυσίου μηχανάς."	
+
+
+And if Dionysios does any of the things which he says, I shall have accomplished something that is not altogether to be sneered at; for Dion's property is, at a fair estimate, perhaps not less than a hundred talents. If however the prospect which I see looming in the future takes the course which may reasonably be expected, I know not what I shall do with myself. Still it is perhaps necessary to go on working for a year, and to attempt to prove by actual fact the machinations of Dionysios."
+
+
+Ταῦτά μοι δόξαντα, εἰς τὴν ὑστεραίαν εἶπον πρὸς Διονύσιον ὅτι "δέδοκταί [7.347c] μοι μένειν· ἀξιῶ μήν," ἔφην, "μὴ κύριον ἡγεῖσθαί σε Δίωνος ἐμέ, πέμπειν δὲ μετ᾽ ἐμοῦ σὲ παρ᾽ αὐτὸν γράμματα τὰ νῦν δεδογμένα δηλοῦντα, καὶ ἐρωτᾶν εἴτε ἀρκεῖ ταῦτα αὐτῷ, καὶ εἰ μή, βούλεται δὲ ἄλλ᾽ ἄττα καὶ ἀξιοῖ, καὶ ταῦτα ἐπιστέλλειν ὅτι τάχιστα, σὲ δὲ νεωτερίζειν μηδέν πω τῶν περὶ ἐκεῖνον."	
+(51) Having come to this decision, on the following day I said to Dionysios, "I have decided to remain. But," I continued, "I must ask that you will not regard me as empowered to act for Dion, but will along with me write a letter to him, stating what has now been decided, and enquire whether this course satisfies him. If it does not, and if he has other wishes and demands, he must write particulars of them as soon as possible, and you must not as yet take any hasty step with regard to his interests."
+Ταῦτα ἐρρήθη, ταῦτα συνωμολογήσαμεν, ὡς νῦν εἴρηται σχεδόν.	
+(52) This was what was said and this was the agreement which was made, almost in these words.
+
+
+Ἐξέπλευσεν δὴ τὰ πλοῖα μετὰ τοῦτο, καὶ οὐκέτι μοι δυνατὸν ἦν πλεῖν, ὅτε δή μοι καὶ [7.347d] Διονύσιος ἐμνήσθη λέγων ὅτι τὴν ἡμίσειαν τῆς οὐσίας εἶναι δέοι Δίωνος, τὴν δ᾽ ἡμίσειαν τοῦ ὑέος· 	
+
+Well, after this the trading-ships took their departure, and it was no longer possible for me to take mine, when Dionysios, if you please, addressed me with the remark that half the property must be regarded as belonging to Dion and half to his son.
+
+
+ἔφη δὴ πωλήσειν αὐτήν, πραθείσης δὲ τὰ μὲν ἡμίσεα ἐμοὶ δώσειν ἄγειν, τὰ δ᾽ ἡμίσεα τῷ παιδὶ καταλείψειν αὐτοῦ· τὸ γὰρ δὴ δικαιότατον οὕτως ἔχειν.	
+
+Therefore, he said, he would sell it, and when it was sold would give half to me to take away, and would leave half on the spot for the son. This course, he said, was the most just.
+
+
+Πληγεὶς δ᾽ ἐγὼ τῷ λεχθέντι πάνυ μὲν ᾤμην γελοῖον εἶναι ἀντιλέγειν ἔτι, ὅμως δ᾽ εἶπον ὅτι χρείη τὴν παρὰ Δίωνος ἐπιστολὴν περιμένειν ἡμᾶς καὶ ταῦτα πάλιν αὐτὰ ἐπιστέλλειν.	
+
+This proposal was a blow to me, and I thought it absurd to argue any longer with him; however, I said that we must wait for Dion's letter, and then once more write to tell him of this new proposal.
+
+
+Ὁ δὲ ἑξῆς τούτοις πάνυ νεανικῶς [7.347e] ἐπώλει τὴν οὐσίαν αὐτοῦ πᾶσαν, ὅπῃ τε καὶ ὅπως ἤθελε καὶ οἷστισι, πρὸς ἐμὲ δὲ οὐδὲν ὅλως ἐφθέγγετο περὶ αὐτῶν, καὶ μὴν ὡσαύτως ἐγὼ πρὸς ἐκεῖνον αὖ περὶ τῶν Δίωνος πραγμάτων οὐδὲν ἔτι διελεγόμην· οὐδὲν γὰρ ἔτι πλέον ᾤμην ποιεῖν.	
+
+His next step was the brilliant one of selling the whole of Dion's property, using his own discretion with regard to the manner and terms of the sale and of the purchasers. He spoke not a word to me about the matter from beginning to end, and I followed his example and never talked to him again about Dion's affairs; for I did not think that I could do any good by doing so. 
+
+μέχρι μὲν δὴ τούτων ταύτῃ μοι βεβοηθημένον ἐγεγόνει φιλοσοφίᾳ καὶ φίλοις·	
+
+This is the history so far of my efforts to come to the rescue of philosophy and of my friends.
+
+Τὸ δὲ μετὰ ταῦτα ἐζῶμεν ἐγὼ καὶ [7.348a] Διονύσιος, ἐγὼ μὲν βλέπων ἔξω, καθάπερ ὄρνις ποθῶν ποθεν ἀναπτέσθαι, ὁ δὲ διαμηχανώμενος τίνα τρόπον ἀνασοβήσοι με μηδὲν ἀποδοὺς τῶν Δίωνος· ὅμως δὲ ἔφαμεν ἑταῖροί γε εἶναι πρὸς πᾶσαν Σικελίαν.	
+(53) After this Dionysios and I went on with our daily life, I with my eyes turned abroad like a bird yearning to fly from its perch, and he always devising some new way of scaring me back and of keeping a tight hold on Dion's property. However, we gave out to all Sicily that we were friends.
+
+Τῶν δὴ μισθοφόρων τοὺς πρεσβυτέρους Διονύσιος ἐπεχείρησεν ὀλιγομισθοτέρους ποιεῖν παρὰ τὰ τοῦ πατρὸς ἔθη, θυμωθέντες δὲ οἱ στρατιῶται συνελέγησαν ἁθρόοι καὶ οὐκ ἔφασαν ἐπιτρέψειν.	
+
+Dionysios, now deserting the policy of his father, attempted to lower the pay of the older members of his body guard. The soldiers were furious, and, assembling in great numbers, declared that they would not submit.
+
+
+Ὁ δ᾽ ἐπεχείρει [7.348b] βιάζεσθαι κλείσας τὰς τῆς ἀκροπόλεως πύλας, οἱ δ᾽ ἐφέροντο εὐθὺς πρὸς τὰ τείχη, παιῶνά τινα ἀναβοήσαντες βάρβαρον καὶ πολεμικόν· οὗ δὴ περιδεὴς Διονύσιος γενόμενος ἅπαντα συνεχώρησεν καὶ ἔτι πλείω τοῖς τότε συλλεχθεῖσι τῶν πελταστῶν.	
+
+He attempted to use force to them, shutting the gates of the acropolis; but they charged straight for the walls, yelling out an unintelligible and ferocious war cry. Dionysios took fright and conceded all their demands and more to the peltasts then assembled. 
+
+
+Λόγος δή τις ταχὺ διῆλθεν ὡς Ἡρακλείδης αἴτιος εἴη γεγονὼς πάντων τούτων·	
+(54) A rumour soon spread that Heracleides had been the cause of all the trouble.
+
+ὃν ἀκούσας ὁ μὲν Ἡρακλείδης ἐκποδὼν αὑτὸν ἔσχεν ἀφανῆ, Διονύσιος [7.348c] δὲ ἐζήτει λαβεῖν, ἀπορῶν δέ, Θεοδότην μεταπεμψάμενος εἰς τὸν κῆπον--ἔτυχον δ᾽ ἐν τῷ κήπῳ καὶ ἐγὼ τότε περιπατῶν--τὰ μὲν οὖν ἄλλα οὔτ᾽ οἶδα οὔτ᾽ ἤκουον διαλεγομένων, ἃ δὲ ἐναντίον εἶπεν Θεοδότης ἐμοῦ πρὸς Διονύσιον, οἶδά τε καὶ μέμνημαι.	
+
+Hearing this, Heracleides kept out of the way. Dionysios was trying to get hold of him, and being unable to do so, sent for Theodotes to come to him in his garden. It happened that I was walking in the garden at the same time. I neither know nor did I hear the rest of what passed between them, but what Theodotes said to Dionysios in my presence I know and remember.
+
+
+"Πλάτων γάρ," ἔφη, "Διονύσιον ἐγὼ πείθω τουτονί, ἐὰν ἐγὼ γένωμαι δεῦρο Ἡρακλείδην κομίσαι δυνατὸς ἡμῖν εἰς λόγους περὶ τῶν ἐγκλημάτων αὐτῷ τῶν νῦν γεγονότων, ἂν ἄρα μὴ δόξῃ δεῖν αὐτὸν οἰκεῖν ἐν Σικελίᾳ, τόν τε ὑὸν λαβόντα καὶ τὴν γυναῖκα ἀξιῶ εἰς [7.348d] Πελοπόννησον ἀποπλεῖν, οἰκεῖν τε βλάπτοντα μηδὲν Διονύσιον ἐκεῖ, καρπούμενον δὲ τὰ ἑαυτοῦ.	
+
+"Plato," he said, "I am trying to convince our friend Dionysios that, if I am able to bring Heracleides before us to defend himself on the charges which have been made against him, and if he decides that Heracleides must no longer live in Sicily, he should be allowed (this is my point) to take his son and wife and sail to the Peloponnese and reside there, taking no action there against Dionysios and enjoying the income of his property.
+
+Μετεπεμψάμην μὲν οὖν καὶ πρότερον αὐτόν, μεταπέμψομαι δὲ καὶ νῦν, ἄντ᾽ οὖν ἀπὸ τῆς προτέρας μεταπομπῆς ἄντε καὶ ἀπὸ τῆς νῦν ὑπακούσῃ μοι· Διονύσιον δὲ ἀξιῶ καὶ δέομαι, ἄν τις ἐντυγχάνῃ Ἡρακλείδῃ ἐάντ᾽ ἐν ἀγρῷ ἐάντ᾽ ἐνθάδε, μηδὲν ἄλλο [7.348e] αὐτῷ φλαῦρον γίγνεσθαι, μεταστῆναι δ᾽ ἐκ τῆς χώρας, ἕως ἂν ἄλλο τι Διονυσίῳ δόξῃ.	
+
+I have already sent for him and will send for him again; and if he comes in obedience either to my former message or to this one-well and good. But I beg and entreat Dionysios that, if anyone finds Heracleides either in the country or here, no harm shall come to him, but that he may retire from the country till Dionysios comes to some other decision.
+
+Ταῦτα," ἔφη, "συγχωρεῖς;" λέγων πρὸς τὸν Διονύσιον. "Συγχωρῶ· μηδ᾽ ἂν πρὸς τῇ σῇ," ἔφη, "φανῇ οἰκίᾳ, πείσεσθαι φλαῦρον μηδὲν παρὰ τὰ νῦν εἰρημένα."
+
+Do you agree to this?" he added, addressing Dionysios. "I agree," he replied, "that even if he is found at your house, no harm shall be done to him beyond what has now been said." 
+
+
+Τῇ δὴ μετὰ ταύτην τὴν ἡμέραν δείλης Εὐρύβιος καὶ Θεοδότης προσηλθέτην μοι σπουδῇ τεθορυβημένω θαυμαστῶς, καὶ Θεοδότης λέγει, "Πλάτων," ἔφη, "παρῆσθα χθὲς οἷς περὶ Ἡρακλείδου Διονύσιος ὡμολόγει πρὸς ἐμὲ καὶ σέ;" 	
+(55) On the following day Eurybios and Theodotes came to me in the evening, both greatly disturbed. Theodotes said, "Plato, you were present yesterday during the promises made by Dionysios to me and to you about Heracleides?"
+
+"πῶς δὲ οὔκ;" ἔφην.	
+
+"Certainly," I replied.
+
+"Νῦν τοίνυν," ἦ δ᾽ ὅς, "περιθέουσιν πελτασταὶ λαβεῖν Ἡρακλείδην ζητοῦντες, ὁ δὲ εἶναί πῃ ταύτῃ κινδυνεύει· ἀλλ᾽ ἡμῖν," ἔφη, [7.349a] "συνακολούθησον πρὸς Διονύσιον ἁπάσῃ μηχανῇ."	
+
+"Well," he continued, "at this moment peltasts are scouring the country seeking to arrest Heracleides; and he must be somewhere in this neighbourhood. For Heaven's sake come with us to Dionysios."
+
+ᾨχόμεθα οὖν καὶ εἰσήλθομεν παρ᾽ αὐτόν, καὶ τὼ μὲν ἑστάτην σιγῇ δακρύοντε, ἐγὼ δὲ εἶπον· "οἵδε πεφόβηνται μή τι σὺ παρὰ τὰ χθὲς ὡμολογημένα ποιήσῃς περὶ Ἡρακλείδην νεώτερον· δοκεῖ γάρ μοι ταύτῃ πῃ γεγονέναι φανερὸς ἀποτετραμμένος."	
+
+So we went and stood in the presence of Dionysios; and those two stood shedding silent tears, while I said: "These men are afraid that you may take strong measures with regard to Heracleides contrary to what was agreed yesterday. For it seems that he has returned and has been seen somewhere about here."
+
+
+Ὁ δὲ ἀκούσας ἀνεφλέχθη τε καὶ παντοδαπὰ χρώματα ἧκεν, οἷ᾽ ἂν θυμούμενος ἀφείη· προσπεσὼν δ᾽ αὐτῷ [7.349b] ὁ Θεοδότης, λαβόμενος τῆς χειρὸς ἐδάκρυσέν τε καὶ ἱκέτευεν μηδὲν τοιοῦτον ποιεῖν, ὑπολαβὼν δ᾽ ἐγὼ παραμυθούμενος, "θάρρει, Θεοδότα," ἔφην· "οὐ γὰρ τολμήσει Διονύσιος παρὰ τὰ χθὲς ὡμολογημένα ἄλλα ποτὲ δρᾶν."	
+
+On hearing this he blazed up and turned all colours, as a man would in a rage. Theodotes, falling before him in tears, took his hand and entreated him to do nothing of the sort. But I broke in and tried to encourage him, saying: "Be of good cheer, Theodotes; Dionysios will not have the heart to take any fresh step contrary to his promises of yesterday."
+
+
+Καὶ ὃς ἐμβλέψας μοι καὶ μάλα τυραννικῶς, "σοί," ἔφη, "ἐγὼ οὔτε τι σμικρὸν οὔτε μέγα ὡμολόγησα."	
+
+Fixing his eye on me, and assuming his most autocratic air he said, "To you I promised nothing small or great."
+
+
+"Νὴ τοὺς θεούς," ἦν δ᾽ ἐγώ, "σύ γε, ταῦτα ἃ σοῦ νῦν οὗτος δεῖται μὴ ποιεῖν·" καὶ εἰπὼν ταῦτα ἀποστρεφόμενος ᾠχόμην ἔξω.	
+
+"By the gods," I said, "you did promise that forbearance for which our friend here now appeals." With these words I turned away and went out.
+Τὸ μετὰ [7.349c] ταῦτα ὁ μὲν ἐκυνήγει τὸν Ἡρακλείδην, Θεοδότης δὲ ἀγγέλους πέμπων Ἡρακλείδῃ φεύγειν διεκελεύετο.	
+
+After this he continued the hunt for Heracleides, and Theodotes, sending messages, urged Heracleides to take flight.
+
+
+Ὁ δὲ ἐκπέμψας Τεισίαν καὶ πελταστὰς διώκειν ἐκέλευε· φθάνει δέ, ὡς ἐλέγετο, Ἡρακλείδης εἰς τὴν Καρχηδονίων ἐπικράτειαν ἐκφυγὼν ἡμέρας σμικρῷ τινι μέρει.	
+
+Dionysios sent out Teisias and some peltasts with orders to pursue him. But Heracleides, as it was said, was just in time, by a small fraction of a day, in making his escape into Carthaginian territory.
+
+
+Τὸ δὴ μετὰ τοῦτο ἡ πάλαι ἐπιβουλὴ Διονυσίῳ τοῦ μὴ ἀποδοῦναι τὰ Δίωνος χρήματα ἔδοξεν ἔχθρας λόγον ἔχειν ἂν πρός με πιθανόν, καὶ πρῶτον μὲν ἐκ τῆς ἀκροπόλεως ἐκπέμπει με, εὑρὼν[7.349d] πρόφασιν ὡς τὰς γυναῖκας ἐν τῷ κήπῳ, ἐν ᾧ κατῴκουν ἐγώ, δέοι θῦσαι θυσίαν τινὰ δεχήμερον· 	
+(56) After this Dionysios thought that his long cherished scheme not to restore Dion's property would give him a plausible excuse for hostility towards me; and first of all he sent me out of the acropolis, finding a pretext that the women were obliged to hold a sacrificial service for ten days in the garden in which I had my lodging.
+
+ἔξω δή με παρ᾽ Ἀρχεδήμῳ προσέταττεν τὸν χρόνον τοῦτον μεῖναι.	
+
+He therefore ordered me to stay outside in the house of Archedemos during this period.
+
+Ὄντος δ᾽ ἐμοῦ ἐκεῖ, Θεοδότης μεταπεμψάμενός με πολλὰ περὶ τῶν τότε πραχθέντων ἠγανάκτει καὶ ἐμέμφετο Διονυσίῳ· 	
+
+While I was there, Theodotes sent for me and made a great outpouring of indignation at these occurrences, throwing the blame on Dionysios. 
+
+ὁ δ᾽ ἀκούσας ὅτι παρὰ Θεοδότην εἴην εἰσεληλυθώς, πρόφασιν [7.349e] αὖ ταύτην ἄλλην τῆς πρὸς ἐμὲ διαφορᾶς ποιούμενος, ἀδελφὴν τῆς πρόσθεν, πέμψας τινὰ ἠρώτα με εἰ συγγιγνοίμην ὄντως μεταπεμψαμένου με Θεοδότου.	
+
+Hearing that I had been to see Theodotes he regarded this, as another excuse, sister to the previous one, for quarrelling with me. Sending a messenger he enquired if I had really been conferring with Theodotes on his invitation
+
+Κἀγώ, "παντάπασιν," ἔφην·	
+
+"Certainly," I replied,
+
+ὁ δέ, "ἐκέλευε τοίνυν," ἔφη, "σοὶ φράζειν ὅτι καλῶς οὐδαμῇ ποιεῖς Δίωνα καὶ τοὺς Δίωνος φίλους ἀεὶ περὶ πλείονος αὐτοῦ ποιούμενος."	
+
+"Well," continued the messenger, "he ordered me to tell you that you are not acting at all well in preferring always Dion and Dion's friends to him."
+Ταῦτ᾽ ἐρρήθη, καὶ οὐκέτι μετεπέμψατό με εἰς τὴν οἴκησιν πάλιν, ὡς ἤδη σαφῶς Θεοδότου μὲν ὄντος μου καὶ Ἡρακλείδου φίλου, αὐτοῦ δ᾽ ἐχθροῦ, καὶ οὐκ εὐνοεῖν ᾤετό με, ὅτι Δίωνι τὰ χρήματα ἔρρει παντελῶς.	
+
+And he did not send for me to return to his house, as though it were now clear that Theodotes and Heracleides were my friends, and he my enemy. He also thought that I had no kind feelings towards him because the property of Dion was now entirely done for.
+
+
+[7.350a] ᾬκουν δὴ τὸ μετὰ τοῦτο ἔξω τῆς ἀκροπόλεως ἐν τοῖς μισθοφόροις·	
+(58) After this I resided outside the acropolis among the mercenaries.
+
+
+προσιόντες δέ μοι ἄλλοι τε καὶ οἱ τῶν ὑπηρεσιῶν ὄντες Ἀθήνηθεν, ἐμοὶ πολῖται, ἀπήγγελλον ὅτι διαβεβλημένος εἴην ἐν τοῖς πελτασταῖς καί μοί τινες ἀπειλοῖεν, εἴ που λήψονταί με, διαφθερεῖν.	
+
+Various people then came to me, among them those of the ships' crews who came from Athens, my own fellow citizens, and reported that I was evil spoken of among the peltasts, and that some of them were threatening to make an end of me, if they could ket hold of me 
+
+
+Μηχανῶμαι δή τινα τοιάνδε σωτηρίαν.	
+
+Accordingly I devised the following plan for my safety.
+
+Πέμπω παρ᾽ Ἀρχύτην καὶ τοὺς ἄλλους φίλους εἰς Τάραντα, φράζων ἐν οἷς ὢν τυγχάνω·	
+(59) I sent to Archytes and my other friends in Taras, telling them the plight I was in.
+
+οἱ δὲ πρόφασίν τινα πρεσβείας πορισάμενοι παρὰ τῆς πόλεως πέμπουσιν [7.350b] τριακόντορόν τε καὶ Λαμίσκον αὑτῶν ἕνα, ὃς ἐλθὼν ἐδεῖτο Διονυσίου περὶ ἐμοῦ, λέγων ὅτι βουλοίμην ἀπιέναι, καὶ μηδαμῶς ἄλλως ποιεῖν.	
+
+Finding some excuse for an embassy from their city, they sent a thirty-oared galley with Lamiscos, one of themselves, who came and entreated Dionysios about me, saying that I wanted to go, and that he should on no account stand in my way.
+
+Ὁ δὲ συνωμολόγησεν καὶ ἀπέπεμψεν ἐφόδια δούς, τῶν Δίωνος δὲ χρημάτων οὔτ᾽ ἐγὼ ἔτι ἀπῄτουν οὔτε τις ἀπέδωκεν.	
+
+He consented and allowed me to go, giving me money for the journey. But for Dion's property I made no further request, nor was any of it restored.
+
+
+Ἐλθὼν δὲ εἰς Πελοπόννησον εἰς Ὀλυμπίαν, Δίωνα καταλαβὼν θεωροῦντα, ἤγγελλον τὰ γεγονότα· 	
+(60) I made my way to the Peloponnese to Olympia, where I found Dion a spectator at the Games, and told him what had occurred.
+
+
+ὁ δὲ τὸν Δία ἐπιμαρτυράμενος εὐθὺς παρήγγελλεν ἐμοὶ καὶ τοῖς ἐμοῖς [7.350c] οἰκείοις καὶ φίλοις παρασκευάζεσθαι τιμωρεῖσθαι Διονύσιον, ἡμᾶς μὲν ξεναπατίας χάριν--οὕτω γὰρ ἔλεγέν τε καὶ ἐνόει-- αὐτὸν δ᾽ ἐκβολῆς ἀδίκου καὶ φυγῆς.	
+
+Calling Zeus to be his witness, he at once urged me with my relatives and friends to make preparations for taking vengeance on Dionysios-our ground for action being the breach of faith to a guest-so he put it and regarded it, while his own was his unjust expulsion and banishment.
+
+Ἀκούσας δ᾽ ἐγὼ τοὺς μὲν φίλους παρακαλεῖν αὐτὸν ἐκέλευον, εἰ βούλοιντο·	
+
+Hearing this, I told him that he might call my friends to his aid, if they wished to go; 
+
+"ἐμὲ δ᾽" εἶπον ὅτι "σὺ μετὰ τῶν ἄλλων βίᾳ τινὰ τρόπον σύσσιτον καὶ συνέστιον καὶ κοινωνὸν ἱερῶν Διονυσίῳ ἐποίησας, ὃς ἴσως ἡγεῖτο διαβαλλόντων πολλῶν ἐπιβουλεύειν ἐμὲ μετὰ σοῦ ἑαυτῷ καὶ τῇ τυραννίδι, καὶ ὅμως οὐκ ἀπέκτεινεν, [7.350d] ᾐδέσθη δέ.	
+
+"But for myself," I continued, "you and others in a way forced me to be the sharer of Dionysios' table and hearth and his associate in the acts of religion. He probably believed the current slanders, that I was plotting with you against him and his despotic rule; yet feelings of scruple prevailed with him, and he spared my life.
+
+
+Οὔτ᾽ οὖν ἡλικίαν ἔχω συμπολεμεῖν ἔτι σχεδὸν οὐδενί, κοινός τε ὑμῖν εἰμι, ἄν ποτέ τι πρὸς ἀλλήλους δεηθέντες φιλίας ἀγαθόν τι ποιεῖν βουληθῆτε· κακὰ δὲ ἕως ἂν ἐπιθυμῆτε, ἄλλους παρακαλεῖτε."	
+
+Again, I am hardly of the age for being comrade in arms to anyone; also I stand as a neutral between you, if ever you desire friendship and wish to benefit one another; so long as you aim at injuring one another, call others to your aid."
+
+Ταῦτα εἶπον μεμισηκὼς τὴν περὶ Σικελίαν πλάνην καὶ ἀτυχίαν· ἀπειθοῦντες δὲ καὶ οὐ πειθόμενοι ταῖς ὑπ᾽ ἐμοῦ διαλλάξεσιν πάντων τῶν νῦν γεγονότων κακῶν αὐτοὶ αἴτιοι ἐγένοντο αὑτοῖς, ὧν, εἰ Διονύσιος [7.350e] ἀπέδωκεν τὰ χρήματα Δίωνι ἢ καὶ παντάπασι κατηλλάγη, οὐκ ἄν ποτε ἐγένετο οὐδέν, ὅσα γε δὴ τἀνθρώπινα--Δίωνα γὰρ ἐγὼ καὶ τῷ βούλεσθαι καὶ τῷ δύνασθαι κατεῖχον ἂν ῥᾳδίως--νῦν δὲ ὁρμήσαντες ἐπ᾽ ἀλλήλους κακῶν πάντα ἐμπεπλήκασιν.	
+
+This I said, because I was disgusted with my misguided journeyings to Sicily and my ill-fortune there. But they disobeyed me and would not listen to my attempts at reconciliation, and so brought on their own heads all the evils which have since taken place. For if Dionysios had restored to Dion his property or been reconciled with him on any terms, none of these things would have happened, so far as human foresight can foretell. Dion would have easily been kept in check by my wishes and influence. But now, rushing upon one another, they have caused universal disaster. 
+
+
+[7.351a] Καίτοι τήν γε αὐτὴν Δίων εἶχεν βούλησιν ἥνπερ ἂν ἐγὼ φαίην δεῖν ἐμὲ καὶ ἄλλον, ὅστις μέτριος, περί τε τῆς αὑτοῦ δυνάμεως καὶ φίλων καὶ περὶ πόλεως τῆς αὑτοῦ διανοοῖτ᾽ ἂν εὐεργετῶν ἐν δυνάμει καὶ τιμαῖσιν γενέσθαι τὰ μέγιστα ἐν ταῖς μεγίσταις.	
+(61) Dion's aspiration however was the same that I should say my own or that of any other right-minded man ought to be. With regard to his own power, his friends and his country the ideal of such a man would be to win the greatest power and honour by rendering the greatest services.
+
+Ἔστιν δὲ οὐκ ἄν τις πλούσιον ἑαυτὸν ποιήσῃ καὶ ἑταίρους καὶ πόλιν, ἐπιβουλεύσας καὶ συνωμότας συναγαγών, πένης ὢν καὶ ἑαυτοῦ μὴ κρατῶν, ὑπὸ δειλίας τῆς πρὸς τὰς ἡδονὰς ἡττημένος, [7.351b] εἶτα τοὺς τὰς οὐσίας κεκτημένους ἀποκτείνας, ἐχθροὺς καλῶν τούτους, διαφορῇ τὰ τούτων χρήματα καὶ τοῖς συνεργοῖς τε καὶ ἑταίροις παρακελεύηται ὅπως μηδεὶς αὐτῷ ἐγκαλεῖ πένης φάσκων εἶναι·	
+
+And this end is not attained if a man gets riches for himself, his supporters and his country, by forming plots and getting together conspirators, being all the while a poor creature, not master of himself, overcome by the cowardice which fears to fight against pleasures; nor is it attained if he goes on to kill the men of substance, whom he speaks of as the enemy, and to plunder their possessions, and invites his confederates and supporters to do the same, with the object that no one shall say that it is his fault, if he complains of being poor.
+
+ταὐτὸν δὲ καὶ τὴν πόλιν ἂν οὕτω τις εὐεργετῶν τιμᾶται ὑπ᾽ αὐτῆς, τοῖς πολλοῖς τὰ τῶν ὀλίγων ὑπὸ ψηφισμάτων διανέμων, ἢ μεγάλης προεστὼς πόλεως καὶ πολλῶν ἀρχούσης ἐλαττόνων, τῇ ἑαυτοῦ πόλει τὰ τῶν σμικροτέρων [7.351c] χρήματα διανέμῃ μὴ κατὰ δίκην.
+
+The same is true if anyone renders services of this kind to the State and receives honours from her for distributing by decrees the property of the few among the many-or if, being in charge the affairs of a great State which rules over many small ones, he unjustly appropriates to his own State the possessions of the small ones.
+
+Οὕτω μὲν γὰρ οὔτε Δίων οὔτε ἄλλος πετὲ οὐδεὶς ἐπὶ δύναμιν ἑκὼν εἶσιν ἀλιτηριώδη ἑαυτῷ τε καὶ γένει εἰς τὸν ἀεὶ χρόνον, ἐπὶ πολιτείαν δὲ καὶ νόμων κατασκευὴν τῶν δικαιοτάτων τε καὶ ἀρίστων, οὔ τι δι᾽ ὀλιγίστων θανάτων καὶ φόνων γιγνομένην·	
+
+For neither a Dion nor any other man will, with his eyes open, make his way by steps like these to a power which will be fraught with destruction to himself and his descendants for all time; but he will advance towards constitutional government and the framing of the justest and best laws, reaching these ends without executions and murders even on the smallest scale.
+
+ἃ δὴ δίων νῦν πράττων, προτιμήσας τὸ πάσχειν ἀνόσια τοῦ δρᾶσαι πρότερον, διευλαβούμενος δὲ μὴ παθεῖν, ὅμως ἔπταισεν ἐπ᾽ ἄκρον ἐλθὼν τοῦ περιγενέσθαι τῶν [7.351d] ἐχθρῶν, θαυμαστὸν παθὼν οὐδέν.	
+(62) This course Dion actually followed, thinking it preferable to suffer iniquitous deeds rather than to do them; but, while taking precautions against them, he nevertheless, when he had reached the climax of victory over his enemies, took a false step and fell, a catastrophe not at all surprising.
+
+
+Ὅσιος γὰρ ἄνθρωπος ἀνοσίων πέρι, σώφρων τε καὶ ἔμφρων, τὸ μὲν ὅλον οὐκ ἄν ποτε διαψευσθείη τῆς ψυχῆς τῶν τοιούτων πέρι, κυβερνήτου δὲ ἀγαθοῦ πάθος ἂν ἴσως οὐ θαυμαστὸν εἰ πάθοι, ὃν χειμὼν μὲν ἐσόμενος οὐκ ἂν πάνυ λάθοι, χειμώνων δὲ ἐξαίσιον καὶ ἀπροσδόκητον μέγεθος λάθοι τ᾽ ἂν καὶ λαθὸν κατακλύσειεν βίᾳ.	
+
+For a man of piety, temperance and wisdom, when dealing with the impious, would not be entirely blind to the character of such men, but it would perhaps not be surprising if he suffered the catastrophe that might befall a good ship's captain, who would not be entirely unaware of the approach of a storm, but might be unaware of its extraordinary and startling violence, and might therefore be overwhelmed by its force. 
+
+Ταὐτὸν δὴ καὶ Δίωνα ἔσφηλεν· κακοὶ μὲν γὰρ ὄντες αὐτὸν σφόδρα οὐκ ἔλαθον οἱ σφήλαντες, ὅσον δὲ ὕψος ἀμαθίας [7.351e] εἶχον καὶ τῆς ἄλλης μοχθηρίας τε καὶ λαιμαργίας, ἔλαθον, ᾧ δὴ σφαλεὶς κεῖται, Σικελίαν πένθει περιβαλὼν μυρίῳ.	
+
+The same thing caused Dion's downfall. For he was not unaware that his assailants were thoroughly bad men, but he was unaware how high a pitch of infatuation and of general wickedness and greed they had reached. This was the cause of his downfall, which has involved Sicily in countless sorrows. 
+
+[7.352a] Τὰ δὴ μετὰ τὰ νῦν ῥηθέντα ἃ συμβουλεύω, σχεδὸν εἴρηταί τέ μοι καὶ εἰρήσθω· ὧν δ᾽ ἐπανέλαβον ἕνεκα τὴν εἰς Σικελίαν ἄφιξιν τὴν δευτέραν, ἀναγκαῖον εἶναι ἔδοξέ μοι ῥηθῆναι δεῖν διὰ τὴν ἀτοπίαν καὶ ἀλογίαν τῶν γενομένων.	
+(63) As to the steps which should be taken after the events which I have now related, my advice has been given pretty fully and may be regarded as finished; and if you ask my reasons for recounting the story of my second journey to Sicily, it seemed to me essential that an account of it must be given because of the strange and paradoxical character of the incidents.
+
+Εἰ δ᾽ ἄρα τινὶ νῦν ῥηθέντα εὐλογώτερα ἐφάνη καὶ προφάσεις πρὸς τὰ γενόμενα ἱκανὰς ἔχειν ἔδοξέν τῳ, μετρίως ἂν ἡμῖν καὶ ἱκανῶς εἴη τὰ νῦν εἰρημένα.	
+
+If in this present account of them they appear to anyone more intelligible, and seem to anyone to show sufficient grounds in view of the circumstances, the present statement is adequate and not too lengthy. 
